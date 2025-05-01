@@ -1,0 +1,75 @@
+{"problem_id": "115A1", "prediction": "a: 大動脈瘤\n\n(説明:強皮症腎は､強皮症(全身性硬化症)に合併する腎疾患であり､特に大動脈瘤や解離を合併することがあります｡他の選択肢は､強皮症腎と直接的な関連はありますが､質問の｢強皮症腎の患者で認められるのはどれか｣という問いに対しては､大動脈瘤が最も適切な回答となります｡)", "explanation": "a: 大動脈瘤\n\n(説明:強皮症腎は､強皮症(全身性硬化症)に合併する腎疾患であり､特に大動脈瘤や解離を合併することがあります｡他の選択肢は､強皮症腎と直接的な関連はありますが､質問の｢強皮症腎の患者で認められるのはどれか｣という問いに対しては､大動脈瘤が最も適切な回答となります｡)"}
+{"problem_id": "115A2", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A3", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A4", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A6", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A7", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A8", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A9", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A10", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A11", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "115A12", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "115A13", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "115A14", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "115A15", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "115A16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A17", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A18", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A19", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A20", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A21", "prediction": "a: 膿疱性乾癬\n\n膿疱性乾癬は､尋常性乾癬の重症型であり､発熱や汎発性の紅皮症､小膿疱が多発する疾患です｡血液所見では､白血球増加と好中球優位､crp高値を認め､皮膚生検ではkogoj海綿状膿疱を認めます｡提示された症状や検査所見､皮膚写真から､膿疱性乾癬が最も考えられます｡\n\nb: 伝染性膿痴疹(impetigo)は､", "explanation": "a: 膿疱性乾癬\n\n膿疱性乾癬は､尋常性乾癬の重症型であり､発熱や汎発性の紅皮症､小膿疱が多発する疾患です｡血液所見では､白血球増加と好中球優位､crp高値を認め､皮膚生検ではkogoj海綿状膿疱を認めます｡提示された症状や検査所見､皮膚写真から､膿疱性乾癬が最も考えられます｡\n\nb: 伝染性膿痴疹(impetigo)は､"}
+{"problem_id": "115A22", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A23", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A25", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A27", "prediction": "d: 肺血栓塞栓症\n\n(説明:心ｴｺｰ図で肺動脈の血流速度の上昇や狭窄が認められ､肺血栓塞栓症が疑われる｡また､bnp高値､crp上昇､収縮期血圧の吸気時低下､胸部ｴｯｸｽ線写真でctr拡大､肺野に異常を認めないことなども､肺血栓塞栓症の可能性を支持する｡他の選択肢は､症状や検査ﾃﾞｰﾀから直接的な関連性が乏しい｡)", "explanation": "d: 肺血栓塞栓症\n\n(説明:心ｴｺｰ図で肺動脈の血流速度の上昇や狭窄が認められ､肺血栓塞栓症が疑われる｡また､bnp高値､crp上昇､収縮期血圧の吸気時低下､胸部ｴｯｸｽ線写真でctr拡大､肺野に異常を認めないことなども､肺血栓塞栓症の可能性を支持する｡他の選択肢は､症状や検査ﾃﾞｰﾀから直接的な関連性が乏しい｡)"}
+{"problem_id": "115A28", "prediction": "この問題では､具体的な内視鏡像の画像が提供されていないため､正確な回答を出すことはできません｡しかし､問題文から推測できる情報に基づいて回答すると､この患者の症状や既往歴､検査結果から､声帯の変性や炎症､または声帯の動きの異常が疑われます｡そのため､声帯に変性や浮腫､または動きの異常を示す内視鏡像(例えば､声帯の肥厚や不動性､声帯間の開大など)が考えられるため､a~eのいずれの選択肢も完全には適切ではない可能性があります｡\n\nただし､もし問題文に特定の内視鏡像の特徴が提示されていた場合､その特徴に基づいて適切な", "explanation": "この問題では､具体的な内視鏡像の画像が提供されていないため､正確な回答を出すことはできません｡しかし､問題文から推測できる情報に基づいて回答すると､この患者の症状や既往歴､検査結果から､声帯の変性や炎症､または声帯の動きの異常が疑われます｡そのため､声帯に変性や浮腫､または動きの異常を示す内視鏡像(例えば､声帯の肥厚や不動性､声帯間の開大など)が考えられるため､a~eのいずれの選択肢も完全には適切ではない可能性があります｡\n\nただし､もし問題文に特定の内視鏡像の特徴が提示されていた場合､その特徴に基づいて適切な"}
+{"problem_id": "115A29", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A30", "prediction": "b: 陰茎癌\n\n(説明:血液所見や血液生化学所見に特徴的な異常は認めず､scc高値とcrp上昇がみられます｡患部の写真とmri画像から､亀頭部と鼠径部に腫瘤が認められ､陰茎癌が疑われます｡梅毒や尖圭ｺﾝｼﾞﾛｰﾏはscc高値を示さず､尿道癌は鼠径部の腫瘤を伴わないことが多いため､乳房外paget病は皮膚症状を伴うことが多いため､陰茎癌が最も考えられます｡)", "explanation": "b: 陰茎癌\n\n(説明:血液所見や血液生化学所見に特徴的な異常は認めず､scc高値とcrp上昇がみられます｡患部の写真とmri画像から､亀頭部と鼠径部に腫瘤が認められ､陰茎癌が疑われます｡梅毒や尖圭ｺﾝｼﾞﾛｰﾏはscc高値を示さず､尿道癌は鼠径部の腫瘤を伴わないことが多いため､乳房外paget病は皮膚症状を伴うことが多いため､陰茎癌が最も考えられます｡)"}
+{"problem_id": "115A31", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A32", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A33", "prediction": "a: 胚細胞腫瘍\n\n(説明:hcg値が低値であること､cea､ca19-9､ca125､afpの上昇があること､および骨盤部mriで可動性不良な腫瘤が認められることから､胚細胞腫瘍が最も考えられる疾患です｡特に､卵黄嚢腫瘍や絨毛癌などの胚細胞腫瘍が疑われます｡)", "explanation": "a: 胚細胞腫瘍\n\n(説明:hcg値が低値であること､cea､ca19-9､ca125､afpの上昇があること､および骨盤部mriで可動性不良な腫瘤が認められることから､胚細胞腫瘍が最も考えられる疾患です｡特に､卵黄嚢腫瘍や絨毛癌などの胚細胞腫瘍が疑われます｡)"}
+{"problem_id": "115A34", "prediction": "b: 急性動脈閉塞\n\nこの患者さんの症状､身体所見､検査ﾃﾞｰﾀから､左上肢の蒼白､橈骨動脈の拍動微弱､血圧の左右差､そしてfdpやdﾀﾞｲﾏｰの上昇は急性動脈閉塞を示唆しています｡また､心房細動の既往があり､血栓塞栓症のﾘｽｸがあります｡これらの情報を総合すると､急性動脈閉塞が最も考えられる診断です｡\n\na: 脳梗塞 - 脈拍の不整､心尖部の拡張期雑音､bnpの上昇は脳梗塞よりも急性心筋梗塞や心不全を示唆する所見です｡\n\nc: 手", "explanation": "b: 急性動脈閉塞\n\nこの患者さんの症状､身体所見､検査ﾃﾞｰﾀから､左上肢の蒼白､橈骨動脈の拍動微弱､血圧の左右差､そしてfdpやdﾀﾞｲﾏｰの上昇は急性動脈閉塞を示唆しています｡また､心房細動の既往があり､血栓塞栓症のﾘｽｸがあります｡これらの情報を総合すると､急性動脈閉塞が最も考えられる診断です｡\n\na: 脳梗塞 - 脈拍の不整､心尖部の拡張期雑音､bnpの上昇は脳梗塞よりも急性心筋梗塞や心不全を示唆する所見です｡\n\nc: 手"}
+{"problem_id": "115A35", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A36", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A37", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A38", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A39", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A40", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A41", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A42", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A43", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A44", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A46", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A47", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A48", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A49", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A50", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A51", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A52", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A53", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A54", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A55", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A56", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A57", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A58", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A59", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A60", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A61", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A62", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A63", "prediction": "a: 術後出血\n\nﾄﾞﾚｰﾝ留置により早期発見できるのは､術後出血です｡ﾄﾞﾚｰﾝは､手術によって体内に溜まった血液や滲出液を体外に排出するために留置されます｡そのため､ﾄﾞﾚｰﾝからの排液量や性状を監視することで､術後出血の有無や程度を早期に確認することができます｡\n\nその他の選択肢について説明します｡\n\n* b: 腸管癒着 - ﾄﾞﾚｰﾝ留置は腸管癒着の予防や早期発見には直接関係しません｡ただし､術後の腸管運動や癒着の有無は､ﾄﾞﾚｰﾝからの排液内容や腹部症状から推測", "explanation": "a: 術後出血\n\nﾄﾞﾚｰﾝ留置により早期発見できるのは､術後出血です｡ﾄﾞﾚｰﾝは､手術によって体内に溜まった血液や滲出液を体外に排出するために留置されます｡そのため､ﾄﾞﾚｰﾝからの排液量や性状を監視することで､術後出血の有無や程度を早期に確認することができます｡\n\nその他の選択肢について説明します｡\n\n* b: 腸管癒着 - ﾄﾞﾚｰﾝ留置は腸管癒着の予防や早期発見には直接関係しません｡ただし､術後の腸管運動や癒着の有無は､ﾄﾞﾚｰﾝからの排液内容や腹部症状から推測"}
+{"problem_id": "115A64", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A65", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A66", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "115A67", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "115A68", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "115A69", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "115A70", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "115A71", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "115A72", "prediction": "e,d", "explanation": "e,d"}
+{"problem_id": "115A73", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "115A74", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "115A75", "prediction": "b,c,d", "explanation": "b,c,d"}

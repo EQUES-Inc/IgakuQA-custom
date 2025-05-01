@@ -1,0 +1,75 @@
+{"problem_id": "115F1", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F2", "prediction": "この質問の答えを決定するためには､各項目(①~⑤)が具体的に何を指しているのかの情報が必要です｡個人防護具(ppe)には､ﾏｽｸ､手袋､ｶﾞｳﾝ､ｺﾞｰｸﾞﾙやﾌｪｲｽｼｰﾙﾄﾞなどが含まれます｡これらの情報が提供されれば､より正確な回答が可能です｡ただし､一般的な選択肢の形式から推測すると､提供された選択肢の中でppeに該当しないものが1つあると理解しています｡もし具体的な内容が提供されない場合､この形式", "explanation": "この質問の答えを決定するためには､各項目(①~⑤)が具体的に何を指しているのかの情報が必要です｡個人防護具(ppe)には､ﾏｽｸ､手袋､ｶﾞｳﾝ､ｺﾞｰｸﾞﾙやﾌｪｲｽｼｰﾙﾄﾞなどが含まれます｡これらの情報が提供されれば､より正確な回答が可能です｡ただし､一般的な選択肢の形式から推測すると､提供された選択肢の中でppeに該当しないものが1つあると理解しています｡もし具体的な内容が提供されない場合､この形式"}
+{"problem_id": "115F3", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F4", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F6", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F7", "prediction": "d: 82\n\n1秒率(fev1%)は､1秒量(fev1)を努力性肺活量(fvc)で割った値を百分率に変換したものです｡計算式は以下の通りです:\n\n\\[ \\text{1秒率(fev1%)} = \\left( \\frac{\\text{1秒量(fev1)}}{\\text{努力性肺活量(fvc)}} \\right) \\times 100 \\]\n\n与えられた値を代入すると:\n\n\\[ \\text{1秒", "explanation": "d: 82\n\n1秒率(fev1%)は､1秒量(fev1)を努力性肺活量(fvc)で割った値を百分率に変換したものです｡計算式は以下の通りです:\n\n\\[ \\text{1秒率(fev1%)} = \\left( \\frac{\\text{1秒量(fev1)}}{\\text{努力性肺活量(fvc)}} \\right) \\times 100 \\]\n\n与えられた値を代入すると:\n\n\\[ \\text{1秒"}
+{"problem_id": "115F8", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F9", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F10", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F11", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F12", "prediction": "b: 14\n\nｸﾚｱﾁﾆﾝｸﾘｱﾗﾝｽ(ccr)は､以下の公式で計算されます:\n\n\\[ \\text{ccr (ml/分)} = \\frac{\\text{尿ｸﾚｱﾁﾆﾝ (mg/dl) × 24時間尿量 (ml)}}{\\text{血清ｸﾚｱﾁﾆﾝ (mg/dl) × 1440 (分)} \\]\n\n与えられた値を代入します:\n\n\\[ \\text{ccr} = \\frac{72.0 \\, \\text{mg/dl", "explanation": "b: 14\n\nｸﾚｱﾁﾆﾝｸﾘｱﾗﾝｽ(ccr)は､以下の公式で計算されます:\n\n\\[ \\text{ccr (ml/分)} = \\frac{\\text{尿ｸﾚｱﾁﾆﾝ (mg/dl) × 24時間尿量 (ml)}}{\\text{血清ｸﾚｱﾁﾆﾝ (mg/dl) × 1440 (分)} \\]\n\n与えられた値を代入します:\n\n\\[ \\text{ccr} = \\frac{72.0 \\, \\text{mg/dl"}
+{"problem_id": "115F13", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F14", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F15", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F17", "prediction": "この質問の答えを決定するためには､具体的な胸部造影ctの画像や詳細な臨床情報が必要です｡ただし､質問の文脈から推測すると､一般的に縦隔条件(特に心臓に関連するもの)でよく見られる異常所見として､左房が挙げられることが多いです｡これは､心房細動や心不全などの疾患で左房が拡大することがあるためです｡\n\nただし､これは一般的な推測であり､実際の診断には医師の専門的な判断が必要です｡\n\n答え", "explanation": "この質問の答えを決定するためには､具体的な胸部造影ctの画像や詳細な臨床情報が必要です｡ただし､質問の文脈から推測すると､一般的に縦隔条件(特に心臓に関連するもの)でよく見られる異常所見として､左房が挙げられることが多いです｡これは､心房細動や心不全などの疾患で左房が拡大することがあるためです｡\n\nただし､これは一般的な推測であり､実際の診断には医師の専門的な判断が必要です｡\n\n答え"}
+{"problem_id": "115F18", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F19", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F20", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F21", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F22", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F23", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F25", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F27", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F28", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F29", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F30", "prediction": "この質問の回答を決定するためには､具体的な超音波検査の結果(①~⑤)の詳細が必要です｡ただし､一般的な知識に基づいて､2絨毛膜2羊膜性双胎(dichorionic diamniotic, dcda)の特徴を説明します｡\n\n2絨毛膜2羊膜性双胎では､各胎児がそれぞれ独立した絨毛膜(胎盤)と羊膜(羊水袋)を持っています｡超音波検査では､以下の特", "explanation": "この質問の回答を決定するためには､具体的な超音波検査の結果(①~⑤)の詳細が必要です｡ただし､一般的な知識に基づいて､2絨毛膜2羊膜性双胎(dichorionic diamniotic, dcda)の特徴を説明します｡\n\n2絨毛膜2羊膜性双胎では､各胎児がそれぞれ独立した絨毛膜(胎盤)と羊膜(羊水袋)を持っています｡超音波検査では､以下の特"}
+{"problem_id": "115F31", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "115F32", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "115F33", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115F34", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "115F35", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F36", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F37", "prediction": "a: 子宮筋腫", "explanation": "a: 子宮筋腫"}
+{"problem_id": "115F38", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F39", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F40", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F41", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F42", "prediction": "a: ｢紫斑の有無を確認します｣", "explanation": "a: ｢紫斑の有無を確認します｣"}
+{"problem_id": "115F43", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F44", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F46", "prediction": "d: 帝王切開\n\nこの症例では､陣痛が十分に進展しているにもかかわらず､児頭の下降や回旋が進んでいないことが示されています｡これは､頭位異常や骨盤狭窄などの要因が考えられ､自然分娩が困難である可能性が高いことを示しています｡また､長時間の陣痛は母体や胎児にﾘｽｸをもたらす可能性があります｡そのため､帝王切開が適切な対応となります｡", "explanation": "d: 帝王切開\n\nこの症例では､陣痛が十分に進展しているにもかかわらず､児頭の下降や回旋が進んでいないことが示されています｡これは､頭位異常や骨盤狭窄などの要因が考えられ､自然分娩が困難である可能性が高いことを示しています｡また､長時間の陣痛は母体や胎児にﾘｽｸをもたらす可能性があります｡そのため､帝王切開が適切な対応となります｡"}
+{"problem_id": "115F47", "prediction": "a: 継続して行う｡", "explanation": "a: 継続して行う｡"}
+{"problem_id": "115F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F49", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F50", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F52", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F53", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F54", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "115F55", "prediction": "d, c", "explanation": "d, c"}
+{"problem_id": "115F56", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115F57", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "115F58", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115F59", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "115F60", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F61", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "115F62", "prediction": "a: 胸腔穿刺", "explanation": "a: 胸腔穿刺"}
+{"problem_id": "115F63", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F64", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F65", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F66", "prediction": "a: a-ado2は開大している｡", "explanation": "a: a-ado2は開大している｡"}
+{"problem_id": "115F67", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F68", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F69", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F70", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F71", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F72", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "115F73", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F74", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F75", "prediction": "ﾘｽｸ比(relative risk, rr)は､ある要因(この場合､喫煙)がある集団での疾患発生率を､その要因がない集団での疾患発生率で割ったものです｡計算式は以下の通りです:\n\n\\[ rr = \\frac{\\text{喫煙者の肺癌発生率}}{\\text{非喫煙者の肺癌発生率}} \\]\n\nまず､各集団の肺癌発生率を計算します｡\n\n1. **喫煙者の肺癌発生率**:\n   \\[ \\", "explanation": "ﾘｽｸ比(relative risk, rr)は､ある要因(この場合､喫煙)がある集団での疾患発生率を､その要因がない集団での疾患発生率で割ったものです｡計算式は以下の通りです:\n\n\\[ rr = \\frac{\\text{喫煙者の肺癌発生率}}{\\text{非喫煙者の肺癌発生率}} \\]\n\nまず､各集団の肺癌発生率を計算します｡\n\n1. **喫煙者の肺癌発生率**:\n   \\[ \\"}

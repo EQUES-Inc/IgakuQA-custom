@@ -1,0 +1,75 @@
+{"problem_id": "112D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D3", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D4", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D5", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D6", "prediction": "a: ｲﾚｳｽ\n\n(説明:腹部ｴｯｸｽ線写真で考えられる異常として､ｲﾚｳｽ(腸閉塞)は腸管の内容物が閉塞や通過障害により停滞している状態を示し､この患者の状態と一致する可能性があります｡他の選択肢は､それぞれ特定の疾患を示唆する画像所見であり､示された写真からはｲﾚｳｽが最も可能性が高いと考えられます｡)", "explanation": "a: ｲﾚｳｽ\n\n(説明:腹部ｴｯｸｽ線写真で考えられる異常として､ｲﾚｳｽ(腸閉塞)は腸管の内容物が閉塞や通過障害により停滞している状態を示し､この患者の状態と一致する可能性があります｡他の選択肢は､それぞれ特定の疾患を示唆する画像所見であり､示された写真からはｲﾚｳｽが最も可能性が高いと考えられます｡)"}
+{"problem_id": "112D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D8", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D9", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D10", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D11", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112D12", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112D13", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112D14", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112D15", "prediction": "a,b,c", "explanation": "a,b,c"}
+{"problem_id": "112D16", "prediction": "a: 神経芽腫\n\n腹部単純ct(a)と胸腹部造影ct (b)の画像から､左上腹部に腫瘤が認められ､その周囲に造影効果を認めます｡この腫瘤は､神経芽腫の特徴である｢ｸﾘｽﾏｽﾂﾘｰ様｣の造影ﾊﾟﾀｰﾝを呈している可能性があります｡また､尿中ﾊﾞﾆﾘﾙﾏﾝﾃﾞﾙ酸(vma)の上昇は神経芽腫を示唆する検査値です｡これらの情報から､最も考えられるのは神経芽腫です｡\n\n他の選択肢について:\n\n* b: 褐色細胞腫は､主に副腎に発生する腫瘍", "explanation": "a: 神経芽腫\n\n腹部単純ct(a)と胸腹部造影ct (b)の画像から､左上腹部に腫瘤が認められ､その周囲に造影効果を認めます｡この腫瘤は､神経芽腫の特徴である｢ｸﾘｽﾏｽﾂﾘｰ様｣の造影ﾊﾟﾀｰﾝを呈している可能性があります｡また､尿中ﾊﾞﾆﾘﾙﾏﾝﾃﾞﾙ酸(vma)の上昇は神経芽腫を示唆する検査値です｡これらの情報から､最も考えられるのは神経芽腫です｡\n\n他の選択肢について:\n\n* b: 褐色細胞腫は､主に副腎に発生する腫瘍"}
+{"problem_id": "112D17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D18", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D19", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D20", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D21", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D22", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D23", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D24", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D25", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D26", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D27", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D28", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D29", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D30", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D31", "prediction": "a: 肺癌\n\n(説明:胸部ｴｯｸｽ線写真で異常陰影が認められ､喫煙歴があることから､肺癌が最も可能性が高いと考えられます｡他の選択肢は､気胸や血胸は外傷や感染などが原因となることが多く､胸膜炎は炎症性疾患､胸膜中皮腫は職業的なexposureが原因となることが多いため､今回の情報からは肺癌が最も疑われます｡)", "explanation": "a: 肺癌\n\n(説明:胸部ｴｯｸｽ線写真で異常陰影が認められ､喫煙歴があることから､肺癌が最も可能性が高いと考えられます｡他の選択肢は､気胸や血胸は外傷や感染などが原因となることが多く､胸膜炎は炎症性疾患､胸膜中皮腫は職業的なexposureが原因となることが多いため､今回の情報からは肺癌が最も疑われます｡)"}
+{"problem_id": "112D32", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D33", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D34", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D35", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D36", "prediction": "a: ft$_4$\n\n(説明:この患者さんの症状と検査結果から､甲状腺機能低下症が疑われます｡甲状腺機能低下症の診断には､甲状腺ﾎﾙﾓﾝであるft$_4$(ﾌﾘｰ thyroxine)の測定がまず行うべき検査です｡他の選択肢は､卵巣機能検査(b, c)や副腎機能検査(d)など､この患者さんの症状や検査結果からは直接関連が薄く､脳性ﾅﾄﾘｳﾑ利尿ﾍﾟﾌﾟﾁﾄﾞ〈bnp〉(e)は心不全など他の疾患を疑う場合に測定する検査です｡)", "explanation": "a: ft$_4$\n\n(説明:この患者さんの症状と検査結果から､甲状腺機能低下症が疑われます｡甲状腺機能低下症の診断には､甲状腺ﾎﾙﾓﾝであるft$_4$(ﾌﾘｰ thyroxine)の測定がまず行うべき検査です｡他の選択肢は､卵巣機能検査(b, c)や副腎機能検査(d)など､この患者さんの症状や検査結果からは直接関連が薄く､脳性ﾅﾄﾘｳﾑ利尿ﾍﾟﾌﾟﾁﾄﾞ〈bnp〉(e)は心不全など他の疾患を疑う場合に測定する検査です｡)"}
+{"problem_id": "112D37", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D38", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D39", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D40", "prediction": "この問題では､患者の症状や検査結果から､左上肢の感覚鈍麻は脳梗塞や脊髄病変による可能性が高いことがわかります｡頭部mriの拡散強調像は､脳梗塞や脳内出血などの病変を検出するのに有用な画像診断法です｡\n\n患者の症状や検査結果から､左前大脳動脈領域の脳梗塞が疑われます｡拡散強調像では､脳梗塞の病変は高信号(t2強調像で低信号となる領域が高信号となる)として描出されます｡\n\n選択肢の中で､左前大脳動脈領域に一致するのは､拡散強調像②です｡この画像では､左前頭葉に高信号", "explanation": "この問題では､患者の症状や検査結果から､左上肢の感覚鈍麻は脳梗塞や脊髄病変による可能性が高いことがわかります｡頭部mriの拡散強調像は､脳梗塞や脳内出血などの病変を検出するのに有用な画像診断法です｡\n\n患者の症状や検査結果から､左前大脳動脈領域の脳梗塞が疑われます｡拡散強調像では､脳梗塞の病変は高信号(t2強調像で低信号となる領域が高信号となる)として描出されます｡\n\n選択肢の中で､左前大脳動脈領域に一致するのは､拡散強調像②です｡この画像では､左前頭葉に高信号"}
+{"problem_id": "112D41", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D42", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D43", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D44", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D45", "prediction": "b: 抗ss-a抗体\n\n(説明:抗ss-a抗体は､全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)やｼｪｰｸﾞﾚﾝ症候群の患者で陽性となることが多く､これらの疾患は関節ﾘｳﾏﾁ(ra)と関連があるとされています｡特にｼｪｰｸﾞﾚﾝ症候群はﾄﾞﾗｲｱｲを症状として伴うため､問題文のﾄﾞﾗｲｱｲに関する情報と合致します｡舌の写真だけでは直接的な診断はできませんが､ﾘｳﾏﾁの反応が出ているという検査結果とｼｪｰｸﾞﾚﾝ症候群の可能性を考慮すると､抗ss-a抗体が診断に有用な自己抗体となります｡)", "explanation": "b: 抗ss-a抗体\n\n(説明:抗ss-a抗体は､全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)やｼｪｰｸﾞﾚﾝ症候群の患者で陽性となることが多く､これらの疾患は関節ﾘｳﾏﾁ(ra)と関連があるとされています｡特にｼｪｰｸﾞﾚﾝ症候群はﾄﾞﾗｲｱｲを症状として伴うため､問題文のﾄﾞﾗｲｱｲに関する情報と合致します｡舌の写真だけでは直接的な診断はできませんが､ﾘｳﾏﾁの反応が出ているという検査結果とｼｪｰｸﾞﾚﾝ症候群の可能性を考慮すると､抗ss-a抗体が診断に有用な自己抗体となります｡)"}
+{"problem_id": "112D46", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D47", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D48", "prediction": "b: β-dｸﾞﾙｶﾝ\n\n(説明:胸部の異常陰影に対する診断において､β-dｸﾞﾙｶﾝは真菌感染症を示唆する検査項目であり､今回の状況では必要性が低いと考えられます｡他の選択肢は､肺がんやその他の悪性腫瘍の診断や評価において有用な検査項目です｡)", "explanation": "b: β-dｸﾞﾙｶﾝ\n\n(説明:胸部の異常陰影に対する診断において､β-dｸﾞﾙｶﾝは真菌感染症を示唆する検査項目であり､今回の状況では必要性が低いと考えられます｡他の選択肢は､肺がんやその他の悪性腫瘍の診断や評価において有用な検査項目です｡)"}
+{"problem_id": "112D49", "prediction": "a: 乳癌\n\n(説明:ﾏﾝﾓｸﾞﾗﾑ(a)と胸部ct(b)の画像診断と､触診で触知する腫瘤の特徴から､左乳房のしこりは乳癌である可能性が最も高いと考えられます｡乳癌は､乳房に硬い腫瘤を形成し､ﾏﾝﾓｸﾞﾗﾑで石灰化を伴うことがよくあります｡また､乳房の色調変化やひきつれを認めないことも､乳癌の可能性を高めます｡ただし､画像診断と触診だけでは確定診断はできないため､さらに詳しい検査が必要となります｡)", "explanation": "a: 乳癌\n\n(説明:ﾏﾝﾓｸﾞﾗﾑ(a)と胸部ct(b)の画像診断と､触診で触知する腫瘤の特徴から､左乳房のしこりは乳癌である可能性が最も高いと考えられます｡乳癌は､乳房に硬い腫瘤を形成し､ﾏﾝﾓｸﾞﾗﾑで石灰化を伴うことがよくあります｡また､乳房の色調変化やひきつれを認めないことも､乳癌の可能性を高めます｡ただし､画像診断と触診だけでは確定診断はできないため､さらに詳しい検査が必要となります｡)"}
+{"problem_id": "112D50", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D51", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D52", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D53", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D54", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D55", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D56", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D57", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D58", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D59", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D60", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D61", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D62", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "112D63", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112D64", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112D65", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112D66", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112D67", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112D68", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112D69", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112D70", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112D71", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "112D72", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112D73", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112D74", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112D75", "prediction": "c,d,e", "explanation": "c,d,e"}

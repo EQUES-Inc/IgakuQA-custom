@@ -1,0 +1,75 @@
+{"problem_id": "114F1", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F2", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F3", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F4", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F6", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F7", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F8", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F9", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F10", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F11", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F12", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F13", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F15", "prediction": "写真がないため､具体的な回答はできません｡しかし､頸髄損傷によって第6頸髄ﾚﾍﾞﾙ以下の機能が障害されている患者が使用する自助具は､通常､上肢の機能残存程度や患者のﾆｰｽﾞに応じて選択されます｡例えば､握力が弱い場合にはｸﾞﾘｯﾌﾟ式のｽﾌﾟｰﾝや歯ﾌﾞﾗｼ､手関節の運動が可能な場合にはﾎﾞﾀﾝｴｲﾄﾞや箸型自助具などが使用されることがあります｡写真がないため､具体的な回答はできませんが､一般的には上肢の機能残存程度に応じた自助具(例えば､ｸﾞﾘｯﾌﾟ式やｿｹｯﾄ式の補助具)が選ばれることが多いです｡\n\nもし､写真が示された場合､その写真に基づいて適切な回答をします｡", "explanation": "写真がないため､具体的な回答はできません｡しかし､頸髄損傷によって第6頸髄ﾚﾍﾞﾙ以下の機能が障害されている患者が使用する自助具は､通常､上肢の機能残存程度や患者のﾆｰｽﾞに応じて選択されます｡例えば､握力が弱い場合にはｸﾞﾘｯﾌﾟ式のｽﾌﾟｰﾝや歯ﾌﾞﾗｼ､手関節の運動が可能な場合にはﾎﾞﾀﾝｴｲﾄﾞや箸型自助具などが使用されることがあります｡写真がないため､具体的な回答はできませんが､一般的には上肢の機能残存程度に応じた自助具(例えば､ｸﾞﾘｯﾌﾟ式やｿｹｯﾄ式の補助具)が選ばれることが多いです｡\n\nもし､写真が示された場合､その写真に基づいて適切な回答をします｡"}
+{"problem_id": "114F16", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F17", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F18", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F19", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F20", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F21", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F22", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F23", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F24", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F25", "prediction": "この問題では､十二指腸が腹部大動脈との間隙に挟まれる状態､つまり十二指腸絞扼(じゅうにしちょうこうやく)について問われています｡十二指腸絞扼は､通常､腹部大動脈周囲の脂肪組織や血栓などが原因で起こり､血管(この場合は腹部大動脈)が十二指腸を圧迫することで､食後の嘔吐や腸閉塞などの症状を引き起こします｡\n\n示されたct画像(a〜f)の中で､十二指腸と腹部大動脈の間隙が明確に確認できるのは､画像c: ③です｡しかし､画像cだけでは十二指腸絞扼が確定できるわけ", "explanation": "この問題では､十二指腸が腹部大動脈との間隙に挟まれる状態､つまり十二指腸絞扼(じゅうにしちょうこうやく)について問われています｡十二指腸絞扼は､通常､腹部大動脈周囲の脂肪組織や血栓などが原因で起こり､血管(この場合は腹部大動脈)が十二指腸を圧迫することで､食後の嘔吐や腸閉塞などの症状を引き起こします｡\n\n示されたct画像(a〜f)の中で､十二指腸と腹部大動脈の間隙が明確に確認できるのは､画像c: ③です｡しかし､画像cだけでは十二指腸絞扼が確定できるわけ"}
+{"problem_id": "114F26", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F27", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114F28", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "114F29", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114F30", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114F31", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "114F32", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "114F33", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "114F34", "prediction": "b,d,e", "explanation": "b,d,e"}
+{"problem_id": "114F35", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F36", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F37", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F38", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F40", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F41", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F42", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F43", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F44", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F45", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F46", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F47", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F49", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F50", "prediction": "d: 慢性喉頭炎\n\n(説明:狭帯域光による喉頭内視鏡像(c)では､声帯に白苔や発赤が認められ､慢性炎症を示唆しています｡喫煙歴や飲酒歴がないことから､声帯結節や喉頭乳頭腫､ﾎﾟﾘｰﾌﾟ様声帯よりも､慢性喉頭炎が最も考えられます｡下咽頭癌は､嗄声や咽喉異物感を伴うことがありますが､画像からは下咽頭癌を示唆する特徴は認められません｡)", "explanation": "d: 慢性喉頭炎\n\n(説明:狭帯域光による喉頭内視鏡像(c)では､声帯に白苔や発赤が認められ､慢性炎症を示唆しています｡喫煙歴や飲酒歴がないことから､声帯結節や喉頭乳頭腫､ﾎﾟﾘｰﾌﾟ様声帯よりも､慢性喉頭炎が最も考えられます｡下咽頭癌は､嗄声や咽喉異物感を伴うことがありますが､画像からは下咽頭癌を示唆する特徴は認められません｡)"}
+{"problem_id": "114F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F52", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F53", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F54", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F55", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F56", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F57", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114F58", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114F59", "prediction": "a, d, e", "explanation": "a, d, e"}
+{"problem_id": "114F60", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F61", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F62", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "114F63", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F64", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F66", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F67", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F68", "prediction": "a: 白板症\n\n(説明:白板症は､舌に白または黄色の斑点が現れる病変で､隆起性病変の原因として考えられます｡他の選択肢は､乳頭腫( benign腫瘍)､kaposi肉腫(悪性腫瘍)､ﾍﾙﾍﾟｽ性舌炎(感染症)､plummer-vinson症候群(栄養障害や貧血を伴う疾患)であり､隆起性病変の原因として白板症が最も一般的です｡)", "explanation": "a: 白板症\n\n(説明:白板症は､舌に白または黄色の斑点が現れる病変で､隆起性病変の原因として考えられます｡他の選択肢は､乳頭腫( benign腫瘍)､kaposi肉腫(悪性腫瘍)､ﾍﾙﾍﾟｽ性舌炎(感染症)､plummer-vinson症候群(栄養障害や貧血を伴う疾患)であり､隆起性病変の原因として白板症が最も一般的です｡)"}
+{"problem_id": "114F69", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F70", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F71", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "114F72", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114F73", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "114F74", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F75", "prediction": "静脈栄養法により投与される1日の総ｴﾈﾙｷﾞｰ量を求めます｡\n\nまず､ﾌﾞﾄﾞｳ糖の投与量は､中心静脈栄養の1,500mlのうち15%なので､1,500ml × 15% = 225mlです｡\n\nﾌﾞﾄﾞｳ糖は4kcal/gなので､225mlに含まれるﾌﾞﾄﾞｳ糖の量は､225ml / 1,000ml/l × 4g/ml × 4kcal/g = 36kcalとなります｡\n\n次に､ｱﾐﾉ酸の投与量は､中心静脈栄養の1,500ml", "explanation": "静脈栄養法により投与される1日の総ｴﾈﾙｷﾞｰ量を求めます｡\n\nまず､ﾌﾞﾄﾞｳ糖の投与量は､中心静脈栄養の1,500mlのうち15%なので､1,500ml × 15% = 225mlです｡\n\nﾌﾞﾄﾞｳ糖は4kcal/gなので､225mlに含まれるﾌﾞﾄﾞｳ糖の量は､225ml / 1,000ml/l × 4g/ml × 4kcal/g = 36kcalとなります｡\n\n次に､ｱﾐﾉ酸の投与量は､中心静脈栄養の1,500ml"}

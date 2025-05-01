@@ -1,0 +1,75 @@
+{"problem_id": "115A1", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A2", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A3", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A4", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A6", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A7", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A8", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A9", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A10", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A11", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115A12", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "115A13", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "115A14", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "115A15", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "115A16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A17", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A18", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A19", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A20", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A21", "prediction": "a: 膿疱性乾癬", "explanation": "a: 膿疱性乾癬"}
+{"problem_id": "115A22", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A23", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A25", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A27", "prediction": "a: 心外膜炎\n\nこの症例では､頸静脈怒張の吸気時増強(kussmaul徴候)､心音の減弱､心電図の低電位､心ｴｺｰ図での心包膜の肥厚や心包腔の増大などの所見から､心外膜炎(心包炎)が強く疑われます｡これらの所見は心包液の蓄積や心包の炎症によるもので､心外膜炎が原因で心臓の収縮機能が制限され､", "explanation": "a: 心外膜炎\n\nこの症例では､頸静脈怒張の吸気時増強(kussmaul徴候)､心音の減弱､心電図の低電位､心ｴｺｰ図での心包膜の肥厚や心包腔の増大などの所見から､心外膜炎(心包炎)が強く疑われます｡これらの所見は心包液の蓄積や心包の炎症によるもので､心外膜炎が原因で心臓の収縮機能が制限され､"}
+{"problem_id": "115A28", "prediction": "この問題の解答には､具体的な喉頭内視鏡像(①~⑤)の詳細な説明や画像が必要ですが､提供された情報だけでは特定の選択肢を特定することは困難です｡しかし､患者の症状(嗄声､20年前からの持続的な声の変化､最近の息切れ)から､以下の可能性が高いと考えられます:\n\n- 声帯の慢性変化(例:声帯ﾎﾟﾘｰﾌﾟ､声帯結節)\n- 声帯麻痺\n\nこれらの症状と､特に最近の息切れ", "explanation": "この問題の解答には､具体的な喉頭内視鏡像(①~⑤)の詳細な説明や画像が必要ですが､提供された情報だけでは特定の選択肢を特定することは困難です｡しかし､患者の症状(嗄声､20年前からの持続的な声の変化､最近の息切れ)から､以下の可能性が高いと考えられます:\n\n- 声帯の慢性変化(例:声帯ﾎﾟﾘｰﾌﾟ､声帯結節)\n- 声帯麻痺\n\nこれらの症状と､特に最近の息切れ"}
+{"problem_id": "115A29", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A30", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A31", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A32", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A33", "prediction": "a: 胚細胞腫瘍", "explanation": "a: 胚細胞腫瘍"}
+{"problem_id": "115A34", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A35", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A36", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A37", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A38", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A39", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A40", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A41", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A42", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A43", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A44", "prediction": "b: 抗ss-a抗体", "explanation": "b: 抗ss-a抗体"}
+{"problem_id": "115A45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A46", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A47", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A48", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A49", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A50", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A51", "prediction": "d: ④\n\nｻｲｱｻﾞｲﾄﾞ系の利尿薬は､高齢者の高血圧治療において第一選択肢として使用されることがあります｡ただし､使用する際は電解質ﾊﾞﾗﾝｽや腎機能を慎重にﾓﾆﾀﾘﾝｸﾞする必要があります｡他の選択肢は一般的に高齢者の高血圧管理において適切な注意点を示しています｡", "explanation": "d: ④\n\nｻｲｱｻﾞｲﾄﾞ系の利尿薬は､高齢者の高血圧治療において第一選択肢として使用されることがあります｡ただし､使用する際は電解質ﾊﾞﾗﾝｽや腎機能を慎重にﾓﾆﾀﾘﾝｸﾞする必要があります｡他の選択肢は一般的に高齢者の高血圧管理において適切な注意点を示しています｡"}
+{"problem_id": "115A52", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A53", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A54", "prediction": "b", "explanation": "b"}
+{"problem_id": "115A55", "prediction": "この問題の詳細なｵｰｼﾞｵｸﾞﾗﾑの情報が提供されていないため､一般的な知識に基づいて推測します｡長時間の高音量での音楽聴取は高周波の聴力低下を引き起こす可能性が高いです｡したがって､高周波での聴力低下を示すｵｰｼﾞｵｸﾞﾗﾑが最も適切と考えられます｡\n\n答え: a, b, c, d, e の中から高周波での聴力低下を示すもの(通常､4000hz以上の周波数で聴力閾", "explanation": "この問題の詳細なｵｰｼﾞｵｸﾞﾗﾑの情報が提供されていないため､一般的な知識に基づいて推測します｡長時間の高音量での音楽聴取は高周波の聴力低下を引き起こす可能性が高いです｡したがって､高周波での聴力低下を示すｵｰｼﾞｵｸﾞﾗﾑが最も適切と考えられます｡\n\n答え: a, b, c, d, e の中から高周波での聴力低下を示すもの(通常､4000hz以上の周波数で聴力閾"}
+{"problem_id": "115A56", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A57", "prediction": "d: 2,500ml\n\nこの症例では､母体の血圧が80/40mmhgと低く､心拍数が120/分と速くなっていることから､著しい低血圧状態が推測されます｡また､顔面蒼白と冷や汗も出血性ｼｮｯｸの症状を示しています｡これらの臨床症状から､出血量はかなり多いと判断され､2,500mlが最も適切な選択肢となります｡", "explanation": "d: 2,500ml\n\nこの症例では､母体の血圧が80/40mmhgと低く､心拍数が120/分と速くなっていることから､著しい低血圧状態が推測されます｡また､顔面蒼白と冷や汗も出血性ｼｮｯｸの症状を示しています｡これらの臨床症状から､出血量はかなり多いと判断され､2,500mlが最も適切な選択肢となります｡"}
+{"problem_id": "115A58", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A59", "prediction": "d: ﾃﾞﾌﾞﾘﾄﾞﾏﾝ\n\nこの症例では､患者さんがﾊﾞｲｸ事故により右脛骨の開放骨折を起こし､その後内固定術を受けた後､感染の兆候(発熱､局部的な発赤､熱感､腫脹､手術創の離開､白血球数の増加､crpの上昇)が見られます｡これらの症状は感染性の合併症を示唆しており､特に手術創の離開と局部的な炎症所見は､感染が進行している可能性が高いことを示しています｡\n\nこのような状況では", "explanation": "d: ﾃﾞﾌﾞﾘﾄﾞﾏﾝ\n\nこの症例では､患者さんがﾊﾞｲｸ事故により右脛骨の開放骨折を起こし､その後内固定術を受けた後､感染の兆候(発熱､局部的な発赤､熱感､腫脹､手術創の離開､白血球数の増加､crpの上昇)が見られます｡これらの症状は感染性の合併症を示唆しており､特に手術創の離開と局部的な炎症所見は､感染が進行している可能性が高いことを示しています｡\n\nこのような状況では"}
+{"problem_id": "115A60", "prediction": "e", "explanation": "e"}
+{"problem_id": "115A61", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A62", "prediction": "e: ⑤\n\n胎児の胎位は､特に双胎妊娠において経腟分娩の可否を判断する上で非常に重要な情報です｡先進児が骨盤位であることは､経腟分娩のﾘｽｸを高める可能性があります｡", "explanation": "e: ⑤\n\n胎児の胎位は､特に双胎妊娠において経腟分娩の可否を判断する上で非常に重要な情報です｡先進児が骨盤位であることは､経腟分娩のﾘｽｸを高める可能性があります｡"}
+{"problem_id": "115A63", "prediction": "a", "explanation": "a"}
+{"problem_id": "115A64", "prediction": "c", "explanation": "c"}
+{"problem_id": "115A65", "prediction": "d", "explanation": "d"}
+{"problem_id": "115A66", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "115A67", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "115A68", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "115A69", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "115A70", "prediction": "この症例では､視力低下と眼圧の上昇が特徴的であり､特に左眼の眼圧が35mmhgと高いことから､以下の2つが考えられます:\n\na: 加齢黄斑変性\ne: 裂孔原性網膜剥離\n\nただし､眼圧の上昇は緑内障を示唆しますが､選択肢に緑内障が含まれていないため､最も可能性が高いと考えられる2つを選択しました｡ただし､実際の診断には詳細な眼科的", "explanation": "この症例では､視力低下と眼圧の上昇が特徴的であり､特に左眼の眼圧が35mmhgと高いことから､以下の2つが考えられます:\n\na: 加齢黄斑変性\ne: 裂孔原性網膜剥離\n\nただし､眼圧の上昇は緑内障を示唆しますが､選択肢に緑内障が含まれていないため､最も可能性が高いと考えられる2つを選択しました｡ただし､実際の診断には詳細な眼科的"}
+{"problem_id": "115A71", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "115A72", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115A73", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "115A74", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "115A75", "prediction": "b, c, d", "explanation": "b, c, d"}

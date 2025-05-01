@@ -1,0 +1,84 @@
+{"problem_id": "112F1", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F2", "prediction": "c: 胆嚢癌\n\n(解説:転移性肝腫瘍において､胆嚢癌は最も良好な予後が期待できる癌種の一つです｡これは､胆嚢癌が他の消化器癌と比較して､遠隔転移を起こしにくい性質を持っていることが理由の一つです｡ただし､実際の予後は患者の状態や腫瘍の大きさ､数､血管やﾘﾝﾊﾟ管への浸潤度など様々な要因によって左右されるため､必ずしもこの回答が正しいとは限りません｡)", "explanation": "c: 胆嚢癌\n\n(解説:転移性肝腫瘍において､胆嚢癌は最も良好な予後が期待できる癌種の一つです｡これは､胆嚢癌が他の消化器癌と比較して､遠隔転移を起こしにくい性質を持っていることが理由の一つです｡ただし､実際の予後は患者の状態や腫瘍の大きさ､数､血管やﾘﾝﾊﾟ管への浸潤度など様々な要因によって左右されるため､必ずしもこの回答が正しいとは限りません｡)"}
+{"problem_id": "112F3", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F4", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F6", "prediction": "a: 安全にｳｫｰｷﾝｸﾞが行える歩道の整備\n\nﾍﾙｽﾌﾟﾛﾓｰｼｮﾝは､個人が健康を促進するための能力を高め､健康的な環境を整備することで､健康的な生活を推進する活動です｡選択肢の中で､地域におけるﾍﾙｽﾌﾟﾛﾓｰｼｮﾝの例として最も適切なのは､安全にｳｫｰｷﾝｸﾞが行える歩道の整備です｡これは､住民の身体活動を促進し､健康的な生活を支援する取り組みであり､ﾍﾙｽﾌﾟﾛﾓｰｼｮﾝの理念に合致します｡\n\n他の選択肢は､医療や福祉に関するものであり､ﾍﾙｽﾌﾟﾛﾓｰｼｮﾝの直接的な例としては適切ではありません｡救急医療機関への搬送体制の構築(b)は､健康問題への迅速な対応という点で重要ですが､ﾍﾙｽﾌﾟﾛﾓｰｼｮﾝそのものではありません｡移植医療を行う医療機関の設置(c)や特別養護老人ﾎｰﾑの設置", "explanation": "a: 安全にｳｫｰｷﾝｸﾞが行える歩道の整備\n\nﾍﾙｽﾌﾟﾛﾓｰｼｮﾝは､個人が健康を促進するための能力を高め､健康的な環境を整備することで､健康的な生活を推進する活動です｡選択肢の中で､地域におけるﾍﾙｽﾌﾟﾛﾓｰｼｮﾝの例として最も適切なのは､安全にｳｫｰｷﾝｸﾞが行える歩道の整備です｡これは､住民の身体活動を促進し､健康的な生活を支援する取り組みであり､ﾍﾙｽﾌﾟﾛﾓｰｼｮﾝの理念に合致します｡\n\n他の選択肢は､医療や福祉に関するものであり､ﾍﾙｽﾌﾟﾛﾓｰｼｮﾝの直接的な例としては適切ではありません｡救急医療機関への搬送体制の構築(b)は､健康問題への迅速な対応という点で重要ですが､ﾍﾙｽﾌﾟﾛﾓｰｼｮﾝそのものではありません｡移植医療を行う医療機関の設置(c)や特別養護老人ﾎｰﾑの設置"}
+{"problem_id": "112F7", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F8", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F9", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F10", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F11", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F12", "prediction": "a, b, c, d, eのいずれも黒質が映っている断面ではありません｡黒質は脳の深部に位置する領域であり､mriの標準的な断面では通常は映りません｡黒質を描出するためには､特定のｼｰｹﾝｽや撮像条件が必要となります｡したがって､問題文に記載されているmri画像だけでは､黒質が映っている断面を特定することはできません｡\n\nしかし､もし問題文に黒質を描出する特定のｼｰｹﾝｽや撮像条件に関する情報が追加されていれば､その情報に基づいて適切な選択肢を選ぶことができるかもしれません｡\n\n例えば､もし｢このmriはflairｼｰｹﾝｽで撮影されたもので､黒質を描出するために特定のｺﾝﾄﾗｽﾄ強調が行われている｣", "explanation": "a, b, c, d, eのいずれも黒質が映っている断面ではありません｡黒質は脳の深部に位置する領域であり､mriの標準的な断面では通常は映りません｡黒質を描出するためには､特定のｼｰｹﾝｽや撮像条件が必要となります｡したがって､問題文に記載されているmri画像だけでは､黒質が映っている断面を特定することはできません｡\n\nしかし､もし問題文に黒質を描出する特定のｼｰｹﾝｽや撮像条件に関する情報が追加されていれば､その情報に基づいて適切な選択肢を選ぶことができるかもしれません｡\n\n例えば､もし｢このmriはflairｼｰｹﾝｽで撮影されたもので､黒質を描出するために特定のｺﾝﾄﾗｽﾄ強調が行われている｣"}
+{"problem_id": "112F13", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F15", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F16", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F18", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F19", "prediction": "a: 気分障害\n\n(解説:患者調査のﾃﾞｰﾀによると､平成8年から平成26年にかけて､気分障害(うつ病や双極性障害などを含む)の患者数は最も増加しました｡この期間に､うつ病に対する認識や治療が広まったことが､患者数増加の要因の一つと考えられます｡)", "explanation": "a: 気分障害\n\n(解説:患者調査のﾃﾞｰﾀによると､平成8年から平成26年にかけて､気分障害(うつ病や双極性障害などを含む)の患者数は最も増加しました｡この期間に､うつ病に対する認識や治療が広まったことが､患者数増加の要因の一つと考えられます｡)"}
+{"problem_id": "112F20", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F21", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F22", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F23", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F24", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F25", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F26", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F27", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F28", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F29", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112F30", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F31", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F32", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F33", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F34", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F35", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F36", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112F37", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112F38", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112F39", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112F40", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112F41", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "112F42", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "112F43", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112F44", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "112F45", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F46", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F47", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F48", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F49", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F50", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F52", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F53", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F54", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F55", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F56", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F57", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F58", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F59", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F60", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F61", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F62", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F63", "prediction": "a: 気管挿管\n\n(説明:この患者さんの呼吸困難は､熱傷による気道閉塞や損傷が原因である可能性が高いです｡特に､顔の表面と口腔内に煤が付着しており､鼻毛が焦げていることから､気道内に煤や熱傷による分泌物などが詰まっている可能性があります｡また､嗄声が認められ､呼吸困難が継続していることから､気道確保が必要となります｡気管挿管は､気道確保の中で最も確実な方法であり､この患者さんのような重篤な呼吸困難のｹｰｽでは､まず行うべき気道確保の方法です｡)", "explanation": "a: 気管挿管\n\n(説明:この患者さんの呼吸困難は､熱傷による気道閉塞や損傷が原因である可能性が高いです｡特に､顔の表面と口腔内に煤が付着しており､鼻毛が焦げていることから､気道内に煤や熱傷による分泌物などが詰まっている可能性があります｡また､嗄声が認められ､呼吸困難が継続していることから､気道確保が必要となります｡気管挿管は､気道確保の中で最も確実な方法であり､この患者さんのような重篤な呼吸困難のｹｰｽでは､まず行うべき気道確保の方法です｡)"}
+{"problem_id": "112F64", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F65", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F66", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112F67", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112F68", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112F69", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F70", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F71", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F72", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F73", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F74", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F75", "prediction": "c, d, e", "explanation": "c, d, e"}
+{"problem_id": "112F76", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F77", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F78", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F79", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F80", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F81", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F82", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "112F83", "prediction": "b, d, e", "explanation": "b, d, e"}
+{"problem_id": "112F84", "prediction": "総再生産率は､一人の女性が一生に産む子どもの数の平均を表す指標です｡この問題を解くには､まず各年齢層の出生率を計算し､それを平均する必要があります｡\n\n出生率は､年齢別出生数をその年齢層の女性人口で割って計算します｡\n\n- 15歳から19歳まで:出生率 = 2,100 / (2,100 + 2,000) * 100,000 = 約10.5%\n- 20歳から39歳まで:出生率 = 5,200 ", "explanation": "総再生産率は､一人の女性が一生に産む子どもの数の平均を表す指標です｡この問題を解くには､まず各年齢層の出生率を計算し､それを平均する必要があります｡\n\n出生率は､年齢別出生数をその年齢層の女性人口で割って計算します｡\n\n- 15歳から19歳まで:出生率 = 2,100 / (2,100 + 2,000) * 100,000 = 約10.5%\n- 20歳から39歳まで:出生率 = 5,200 "}

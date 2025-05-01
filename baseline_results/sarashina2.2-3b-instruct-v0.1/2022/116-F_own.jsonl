@@ -1,0 +1,75 @@
+{"problem_id": "116F1", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F2", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F3", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F4", "prediction": "a, b, d, eは慢性閉塞性肺疾患〈copd〉の呼吸機能について正しくありません｡copdでは､主に気道の狭窄と肺胞の破壊により､1秒率(努力肺活量に対する1秒量の比率)が低下し､残気量が増加します｡また､肺拡散能は低下し､静肺ｺﾝﾌﾟﾗｲｱﾝｽは減少します｡ﾌﾛｰﾎﾞﾘｭｰﾑ曲線は下に凸の形状になります｡\n\nしたがって､copdの呼吸機能について正しいのは｢c: 肺拡散能増加｣ではありません｡copdでは肺拡散能は低下します｡\n\nただし､問題文に誤りがある可能性があります", "explanation": "a, b, d, eは慢性閉塞性肺疾患〈copd〉の呼吸機能について正しくありません｡copdでは､主に気道の狭窄と肺胞の破壊により､1秒率(努力肺活量に対する1秒量の比率)が低下し､残気量が増加します｡また､肺拡散能は低下し､静肺ｺﾝﾌﾟﾗｲｱﾝｽは減少します｡ﾌﾛｰﾎﾞﾘｭｰﾑ曲線は下に凸の形状になります｡\n\nしたがって､copdの呼吸機能について正しいのは｢c: 肺拡散能増加｣ではありません｡copdでは肺拡散能は低下します｡\n\nただし､問題文に誤りがある可能性があります"}
+{"problem_id": "116F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F6", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F7", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F8", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F9", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F10", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F11", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F12", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F13", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F14", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F15", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F16", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F17", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F18", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F19", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F20", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F21", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F22", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F23", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F24", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F25", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F26", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F27", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "116F28", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "116F29", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "116F30", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "116F31", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "116F32", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "116F33", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "116F34", "prediction": "c,d,e", "explanation": "c,d,e"}
+{"problem_id": "116F35", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F36", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F37", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F38", "prediction": "b: ｴﾀﾉｰﾙ\n\n創部の消毒には､一般的にｴﾀﾉｰﾙが用いられます｡過酢酸､塩化ﾍﾞﾝｻﾞﾙｺﾆｳﾑ､ｸﾞﾙﾀｰﾙｱﾙﾃﾞﾋﾄﾞ､次亜塩素酸ﾅﾄﾘｳﾑは､創部の消毒に使用することもありますが､ｴﾀﾉｰﾙと比較して刺激が強かったり､使用方法や濃度に注意が必要であったりするため､創部の縫合前に広く使用されることはありません｡特に､ｸﾞﾙﾀｰﾙｱﾙﾃﾞﾋﾄﾞはﾀﾝﾊﾟｸ質を凝固させる作用があるため､創部の縫合前に使用すると組織への損傷を招く可能性があります｡\n\nしたがって､創部の縫合前に使用する消毒薬として最も適切なのはｴﾀﾉｰﾙです｡", "explanation": "b: ｴﾀﾉｰﾙ\n\n創部の消毒には､一般的にｴﾀﾉｰﾙが用いられます｡過酢酸､塩化ﾍﾞﾝｻﾞﾙｺﾆｳﾑ､ｸﾞﾙﾀｰﾙｱﾙﾃﾞﾋﾄﾞ､次亜塩素酸ﾅﾄﾘｳﾑは､創部の消毒に使用することもありますが､ｴﾀﾉｰﾙと比較して刺激が強かったり､使用方法や濃度に注意が必要であったりするため､創部の縫合前に広く使用されることはありません｡特に､ｸﾞﾙﾀｰﾙｱﾙﾃﾞﾋﾄﾞはﾀﾝﾊﾟｸ質を凝固させる作用があるため､創部の縫合前に使用すると組織への損傷を招く可能性があります｡\n\nしたがって､創部の縫合前に使用する消毒薬として最も適切なのはｴﾀﾉｰﾙです｡"}
+{"problem_id": "116F39", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F40", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F41", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F42", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F43", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F44", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F45", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F46", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F47", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F48", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F49", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F50", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F51", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F52", "prediction": "e", "explanation": "e"}
+{"problem_id": "116F53", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F54", "prediction": "b", "explanation": "b"}
+{"problem_id": "116F55", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "116F56", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "116F57", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "116F58", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "116F59", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F60", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F61", "prediction": "a: 脊髄損傷\n\n(説明:右大腿骨骨折､広範囲の点状出血､運動麻痺､右足背動脈の触知良好､左下肢に運動麻痺と知覚障害を認めないこと､赤い尿の流出といった症状から､脊髄損傷が最も考えられる病態です｡脊髄損傷では､骨折や損傷により神経学的障害が生じ､運動麻痺や知覚障害が起こります｡また､赤い尿の流出は血尿を示しており､骨折や出血を示唆しています｡膝窩動脈損傷や引き抜き損傷､挫滅症候群､ﾃﾞｸﾞﾛｰﾋﾞﾝｸﾞ損傷は､それぞれ異なる損傷ﾊﾟﾀｰﾝや症状を示すため､今回の症状", "explanation": "a: 脊髄損傷\n\n(説明:右大腿骨骨折､広範囲の点状出血､運動麻痺､右足背動脈の触知良好､左下肢に運動麻痺と知覚障害を認めないこと､赤い尿の流出といった症状から､脊髄損傷が最も考えられる病態です｡脊髄損傷では､骨折や損傷により神経学的障害が生じ､運動麻痺や知覚障害が起こります｡また､赤い尿の流出は血尿を示しており､骨折や出血を示唆しています｡膝窩動脈損傷や引き抜き損傷､挫滅症候群､ﾃﾞｸﾞﾛｰﾋﾞﾝｸﾞ損傷は､それぞれ異なる損傷ﾊﾟﾀｰﾝや症状を示すため､今回の症状"}
+{"problem_id": "116F62", "prediction": "a", "explanation": "a"}
+{"problem_id": "116F63", "prediction": "a: 血液型\n\n(説明:血液型の検査は､通常､輸血前に患者と血液製剤の適合性を確認するために行われますが､緊急性の高い状況では､まず血液培養や血中乳酸､交差適合試験､ﾌﾟﾛﾄﾛﾝﾋﾞﾝ時間などの検査を優先し､原因の特定や治療方針の決定に役立てることが重要です｡)", "explanation": "a: 血液型\n\n(説明:血液型の検査は､通常､輸血前に患者と血液製剤の適合性を確認するために行われますが､緊急性の高い状況では､まず血液培養や血中乳酸､交差適合試験､ﾌﾟﾛﾄﾛﾝﾋﾞﾝ時間などの検査を優先し､原因の特定や治療方針の決定に役立てることが重要です｡)"}
+{"problem_id": "116F64", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "116F65", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F66", "prediction": "c", "explanation": "c"}
+{"problem_id": "116F67", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "116F68", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F69", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "116F70", "prediction": "d", "explanation": "d"}
+{"problem_id": "116F71", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "116F72", "prediction": "画像がないため正確な回答はできませんが､一般的に下部消化管内視鏡像で病変が疑われる場合､直腸や結腸(特に下部結腸)に病変が存在することが多いです｡そのため､病変が存在する部位として最も可能性が高いのはa: 直腸です｡ただし､画像を確認しない限り確実な回答はできません｡\n\n(もし画像が示され､例えばs状結腸に病変が認められる場合はd: 横行結腸､下行結腸など他の選択肢も可能性として考えられます｡)", "explanation": "画像がないため正確な回答はできませんが､一般的に下部消化管内視鏡像で病変が疑われる場合､直腸や結腸(特に下部結腸)に病変が存在することが多いです｡そのため､病変が存在する部位として最も可能性が高いのはa: 直腸です｡ただし､画像を確認しない限り確実な回答はできません｡\n\n(もし画像が示され､例えばs状結腸に病変が認められる場合はd: 横行結腸､下行結腸など他の選択肢も可能性として考えられます｡)"}
+{"problem_id": "116F73", "prediction": "c: 内視鏡的粘膜切除術\n\n(説明:下部消化管内視鏡像から､粘膜に隆起した病変が認められ､それが粘膜下層に進展している可能性があります｡この場合､内視鏡的粘膜切除術(emr)が適応となることが多く､病変を一括切除して病理診断を行う治療です｡他の選択肢は､病変の種類や治療目的が異なるため､この画像からはcが最も可能性が高いと考えられます｡)", "explanation": "c: 内視鏡的粘膜切除術\n\n(説明:下部消化管内視鏡像から､粘膜に隆起した病変が認められ､それが粘膜下層に進展している可能性があります｡この場合､内視鏡的粘膜切除術(emr)が適応となることが多く､病変を一括切除して病理診断を行う治療です｡他の選択肢は､病変の種類や治療目的が異なるため､この画像からはcが最も可能性が高いと考えられます｡)"}
+{"problem_id": "116F74", "prediction": "｢高曝露あり｣の疾患aを有する人数は 30 人､疾患aを有しない人数(対照)は 80 人なので､それぞれ odds は 30/(50-30) = 3/2 と 80/(50-80) = 8/3 となります｡\n\nｵｯｽﾞ比は､疾患aを有する群の odds を疾患aを有しない群の odds で割った値なので､\n\n(3/2) / (8/3) = (3/2) * (3", "explanation": "｢高曝露あり｣の疾患aを有する人数は 30 人､疾患aを有しない人数(対照)は 80 人なので､それぞれ odds は 30/(50-30) = 3/2 と 80/(50-80) = 8/3 となります｡\n\nｵｯｽﾞ比は､疾患aを有する群の odds を疾患aを有しない群の odds で割った値なので､\n\n(3/2) / (8/3) = (3/2) * (3"}
+{"problem_id": "116F75", "prediction": "b", "explanation": "b"}

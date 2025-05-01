@@ -1,0 +1,75 @@
+{"problem_id": "113A1", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A2", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A3", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A4", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A5", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A6", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A7", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A8", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A9", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A10", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "113A11", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113A12", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113A13", "prediction": "e, ｻｲｱｻﾞｲﾄﾞ系利尿薬\n\n(説明:ｻｲｱｻﾞｲﾄﾞ系利尿薬は尿へのﾅﾄﾘｳﾑ排泄を増加させるため､その使用により低ﾅﾄﾘｳﾑ血症をきたすことがあります｡addison病もﾅﾄﾘｳﾑ代謝に影響を与える疾患ですが､通常は低ﾅﾄﾘｳﾑ血症よりも高ﾅﾄﾘｳﾑ血症をきたすことが多いです｡他の選択肢である肝硬変､心不全､siadhは尿へのﾅﾄﾘｳﾑ排泄低下を伴う低ﾅﾄﾘｳﾑ血症をきたすことがあります｡)", "explanation": "e, ｻｲｱｻﾞｲﾄﾞ系利尿薬\n\n(説明:ｻｲｱｻﾞｲﾄﾞ系利尿薬は尿へのﾅﾄﾘｳﾑ排泄を増加させるため､その使用により低ﾅﾄﾘｳﾑ血症をきたすことがあります｡addison病もﾅﾄﾘｳﾑ代謝に影響を与える疾患ですが､通常は低ﾅﾄﾘｳﾑ血症よりも高ﾅﾄﾘｳﾑ血症をきたすことが多いです｡他の選択肢である肝硬変､心不全､siadhは尿へのﾅﾄﾘｳﾑ排泄低下を伴う低ﾅﾄﾘｳﾑ血症をきたすことがあります｡)"}
+{"problem_id": "113A14", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113A15", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A16", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A17", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A18", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A19", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A20", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A21", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A22", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A23", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A24", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A25", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A26", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A27", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A28", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A29", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A30", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A31", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A32", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A33", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A34", "prediction": "d: ｶﾃｰﾃﾙｱﾌﾞﾚｰｼｮﾝ\n\n(holter心電図の波形から､心房細動が持続しており､頻拍性の心房細動である可能性が高い｡ｼﾞｿﾋﾟﾗﾐﾄﾞは心房細動の治療に使用されるが､この患者ではふらつきが出現しており､効果が不十分である可能性がある｡ｱﾄﾛﾋﾟﾝは心房細動の治療には使用されず､むしろ心拍数を上昇させる恐れがある｡ｼﾞｿﾋﾟﾗﾐﾄﾞの中止は､心房細動のｺﾝﾄﾛｰﾙを失うことにつながるため不適切である｡ｶﾙﾃﾞｨｵﾊﾞｰｼﾞｮﾝは､頻拍性の心房細動に対して行われることがあるが､holter心電図の波形からは心房細動が", "explanation": "d: ｶﾃｰﾃﾙｱﾌﾞﾚｰｼｮﾝ\n\n(holter心電図の波形から､心房細動が持続しており､頻拍性の心房細動である可能性が高い｡ｼﾞｿﾋﾟﾗﾐﾄﾞは心房細動の治療に使用されるが､この患者ではふらつきが出現しており､効果が不十分である可能性がある｡ｱﾄﾛﾋﾟﾝは心房細動の治療には使用されず､むしろ心拍数を上昇させる恐れがある｡ｼﾞｿﾋﾟﾗﾐﾄﾞの中止は､心房細動のｺﾝﾄﾛｰﾙを失うことにつながるため不適切である｡ｶﾙﾃﾞｨｵﾊﾞｰｼﾞｮﾝは､頻拍性の心房細動に対して行われることがあるが､holter心電図の波形からは心房細動が"}
+{"problem_id": "113A35", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A36", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A37", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A38", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A39", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A40", "prediction": "a: 気管支内視鏡検査\n\n(喀痰細胞診で異常を認めているため､気管支内視鏡検査を行うことで､より詳細な病変の観察や組織診断が可能となり､適切な治療方針の決定につながる｡)", "explanation": "a: 気管支内視鏡検査\n\n(喀痰細胞診で異常を認めているため､気管支内視鏡検査を行うことで､より詳細な病変の観察や組織診断が可能となり､適切な治療方針の決定につながる｡)"}
+{"problem_id": "113A41", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A42", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A43", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A44", "prediction": "d: 食道ｱｶﾗｼｱ\n\n(上部消化管内視鏡像をみないと確定はできませんが､問題文の症状や年齢､ﾎﾙﾓﾝ療法を受けていること､食道の狭窄や運動機能障害の可能性から､食道ｱｶﾗｼｱが最も疑われます｡他の選択肢は､問題文の情報だけでは確定できません｡)", "explanation": "d: 食道ｱｶﾗｼｱ\n\n(上部消化管内視鏡像をみないと確定はできませんが､問題文の症状や年齢､ﾎﾙﾓﾝ療法を受けていること､食道の狭窄や運動機能障害の可能性から､食道ｱｶﾗｼｱが最も疑われます｡他の選択肢は､問題文の情報だけでは確定できません｡)"}
+{"problem_id": "113A45", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A46", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A47", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A48", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A49", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A50", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A51", "prediction": "c: ﾂﾂｶﾞ虫病\n\n理由:\n\n* 山菜採りに行った後に水疱が出現しており､ﾂﾂｶﾞ虫病の臨床像と一致する｡\n* 発熱､頭痛､発疹､白血球増加(特に好中球増加)などの症状もﾂﾂｶﾞ虫病の特徴的である｡\n* 血液所見で異型ﾘﾝﾊﾟ球の増加は認めないが､白血球増加と分葉核好中球増加はﾂﾂｶﾞ虫病で認められる｡\n* 血液生化学所見でast､alt､ld､alp､γ-gtpの上昇はｳｲﾙｽ性肝炎や", "explanation": "c: ﾂﾂｶﾞ虫病\n\n理由:\n\n* 山菜採りに行った後に水疱が出現しており､ﾂﾂｶﾞ虫病の臨床像と一致する｡\n* 発熱､頭痛､発疹､白血球増加(特に好中球増加)などの症状もﾂﾂｶﾞ虫病の特徴的である｡\n* 血液所見で異型ﾘﾝﾊﾟ球の増加は認めないが､白血球増加と分葉核好中球増加はﾂﾂｶﾞ虫病で認められる｡\n* 血液生化学所見でast､alt､ld､alp､γ-gtpの上昇はｳｲﾙｽ性肝炎や"}
+{"problem_id": "113A52", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A53", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A54", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A55", "prediction": "d: 顕微鏡的多発血管炎\n\n(説明:血液所見の白血球数と好中球の増加､crpの上昇､抗核抗体陰性､ﾘｳﾏﾄｲﾄﾞ因子陰性､血液生化学所見の腎機能障害なし､胸部造影ctでの多発性の小血管炎を示唆する影などから､顕微鏡的多発血管炎が最も疑われます｡behçet病や高安動脈炎は抗核抗体陽性のことが多く､悪性関節ﾘｳﾏﾁはﾘｳﾏﾄｲﾄﾞ因子陽性のことが多く､結節性多発動脈炎や顕微鏡的多発血管炎は抗好中球細胞質抗体(anca)", "explanation": "d: 顕微鏡的多発血管炎\n\n(説明:血液所見の白血球数と好中球の増加､crpの上昇､抗核抗体陰性､ﾘｳﾏﾄｲﾄﾞ因子陰性､血液生化学所見の腎機能障害なし､胸部造影ctでの多発性の小血管炎を示唆する影などから､顕微鏡的多発血管炎が最も疑われます｡behçet病や高安動脈炎は抗核抗体陽性のことが多く､悪性関節ﾘｳﾏﾁはﾘｳﾏﾄｲﾄﾞ因子陽性のことが多く､結節性多発動脈炎や顕微鏡的多発血管炎は抗好中球細胞質抗体(anca)"}
+{"problem_id": "113A56", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A57", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A58", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A59", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A60", "prediction": "a: 川崎病\n\n川崎病は､主に乳幼児に発症する急性熱性発疹性疾患であり､発熱､頸部ﾘﾝﾊﾟ節腫脹､発疹､いちご舌､およびcoronary artery aneurysm(冠動脈瘤)形成を特徴とする｡血液所見では､白血球増加､特に好中球増加とcrp上昇が特徴的である｡また､血液生化学所見では､ast､alt､ldの上昇が認められることがある｡口唇の発赤やいちご舌も川崎病の診断に重要な症状である｡\n\n他の選択肢について:\n\n* b: 悪性ﾘﾝﾊﾟ腫:ﾘﾝﾊﾟ節腫", "explanation": "a: 川崎病\n\n川崎病は､主に乳幼児に発症する急性熱性発疹性疾患であり､発熱､頸部ﾘﾝﾊﾟ節腫脹､発疹､いちご舌､およびcoronary artery aneurysm(冠動脈瘤)形成を特徴とする｡血液所見では､白血球増加､特に好中球増加とcrp上昇が特徴的である｡また､血液生化学所見では､ast､alt､ldの上昇が認められることがある｡口唇の発赤やいちご舌も川崎病の診断に重要な症状である｡\n\n他の選択肢について:\n\n* b: 悪性ﾘﾝﾊﾟ腫:ﾘﾝﾊﾟ節腫"}
+{"problem_id": "113A61", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A62", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A63", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A64", "prediction": "d,e\n\n(説明:この患者さんの症状と検査結果から､多発性硬化症が疑われます｡多発性硬化症の治療としては､副腎皮質ｽﾃﾛｲﾄﾞの内服(d)や免疫ｸﾞﾛﾌﾞﾘﾝ大量静注療法(e)が有効です｡ｱｼｸﾛﾋﾞﾙ静注(a)はﾍﾙﾍﾟｽｳｲﾙｽ感染症に対する治療であり､ｻﾘﾄﾞﾏｲﾄﾞ内服(b)はﾚｽﾄﾚｽﾚｯｸﾞｽ症候群や多発性硬化症の痙縮に対する治療ですが､この患者さんの症状からは第一選択ではありません｡ｱｽｺﾙﾋﾞﾝ酸内服(c)はﾋﾞﾀﾐﾝc補給であり､多発性硬化症の治療には直接", "explanation": "d,e\n\n(説明:この患者さんの症状と検査結果から､多発性硬化症が疑われます｡多発性硬化症の治療としては､副腎皮質ｽﾃﾛｲﾄﾞの内服(d)や免疫ｸﾞﾛﾌﾞﾘﾝ大量静注療法(e)が有効です｡ｱｼｸﾛﾋﾞﾙ静注(a)はﾍﾙﾍﾟｽｳｲﾙｽ感染症に対する治療であり､ｻﾘﾄﾞﾏｲﾄﾞ内服(b)はﾚｽﾄﾚｽﾚｯｸﾞｽ症候群や多発性硬化症の痙縮に対する治療ですが､この患者さんの症状からは第一選択ではありません｡ｱｽｺﾙﾋﾞﾝ酸内服(c)はﾋﾞﾀﾐﾝc補給であり､多発性硬化症の治療には直接"}
+{"problem_id": "113A65", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113A66", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113A67", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113A68", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113A69", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113A70", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113A71", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "113A72", "prediction": "d,e\n\n(説明:画像診断や血液生化学所見から､この患者さんは膵癌が疑われます｡膵癌の治療としては､手術療法が原則となります｡膵頭部に癌が浸潤している場合は膵頭十二指腸切除術､それ以外の場合は膵体尾部切除術が選択されます｡動脈塞栓術や放射線照射は､主に転移性腫瘍や切除不能な進行癌に対して行われる治療法であり､この患者さんの状況では手術療法が優先されます｡抗癌化学療法は､手術不能な進行癌や再発癌に対して行われる治療法であり､この患者さんの場合､手術が可能であればまず手術が選択", "explanation": "d,e\n\n(説明:画像診断や血液生化学所見から､この患者さんは膵癌が疑われます｡膵癌の治療としては､手術療法が原則となります｡膵頭部に癌が浸潤している場合は膵頭十二指腸切除術､それ以外の場合は膵体尾部切除術が選択されます｡動脈塞栓術や放射線照射は､主に転移性腫瘍や切除不能な進行癌に対して行われる治療法であり､この患者さんの状況では手術療法が優先されます｡抗癌化学療法は､手術不能な進行癌や再発癌に対して行われる治療法であり､この患者さんの場合､手術が可能であればまず手術が選択"}
+{"problem_id": "113A73", "prediction": "a, d, e\n\n(説明:この患者さんの症状や血液所見､画像所見から､成人t細胞白血病(atl)が疑われます｡atlは血液疾患であり､抗癌化学療法(a)が治療の中心となります｡また､低ｱﾙﾌﾞﾐﾝ血症やｶﾙｼｳﾑ低下が認められるため､ﾋﾞｽﾎｽﾎﾈｰﾄ製剤(d)や活性型ﾋﾞﾀﾐﾝd$_3$製剤(e)の投与も考慮されます｡生理食塩液輸液(b)は､この患者さんの脱水症状に対しては第一選択とはなりません｡抗ｳｲﾙｽ薬投与(c)は､atlの原因ｳｲﾙｽであるhtlv-", "explanation": "a, d, e\n\n(説明:この患者さんの症状や血液所見､画像所見から､成人t細胞白血病(atl)が疑われます｡atlは血液疾患であり､抗癌化学療法(a)が治療の中心となります｡また､低ｱﾙﾌﾞﾐﾝ血症やｶﾙｼｳﾑ低下が認められるため､ﾋﾞｽﾎｽﾎﾈｰﾄ製剤(d)や活性型ﾋﾞﾀﾐﾝd$_3$製剤(e)の投与も考慮されます｡生理食塩液輸液(b)は､この患者さんの脱水症状に対しては第一選択とはなりません｡抗ｳｲﾙｽ薬投与(c)は､atlの原因ｳｲﾙｽであるhtlv-"}
+{"problem_id": "113A74", "prediction": "a,d,e", "explanation": "a,d,e"}
+{"problem_id": "113A75", "prediction": "friedewaldの式は､ldlｺﾚｽﾃﾛｰﾙ値の推測値を以下のように計算します｡\n\nldlｺﾚｽﾃﾛｰﾙ値 = 総ｺﾚｽﾃﾛｰﾙ値 - hdlｺﾚｽﾃﾛｰﾙ値 - (ﾄﾘｸﾞﾘｾﾘﾄﾞ値 / 5)\n\n与えられた値を代入します｡\n\nldlｺﾚｽﾃﾛｰﾙ値 = 250 - 80 - (120 / 5)\n\nまず､ﾄﾘｸﾞﾘｾﾘﾄﾞ値を5で割ります｡\n\n120 / 5 = 24\n\n次に､計算を続けます｡\n\nldlｺﾚｽﾃﾛｰﾙ値 = 250 - ", "explanation": "friedewaldの式は､ldlｺﾚｽﾃﾛｰﾙ値の推測値を以下のように計算します｡\n\nldlｺﾚｽﾃﾛｰﾙ値 = 総ｺﾚｽﾃﾛｰﾙ値 - hdlｺﾚｽﾃﾛｰﾙ値 - (ﾄﾘｸﾞﾘｾﾘﾄﾞ値 / 5)\n\n与えられた値を代入します｡\n\nldlｺﾚｽﾃﾛｰﾙ値 = 250 - 80 - (120 / 5)\n\nまず､ﾄﾘｸﾞﾘｾﾘﾄﾞ値を5で割ります｡\n\n120 / 5 = 24\n\n次に､計算を続けます｡\n\nldlｺﾚｽﾃﾛｰﾙ値 = 250 - "}

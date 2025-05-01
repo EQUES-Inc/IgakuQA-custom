@@ -1,0 +1,66 @@
+{"problem_id": "113C1", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C2", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C3", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C4", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C5", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C6", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C7", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C8", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C9", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C10", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C11", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C12", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C13", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C14", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C15", "prediction": "この質問の文脈では､顔面を殴打された直後の患者の具体的な3d-ctの画像が示されていないため､正確な診断は難しいです｡しかし､一般的に顔面の骨折や損傷では､以下の症状が考えられます:\n\n- 嗄声(a):声の変化は一般的に喉頭や声帯の損傷に関連しますが､顔面の骨折でも間接的に影響を受ける可能性があります｡\n- 鼻閉(b):鼻骨や上顎骨の骨折では鼻閉", "explanation": "この質問の文脈では､顔面を殴打された直後の患者の具体的な3d-ctの画像が示されていないため､正確な診断は難しいです｡しかし､一般的に顔面の骨折や損傷では､以下の症状が考えられます:\n\n- 嗄声(a):声の変化は一般的に喉頭や声帯の損傷に関連しますが､顔面の骨折でも間接的に影響を受ける可能性があります｡\n- 鼻閉(b):鼻骨や上顎骨の骨折では鼻閉"}
+{"problem_id": "113C16", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C17", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "113C18", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113C19", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "113C20", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113C21", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113C22", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "113C23", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113C24", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "113C25", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C26", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C27", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C28", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C29", "prediction": "a: 鉄剤を投与する｡\n\nこの選択肢が最も適切です｡患者さんの血液所見から､軽度の貧血(hb 11.8g/dl)が認められます｡これは妊娠中の鉄欠乏性貧血を示唆しており､鉄剤の投与が適切な対応となります｡他の選択肢については､現時点では特に緊急性や必要性が低いと考えられます｡", "explanation": "a: 鉄剤を投与する｡\n\nこの選択肢が最も適切です｡患者さんの血液所見から､軽度の貧血(hb 11.8g/dl)が認められます｡これは妊娠中の鉄欠乏性貧血を示唆しており､鉄剤の投与が適切な対応となります｡他の選択肢については､現時点では特に緊急性や必要性が低いと考えられます｡"}
+{"problem_id": "113C30", "prediction": "a: 虚血性腸炎", "explanation": "a: 虚血性腸炎"}
+{"problem_id": "113C31", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C32", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C33", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C34", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C35", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C36", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C37", "prediction": "a: 脳波", "explanation": "a: 脳波"}
+{"problem_id": "113C38", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C39", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C40", "prediction": "a: 線維筋痛症", "explanation": "a: 線維筋痛症"}
+{"problem_id": "113C41", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C42", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C43", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C44", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C45", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C46", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C47", "prediction": "d: ﾌﾞﾚｵﾏｲｼﾝ\n\nこの症例は､ﾎｼﾞｷﾝﾘﾝﾊﾟ腫を疑うべきです｡ﾎｼﾞｷﾝﾘﾝﾊﾟ腫の特徴的な所見として､発熱､体重減少､夜間の寝汗などのb症状と､無痛性のﾘﾝﾊﾟ節腫脹が挙げられます｡さらに､免疫染色でcd30陽性の細胞が認められる点も､ﾎｼﾞｷﾝﾘﾝﾊﾟ腫を支持する所見です｡\n\nﾎｼﾞｷﾝﾘﾝﾊﾟ腫の治療には､abvd療法(ｱ", "explanation": "d: ﾌﾞﾚｵﾏｲｼﾝ\n\nこの症例は､ﾎｼﾞｷﾝﾘﾝﾊﾟ腫を疑うべきです｡ﾎｼﾞｷﾝﾘﾝﾊﾟ腫の特徴的な所見として､発熱､体重減少､夜間の寝汗などのb症状と､無痛性のﾘﾝﾊﾟ節腫脹が挙げられます｡さらに､免疫染色でcd30陽性の細胞が認められる点も､ﾎｼﾞｷﾝﾘﾝﾊﾟ腫を支持する所見です｡\n\nﾎｼﾞｷﾝﾘﾝﾊﾟ腫の治療には､abvd療法(ｱ"}
+{"problem_id": "113C48", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C49", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "113C50", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "113C51", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113C52", "prediction": "この質問が具体的な疾患や症状の文脈なしで提示されているため､一般的な回答を提供します｡ただし､通常､薬物療法の選択は患者の具体的な状態や診断に基づきます｡以下は一般的な選択肢の解説です:\n\n- **a: nsaids** - 炎症や痛みの管理に使用される非ｽﾃﾛｲﾄﾞ性抗炎症薬｡\n- **b: β遮断薬** - 高血圧や心疾患の治療に使用される｡\n- **c: ｲ", "explanation": "この質問が具体的な疾患や症状の文脈なしで提示されているため､一般的な回答を提供します｡ただし､通常､薬物療法の選択は患者の具体的な状態や診断に基づきます｡以下は一般的な選択肢の解説です:\n\n- **a: nsaids** - 炎症や痛みの管理に使用される非ｽﾃﾛｲﾄﾞ性抗炎症薬｡\n- **b: β遮断薬** - 高血圧や心疾患の治療に使用される｡\n- **c: ｲ"}
+{"problem_id": "113C53", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C54", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C55", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C56", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C57", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C58", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C59", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C60", "prediction": "d: 350\n\nbrinkman指数は､喫煙の量を数値化する指標で､1日あたりの喫煙本数と喫煙年数の積で計算されます｡この患者は15本/日を30年間喫煙しているため､brinkman指数は15 × 30 = 450です｡ただし､選択肢に450がなく､最も近い値が350であるため､d: 350を選択します｡ただし､正確には45", "explanation": "d: 350\n\nbrinkman指数は､喫煙の量を数値化する指標で､1日あたりの喫煙本数と喫煙年数の積で計算されます｡この患者は15本/日を30年間喫煙しているため､brinkman指数は15 × 30 = 450です｡ただし､選択肢に450がなく､最も近い値が350であるため､d: 350を選択します｡ただし､正確には45"}
+{"problem_id": "113C61", "prediction": "この質問の回答を決定するためには､冠動脈造影像の具体的な視覚的情報が必要です｡ただし､選択肢と一般的な冠動脈の解剖学的位置関係から推測する場合､矢印が指している部位の特徴に応じて最適な選択肢を選ぶ必要があります｡\n\nただし､具体的な画像が提供されていないため､一般的な知識に基づいて推測するしかありません｡一般的に､冠動脈造影で最も頻繁に注目される主要な枝は左冠動脈前下行枝(lad", "explanation": "この質問の回答を決定するためには､冠動脈造影像の具体的な視覚的情報が必要です｡ただし､選択肢と一般的な冠動脈の解剖学的位置関係から推測する場合､矢印が指している部位の特徴に応じて最適な選択肢を選ぶ必要があります｡\n\nただし､具体的な画像が提供されていないため､一般的な知識に基づいて推測するしかありません｡一般的に､冠動脈造影で最も頻繁に注目される主要な枝は左冠動脈前下行枝(lad"}
+{"problem_id": "113C62", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "113C63", "prediction": "b: pt-inr", "explanation": "b: pt-inr"}
+{"problem_id": "113C64", "prediction": "この質問が前文の文脈から少し離れているように見えますが､提供された情報だけでは最適な答えを特定するのが難しいです｡しかし､一般的に｢羊水がほとんど認めない｣状況( oligohydramnios )は､腎臓の発育不全や機能不全と関連していることが多く､これは胎児の尿が羊水の主要な成分であるためです｡したがって､前問の文脈から推測すると､最も考えられる状況は｢c: 腎低形成｣ですが､", "explanation": "この質問が前文の文脈から少し離れているように見えますが､提供された情報だけでは最適な答えを特定するのが難しいです｡しかし､一般的に｢羊水がほとんど認めない｣状況( oligohydramnios )は､腎臓の発育不全や機能不全と関連していることが多く､これは胎児の尿が羊水の主要な成分であるためです｡したがって､前問の文脈から推測すると､最も考えられる状況は｢c: 腎低形成｣ですが､"}
+{"problem_id": "113C65", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "113C66", "prediction": "c", "explanation": "c"}

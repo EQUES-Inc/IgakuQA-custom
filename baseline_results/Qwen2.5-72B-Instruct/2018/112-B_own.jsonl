@@ -1,0 +1,49 @@
+{"problem_id": "112B1", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B2", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B3", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B4", "prediction": "a", "explanation": "a"}
+{"problem_id": "112B5", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B6", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B7", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B9", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B10", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B11", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B12", "prediction": "a", "explanation": "a"}
+{"problem_id": "112B13", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B14", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B15", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B16", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B17", "prediction": "d: 2.0\n\n陽性尤度比は､感度を特異度の補数(1 - 特異度)で割ることで計算されます｡この場合､感度が80%(0.80)で､特異度が60%(0.60)なので､陽性尤度比は以下のようになります:\n\n\\[ \\text{陽性尤度比} = \\frac{\\text{感度}}{1 - \\text{特異度}} = \\frac{0.80}{1 - 0.60} = \\", "explanation": "d: 2.0\n\n陽性尤度比は､感度を特異度の補数(1 - 特異度)で割ることで計算されます｡この場合､感度が80%(0.80)で､特異度が60%(0.60)なので､陽性尤度比は以下のようになります:\n\n\\[ \\text{陽性尤度比} = \\frac{\\text{感度}}{1 - \\text{特異度}} = \\frac{0.80}{1 - 0.60} = \\"}
+{"problem_id": "112B18", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B19", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B20", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B21", "prediction": "a", "explanation": "a"}
+{"problem_id": "112B22", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B23", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B24", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B25", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B26", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B27", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B28", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B29", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B30", "prediction": "a: 帝王切開を行う｡", "explanation": "a: 帝王切開を行う｡"}
+{"problem_id": "112B31", "prediction": "d", "explanation": "d"}
+{"problem_id": "112B32", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B33", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B34", "prediction": "a: 安静を指示する｡", "explanation": "a: 安静を指示する｡"}
+{"problem_id": "112B35", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B36", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B37", "prediction": "e", "explanation": "e"}
+{"problem_id": "112B38", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B39", "prediction": "a", "explanation": "a"}
+{"problem_id": "112B40", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B41", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B42", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B43", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B44", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B45", "prediction": "b: ｱﾄﾞﾚﾘﾝ静注\n\nこの状況では､患者が突然意識を失い､呼吸と脈が停止していることから､心停止が疑われます｡心停止の初期対応として､胸骨圧迫とﾊﾞｯｸﾞﾊﾞﾙﾌﾞﾏｽｸによる換気が開始されています｡心電図の情報が具体的に提供されていないため､電気ｼｮｯｸの適否は判断できませんが､一般的に心停止の初期対応では､ｱﾄﾞﾚﾅﾘﾝの静注が推奨されます｡ｱﾄﾞﾚﾅﾘﾝは心拍出量を", "explanation": "b: ｱﾄﾞﾚﾘﾝ静注\n\nこの状況では､患者が突然意識を失い､呼吸と脈が停止していることから､心停止が疑われます｡心停止の初期対応として､胸骨圧迫とﾊﾞｯｸﾞﾊﾞﾙﾌﾞﾏｽｸによる換気が開始されています｡心電図の情報が具体的に提供されていないため､電気ｼｮｯｸの適否は判断できませんが､一般的に心停止の初期対応では､ｱﾄﾞﾚﾅﾘﾝの静注が推奨されます｡ｱﾄﾞﾚﾅﾘﾝは心拍出量を"}
+{"problem_id": "112B46", "prediction": "c", "explanation": "c"}
+{"problem_id": "112B47", "prediction": "a", "explanation": "a"}
+{"problem_id": "112B48", "prediction": "b", "explanation": "b"}
+{"problem_id": "112B49", "prediction": "この質問は､特定の臨床状況や症状が明記されていないため､一般的な回答は難しいです｡しかし､選択肢の中から最も一般的に診断に使用される血液検査項目を考えると､以下の選択肢が最も適していると考えられます:\n\nb: ｱﾙﾌﾞﾐﾝ\n\nｱﾙﾌﾞﾐﾝは､肝機能や栄養状態､腎機能など､さまざまな健康状態を評価する上で重要な指標です｡ただし､具体的な診断目的によっては､他の選択肢がより適切になる", "explanation": "この質問は､特定の臨床状況や症状が明記されていないため､一般的な回答は難しいです｡しかし､選択肢の中から最も一般的に診断に使用される血液検査項目を考えると､以下の選択肢が最も適していると考えられます:\n\nb: ｱﾙﾌﾞﾐﾝ\n\nｱﾙﾌﾞﾐﾝは､肝機能や栄養状態､腎機能など､さまざまな健康状態を評価する上で重要な指標です｡ただし､具体的な診断目的によっては､他の選択肢がより適切になる"}

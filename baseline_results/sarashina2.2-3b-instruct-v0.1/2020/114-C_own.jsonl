@@ -1,0 +1,75 @@
+{"problem_id": "114C1", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C2", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C3", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C4", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C5", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C6", "prediction": "この問題は､実際のﾃﾞｰﾀに基づいていないため､正確な回答を出すことはできません｡しかし､仮に日本､ｱﾒﾘｶ､ｲﾀﾘｱ､韓国およびﾌﾗﾝｽの合計特殊出生率の1990年から2018年までの推移を示すｸﾞﾗﾌがあるとすれば､日本の推移はｸﾞﾗﾌ上の特定の位置(a, b, c, d, eのいずれか)にﾌﾟﾛｯﾄされているでしょう｡実際のﾃﾞｰﾀに基づいて回答するためには､具体的なｸﾞﾗﾌやﾃﾞｰﾀが必要です｡\n\nしたがって､現在の情報だけでは正確な回答を出すことはできません｡", "explanation": "この問題は､実際のﾃﾞｰﾀに基づいていないため､正確な回答を出すことはできません｡しかし､仮に日本､ｱﾒﾘｶ､ｲﾀﾘｱ､韓国およびﾌﾗﾝｽの合計特殊出生率の1990年から2018年までの推移を示すｸﾞﾗﾌがあるとすれば､日本の推移はｸﾞﾗﾌ上の特定の位置(a, b, c, d, eのいずれか)にﾌﾟﾛｯﾄされているでしょう｡実際のﾃﾞｰﾀに基づいて回答するためには､具体的なｸﾞﾗﾌやﾃﾞｰﾀが必要です｡\n\nしたがって､現在の情報だけでは正確な回答を出すことはできません｡"}
+{"problem_id": "114C7", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C8", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C9", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C10", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C11", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C12", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C13", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C14", "prediction": "a, b, c, d, eのいずれも､問題文の情報だけでは特定できません｡遺伝性疾患の遺伝形式は､疾患の原因となる遺伝子の座位､ｱﾚﾙの性質､家族歴のﾊﾟﾀｰﾝなど､より詳細な情報がなければ判断できません｡したがって､問題文の情報だけでは回答できません｡\n\nしかし､もし問題文に特定の遺伝性疾患に関する情報が含まれている場合､その疾患の遺伝形式を推測できる可能性があります｡例えば､問題文に｢cystic fibrosis(cystic fibrosis transmembrane conductance regulator遺伝子の常染色体劣性遺伝)｣や｢huntington病( huntingtin遺伝子の常染色体優性遺伝)｣などの情報が含まれている", "explanation": "a, b, c, d, eのいずれも､問題文の情報だけでは特定できません｡遺伝性疾患の遺伝形式は､疾患の原因となる遺伝子の座位､ｱﾚﾙの性質､家族歴のﾊﾟﾀｰﾝなど､より詳細な情報がなければ判断できません｡したがって､問題文の情報だけでは回答できません｡\n\nしかし､もし問題文に特定の遺伝性疾患に関する情報が含まれている場合､その疾患の遺伝形式を推測できる可能性があります｡例えば､問題文に｢cystic fibrosis(cystic fibrosis transmembrane conductance regulator遺伝子の常染色体劣性遺伝)｣や｢huntington病( huntingtin遺伝子の常染色体優性遺伝)｣などの情報が含まれている"}
+{"problem_id": "114C15", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C16", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C17", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C18", "prediction": "d: 腹部ﾀﾞｲﾅﾐｯｸct\n\n(説明:ct検査は放射線被ばく量が多い傾向がありますが､特に腹部ﾀﾞｲﾅﾐｯｸctは､複数のｽﾗｲｽを撮影するため､他のct検査や内視鏡検査､造影検査と比較して放射線被ばく量が多くなる傾向があります｡fdg-petも放射線被ばくがありますが､主にgamma線を使用するため､ctほどではありません｡頭部単純ctや上部消化管造影検査､胸部単純ｴｯｸｽ線写真は､一般的に腹部ﾀﾞｲﾅﾐｯｸctよりも放射線被ばく量は少ないです｡)", "explanation": "d: 腹部ﾀﾞｲﾅﾐｯｸct\n\n(説明:ct検査は放射線被ばく量が多い傾向がありますが､特に腹部ﾀﾞｲﾅﾐｯｸctは､複数のｽﾗｲｽを撮影するため､他のct検査や内視鏡検査､造影検査と比較して放射線被ばく量が多くなる傾向があります｡fdg-petも放射線被ばくがありますが､主にgamma線を使用するため､ctほどではありません｡頭部単純ctや上部消化管造影検査､胸部単純ｴｯｸｽ線写真は､一般的に腹部ﾀﾞｲﾅﾐｯｸctよりも放射線被ばく量は少ないです｡)"}
+{"problem_id": "114C19", "prediction": "a: 肥満症\n\n小学校における保健指導では､生活習慣の改善や健康的な生活に関する知識の普及により､肥満症の予防が期待されます｡肥満症は､不適切な食生活や運動不足などが原因となることが多く､適切な指導により予防が可能です｡他の選択肢は､特定の遺伝的要因や疾患によるもので､生活習慣のみによる予防は困難です｡", "explanation": "a: 肥満症\n\n小学校における保健指導では､生活習慣の改善や健康的な生活に関する知識の普及により､肥満症の予防が期待されます｡肥満症は､不適切な食生活や運動不足などが原因となることが多く､適切な指導により予防が可能です｡他の選択肢は､特定の遺伝的要因や疾患によるもので､生活習慣のみによる予防は困難です｡"}
+{"problem_id": "114C20", "prediction": "c: 肺炎\n\n(説明:日本人男性の死因の推移において､1947年から2016年までで年齢群別死亡率が特に低下傾向にあるのは肺炎です｡これは､医療技術の進歩や公衆衛生の改善により､肺炎の死亡率が低下したことを示しています｡一方､悪性新生物､脳血管疾患､不慮の事故､自殺は､近年でも死因の上位に位置しており､肺炎ほど明確な低下傾向は見られません｡)", "explanation": "c: 肺炎\n\n(説明:日本人男性の死因の推移において､1947年から2016年までで年齢群別死亡率が特に低下傾向にあるのは肺炎です｡これは､医療技術の進歩や公衆衛生の改善により､肺炎の死亡率が低下したことを示しています｡一方､悪性新生物､脳血管疾患､不慮の事故､自殺は､近年でも死因の上位に位置しており､肺炎ほど明確な低下傾向は見られません｡)"}
+{"problem_id": "114C21", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C22", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C23", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C24", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C25", "prediction": "a, b, c, d, eのいずれも胃の粘膜下層を表していないため､この問題には正しい答えがありません｡胃の粘膜下層は､粘膜とmuscularis propria(筋層)の間にある層であり､通常はa, b, c, d, eの選択肢の中では明示的に示されていません｡通常､胃のh-e染色標本では､粘膜､粘膜下層､筋層､漿膜(腹膜)の順に層状構造が示されます｡もし特定の構造を指している場合､より具体的な情報が必要となります｡", "explanation": "a, b, c, d, eのいずれも胃の粘膜下層を表していないため､この問題には正しい答えがありません｡胃の粘膜下層は､粘膜とmuscularis propria(筋層)の間にある層であり､通常はa, b, c, d, eの選択肢の中では明示的に示されていません｡通常､胃のh-e染色標本では､粘膜､粘膜下層､筋層､漿膜(腹膜)の順に層状構造が示されます｡もし特定の構造を指している場合､より具体的な情報が必要となります｡"}
+{"problem_id": "114C26", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114C27", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114C28", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C29", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "114C30", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C31", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C32", "prediction": "c,d,e", "explanation": "c,d,e"}
+{"problem_id": "114C33", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "114C34", "prediction": "a, d, e", "explanation": "a, d, e"}
+{"problem_id": "114C35", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C36", "prediction": "e: 心ﾀﾝﾎﾟﾅｰﾃﾞ\n\n(説明:死因究明のための司法解剖結果から､大動脈解離が最も考えられる病態です｡特に､valsalva洞から左鎖骨下動脈起始部の下15cmの高さにかけての解離と､内膜および中膜の亀裂は､大動脈解離の特徴的所見です｡心ﾀﾝﾎﾟﾅｰﾃﾞは､心嚢内に液体が貯留し､心臓の収縮が妨げられる状態を指しますが､この問題では心嚢の破裂や液体貯留は認められていないため､心ﾀﾝﾎﾟﾅｰﾃﾞは直接の死因とは考えにくいです｡", "explanation": "e: 心ﾀﾝﾎﾟﾅｰﾃﾞ\n\n(説明:死因究明のための司法解剖結果から､大動脈解離が最も考えられる病態です｡特に､valsalva洞から左鎖骨下動脈起始部の下15cmの高さにかけての解離と､内膜および中膜の亀裂は､大動脈解離の特徴的所見です｡心ﾀﾝﾎﾟﾅｰﾃﾞは､心嚢内に液体が貯留し､心臓の収縮が妨げられる状態を指しますが､この問題では心嚢の破裂や液体貯留は認められていないため､心ﾀﾝﾎﾟﾅｰﾃﾞは直接の死因とは考えにくいです｡"}
+{"problem_id": "114C37", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C38", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C40", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C41", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C42", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C43", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C44", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C45", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C46", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C48", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C49", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C50", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C51", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C52", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C53", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C54", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C55", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C56", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C57", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C58", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114C59", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C60", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C61", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "114C62", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C63", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C64", "prediction": "a, b, c, d, eのいずれも静脈路確保の次に行うべき対応としては適切ではありません｡静脈路確保は､薬物投与や輸液を行うための基本的な処置であり､その後に行うべき対応は､患者さんの症状や原因によって異なります｡例えば､aの胃洗浄は､中毒や誤飲などの場合に行われますが､静脈路確保後すぐに行うとは限りません｡bの気管挿管は､呼吸停止や呼吸不全の場合に行われます｡c, dの血液透析や血液濾過は､急性腎不全の場合に行われます｡eの活性炭投与は､中毒の場合に行われますが､静脈路確保後すぐに行うとは限りません｡", "explanation": "a, b, c, d, eのいずれも静脈路確保の次に行うべき対応としては適切ではありません｡静脈路確保は､薬物投与や輸液を行うための基本的な処置であり､その後に行うべき対応は､患者さんの症状や原因によって異なります｡例えば､aの胃洗浄は､中毒や誤飲などの場合に行われますが､静脈路確保後すぐに行うとは限りません｡bの気管挿管は､呼吸停止や呼吸不全の場合に行われます｡c, dの血液透析や血液濾過は､急性腎不全の場合に行われます｡eの活性炭投与は､中毒の場合に行われますが､静脈路確保後すぐに行うとは限りません｡"}
+{"problem_id": "114C65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C66", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C67", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C68", "prediction": "a: 嗅覚検査\n\n(説明:医療面接および神経診察の結果から判断する情報が不足しているため､具体的な疾患や症状を推測することはできません｡しかし､一般的に神経診察で嗅覚検査が重視されるのは､脳幹や嗅神経の機能を評価する際です｡もし医療面接や神経診察で脳神経系や頭部外傷に関する異常が示唆されている場合､嗅覚検査が異常を示す可能性が高い検査となります｡ただし､具体的な症状や検査結果が提示されていないため､他の選択肢を除外することはできません｡)\n\n※実際の医療面接では､患者の歴史や神経診察の結果に基づいて､より具体的な検査が選択されます｡上記の回答は､問題", "explanation": "a: 嗅覚検査\n\n(説明:医療面接および神経診察の結果から判断する情報が不足しているため､具体的な疾患や症状を推測することはできません｡しかし､一般的に神経診察で嗅覚検査が重視されるのは､脳幹や嗅神経の機能を評価する際です｡もし医療面接や神経診察で脳神経系や頭部外傷に関する異常が示唆されている場合､嗅覚検査が異常を示す可能性が高い検査となります｡ただし､具体的な症状や検査結果が提示されていないため､他の選択肢を除外することはできません｡)\n\n※実際の医療面接では､患者の歴史や神経診察の結果に基づいて､より具体的な検査が選択されます｡上記の回答は､問題"}
+{"problem_id": "114C69", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C70", "prediction": "a: 脳梗塞\n\n(説明:脳梗塞は､脳の血管が詰まることで起こる疾患であり､通常､突然の症状(例えば､片側の麻痺や言語障害)が現れます｡問題文では､特定の症状や状況が示されていないため､この時点で脳梗塞が最も可能性が低い疾患と考えられます｡他の選択肢は､急性の循環器系疾患であり､症状や状況から可能性が考えられます｡)", "explanation": "a: 脳梗塞\n\n(説明:脳梗塞は､脳の血管が詰まることで起こる疾患であり､通常､突然の症状(例えば､片側の麻痺や言語障害)が現れます｡問題文では､特定の症状や状況が示されていないため､この時点で脳梗塞が最も可能性が低い疾患と考えられます｡他の選択肢は､急性の循環器系疾患であり､症状や状況から可能性が考えられます｡)"}
+{"problem_id": "114C71", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C72", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "114C73", "prediction": "a,c,d", "explanation": "a,c,d"}
+{"problem_id": "114C74", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C75", "prediction": "a市の人口1,000人あたりの年齢群で調整した死亡率を直接法で計算するためには､まずa市の年齢群別の死亡率を計算し､それを人口1,000人あたりに調整する必要があります｡\n\na市の年齢群別の死亡率は､それぞれの年齢群の死亡者数をその年齢群の人口で割って計算します｡\n\n* 0〜19歳:510名 / 20,000人 = 0.0255(人口10万人あたり)\n* 20〜64歳:510名 - (0", "explanation": "a市の人口1,000人あたりの年齢群で調整した死亡率を直接法で計算するためには､まずa市の年齢群別の死亡率を計算し､それを人口1,000人あたりに調整する必要があります｡\n\na市の年齢群別の死亡率は､それぞれの年齢群の死亡者数をその年齢群の人口で割って計算します｡\n\n* 0〜19歳:510名 / 20,000人 = 0.0255(人口10万人あたり)\n* 20〜64歳:510名 - (0"}

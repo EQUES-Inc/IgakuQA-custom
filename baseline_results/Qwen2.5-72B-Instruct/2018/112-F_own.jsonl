@@ -1,0 +1,84 @@
+{"problem_id": "112F1", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F2", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F3", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F4", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F6", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F9", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F10", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F11", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F12", "prediction": "この質問の回答を決定するためには､具体的なmri画像(①〜⑤)が必要です｡しかし､一般的に黒質は中脳の部分に位置しているため､中脳が明確に見える断面を選択すべきです｡通常､これは水平断面や軽い斜め断面で見ることができます｡ただし､具体的な画像がないため､一般的な知識に基づいて推測するしかありません｡\n\n一般的な位置から推測すると､黒質が見える断面は中脳がよく見える断面であることが多いです｡もし選択", "explanation": "この質問の回答を決定するためには､具体的なmri画像(①〜⑤)が必要です｡しかし､一般的に黒質は中脳の部分に位置しているため､中脳が明確に見える断面を選択すべきです｡通常､これは水平断面や軽い斜め断面で見ることができます｡ただし､具体的な画像がないため､一般的な知識に基づいて推測するしかありません｡\n\n一般的な位置から推測すると､黒質が見える断面は中脳がよく見える断面であることが多いです｡もし選択"}
+{"problem_id": "112F13", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F14", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F15", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F16", "prediction": "d: 老人ﾎｰﾑ\n\nただし､この選択は一般的な知識に基づいています｡平成27年(2015年)の具体的な統計ﾃﾞｰﾀに基づく正確な答えを確認するには､厚生労働省や関連する公的機関が発表している資料を参照することが最善です｡", "explanation": "d: 老人ﾎｰﾑ\n\nただし､この選択は一般的な知識に基づいています｡平成27年(2015年)の具体的な統計ﾃﾞｰﾀに基づく正確な答えを確認するには､厚生労働省や関連する公的機関が発表している資料を参照することが最善です｡"}
+{"problem_id": "112F17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F18", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F19", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F20", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F21", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F22", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F23", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F24", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F25", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F26", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F27", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F28", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F29", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F30", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F31", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F32", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F33", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F34", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F35", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F36", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112F37", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "112F38", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "112F39", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "112F40", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112F41", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112F42", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "112F43", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "112F44", "prediction": "c, d, e", "explanation": "c, d, e"}
+{"problem_id": "112F45", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F46", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F47", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F49", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F50", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F51", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F52", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F53", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F54", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F55", "prediction": "a: 5点", "explanation": "a: 5点"}
+{"problem_id": "112F56", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F57", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F58", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F59", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F60", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F61", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F62", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F63", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F64", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F65", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F66", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112F67", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112F68", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "112F69", "prediction": "c: 三環系抗うつ薬\n\nこの症例では､意識障害､けいれん､瞳孔の拡大､対光反射の緩慢､心電図のqrs幅の広がりとqt間隔の延長などの所見が観察されています｡これらの症状は三環系抗うつ薬の過剰摂取による中毒の特徴的な症状と一致します｡また､ﾎﾃﾙの部屋に錠剤の空包が多数捨ててあったという情報も､薬物摂取", "explanation": "c: 三環系抗うつ薬\n\nこの症例では､意識障害､けいれん､瞳孔の拡大､対光反射の緩慢､心電図のqrs幅の広がりとqt間隔の延長などの所見が観察されています｡これらの症状は三環系抗うつ薬の過剰摂取による中毒の特徴的な症状と一致します｡また､ﾎﾃﾙの部屋に錠剤の空包が多数捨ててあったという情報も､薬物摂取"}
+{"problem_id": "112F70", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F71", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F72", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F73", "prediction": "この質問の文脈が少し不明確ですが､元の問題が｢28歳の女性｡妊娠30週｡子宮底長は22cmで､腹部超音波検査で羊水はほとんど認めない｡｣という状況を前提としている場合､これらの選択肢は直接的に胎児の状態や母体の妊娠状況に影響を与える可能性が低いです｡しかし､最も一般的に確認すべき項目として､以下を選びます:\n\na: 外傷歴\n\nこれは､妊娠中の女性の健康状態を評", "explanation": "この質問の文脈が少し不明確ですが､元の問題が｢28歳の女性｡妊娠30週｡子宮底長は22cmで､腹部超音波検査で羊水はほとんど認めない｡｣という状況を前提としている場合､これらの選択肢は直接的に胎児の状態や母体の妊娠状況に影響を与える可能性が低いです｡しかし､最も一般的に確認すべき項目として､以下を選びます:\n\na: 外傷歴\n\nこれは､妊娠中の女性の健康状態を評"}
+{"problem_id": "112F74", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F75", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "112F76", "prediction": "a: 下垂体前葉機能低下症\n\nこの症例では､患者の意識障害が再発し､特に低ﾅﾄﾘｳﾑ血症(na 112meq/l)が著しいことが特徴的です｡下垂体前葉機能低下症では､抗利尿ﾎﾙﾓﾝ(adh)の分泌異常や副腎皮質ﾎﾙﾓﾝの欠乏により､低ﾅﾄﾘｳﾑ血症や意識障害が起こることがあります｡また､体重減少や月経不順などの症状も下垂体前", "explanation": "a: 下垂体前葉機能低下症\n\nこの症例では､患者の意識障害が再発し､特に低ﾅﾄﾘｳﾑ血症(na 112meq/l)が著しいことが特徴的です｡下垂体前葉機能低下症では､抗利尿ﾎﾙﾓﾝ(adh)の分泌異常や副腎皮質ﾎﾙﾓﾝの欠乏により､低ﾅﾄﾘｳﾑ血症や意識障害が起こることがあります｡また､体重減少や月経不順などの症状も下垂体前"}
+{"problem_id": "112F77", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F78", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F79", "prediction": "この質問には具体的な冠動脈造影像が示されていないため､正確な診断を下すことはできません｡しかし､一般的な知識に基づいて､責任病変が最も頻繁に見られる部位を推測することは可能です｡冠動脈疾患において､最も一般的に狭窄や閉塞が見られる部位は左前下行枝(lad)です｡したがって､選択肢の中から最も一般的な責任病変として推測すると､c: 左前下行枝を選択します｡\n\nただし､実際の診断では､具体的な画像や患者", "explanation": "この質問には具体的な冠動脈造影像が示されていないため､正確な診断を下すことはできません｡しかし､一般的な知識に基づいて､責任病変が最も頻繁に見られる部位を推測することは可能です｡冠動脈疾患において､最も一般的に狭窄や閉塞が見られる部位は左前下行枝(lad)です｡したがって､選択肢の中から最も一般的な責任病変として推測すると､c: 左前下行枝を選択します｡\n\nただし､実際の診断では､具体的な画像や患者"}
+{"problem_id": "112F80", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F81", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F82", "prediction": "b, c, d", "explanation": "b, c, d"}
+{"problem_id": "112F83", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "112F84", "prediction": "総再生産率(total fertility rate, tfr)は､ある時点の年齢別出生率から計算される指標で､平均的な女性が生涯に産む子供の数を示します｡ただし､この問題では総再生産率ではなく､総出生率(crude birth rate, cbr)を求める問題のようですが､問題文の指示に従って計算します｡\n\n総再生産率の計算には､各年齢層の女性人口に対する出生数の比率を計算し､それを合計します｡ただし､この問題では", "explanation": "総再生産率(total fertility rate, tfr)は､ある時点の年齢別出生率から計算される指標で､平均的な女性が生涯に産む子供の数を示します｡ただし､この問題では総再生産率ではなく､総出生率(crude birth rate, cbr)を求める問題のようですが､問題文の指示に従って計算します｡\n\n総再生産率の計算には､各年齢層の女性人口に対する出生数の比率を計算し､それを合計します｡ただし､この問題では"}

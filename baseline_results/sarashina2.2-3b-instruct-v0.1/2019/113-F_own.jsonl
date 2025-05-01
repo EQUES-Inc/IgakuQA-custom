@@ -1,0 +1,84 @@
+{"problem_id": "113F1", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F2", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F3", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F4", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F6", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F7", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F8", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F9", "prediction": "a: 胸腺\n\n(説明:健常成人の胸部ｴｯｸｽ線写真正面像では､胸腺は通常､退縮して影が薄くなり､同定することは困難です｡他の選択肢は､胸部ｴｯｸｽ線写真で同定できる構造ですが､特に大動脈弁(b)は心臓の中にあり､通常は直接観察できません｡心室中隔(c)や気管分岐部(d)は観察できますが､健常成人では特徴的な構造ではありません｡肺門ﾘﾝﾊﾟ節(e)は観察できる場合もありますが､通常は他の構造と比較して小さく､健常成人では必ずしも同定できるわけではありません｡胸腺", "explanation": "a: 胸腺\n\n(説明:健常成人の胸部ｴｯｸｽ線写真正面像では､胸腺は通常､退縮して影が薄くなり､同定することは困難です｡他の選択肢は､胸部ｴｯｸｽ線写真で同定できる構造ですが､特に大動脈弁(b)は心臓の中にあり､通常は直接観察できません｡心室中隔(c)や気管分岐部(d)は観察できますが､健常成人では特徴的な構造ではありません｡肺門ﾘﾝﾊﾟ節(e)は観察できる場合もありますが､通常は他の構造と比較して小さく､健常成人では必ずしも同定できるわけではありません｡胸腺"}
+{"problem_id": "113F10", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F11", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F12", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F13", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F15", "prediction": "画像を見て判断する必要がある問題ですが､仮に選択肢の中で吻合される可能性が高いｸﾞﾗﾌﾄが左冠動脈前下行枝(b)であると仮定した場合､答えはbとなります｡ただし､実際の画像がないため､確実な回答はできません｡\n\n(実際の回答には､問題文に添付されている画像が必要となります｡)", "explanation": "画像を見て判断する必要がある問題ですが､仮に選択肢の中で吻合される可能性が高いｸﾞﾗﾌﾄが左冠動脈前下行枝(b)であると仮定した場合､答えはbとなります｡ただし､実際の画像がないため､確実な回答はできません｡\n\n(実際の回答には､問題文に添付されている画像が必要となります｡)"}
+{"problem_id": "113F16", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F17", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F18", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F19", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F20", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F21", "prediction": "kaup指数は､乳幼児の成長を評価する際に使用される指標であり､身長と胸囲の比率から算出されます｡しかし､問題文では胸囲しか与えられていないため､kaup指数を直接計算することはできません｡\n\n一般的に､乳幼児の成長評価にはｶｳﾌﾟ指数(kaup index)だけでなく､ﾛｰﾚﾙ指数(rohrer index)やbmi(body mass index)などが用いられます｡これらの指数は､身長と体重の情報から算出されます｡\n\n問題文では､身長､体重､頭囲､胸囲が提供されていますが､kaup指数を直接計算できる情報が不足しています｡そのため､与えられた情報だけではkaup指数", "explanation": "kaup指数は､乳幼児の成長を評価する際に使用される指標であり､身長と胸囲の比率から算出されます｡しかし､問題文では胸囲しか与えられていないため､kaup指数を直接計算することはできません｡\n\n一般的に､乳幼児の成長評価にはｶｳﾌﾟ指数(kaup index)だけでなく､ﾛｰﾚﾙ指数(rohrer index)やbmi(body mass index)などが用いられます｡これらの指数は､身長と体重の情報から算出されます｡\n\n問題文では､身長､体重､頭囲､胸囲が提供されていますが､kaup指数を直接計算できる情報が不足しています｡そのため､与えられた情報だけではkaup指数"}
+{"problem_id": "113F22", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F23", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F24", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F25", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F26", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F27", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F28", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F29", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F30", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F31", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F32", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F33", "prediction": "a, b, c, d, eのどれでも､片側下肢に全く荷重させない完全免荷として屋外歩行するのに最も適している歩行補助具はありません｡通常､完全免荷の状態で屋外歩行を行う場合､車椅子や電動ｶｰﾄ､または両側に支柱のある歩行器(⑥)などを使用します｡しかし､問題の写真には⑥が含まれていないため､現在の選択肢の中では適切な回答がありません｡\n\nもし､問題の写真に追加の歩行補助具(⑥)が含まれている場合､それを選択するのが最も適切な回答となります｡例えば､⑥が両側に支柱のある歩行器であれば､その回答を選ぶことになるでしょう｡\n\n現在の選択肢の中では､適切な回答", "explanation": "a, b, c, d, eのどれでも､片側下肢に全く荷重させない完全免荷として屋外歩行するのに最も適している歩行補助具はありません｡通常､完全免荷の状態で屋外歩行を行う場合､車椅子や電動ｶｰﾄ､または両側に支柱のある歩行器(⑥)などを使用します｡しかし､問題の写真には⑥が含まれていないため､現在の選択肢の中では適切な回答がありません｡\n\nもし､問題の写真に追加の歩行補助具(⑥)が含まれている場合､それを選択するのが最も適切な回答となります｡例えば､⑥が両側に支柱のある歩行器であれば､その回答を選ぶことになるでしょう｡\n\n現在の選択肢の中では､適切な回答"}
+{"problem_id": "113F34", "prediction": "b,d\n\n(説明:2006年から2016年にかけて､粗死亡率は全体的に上昇傾向にありますが､特に自殺と悪性新生物(がん)は粗死亡率が増加しています｡一方､年齢調整死亡率は､心疾患､結核､脳血管疾患で減少しています｡しかし､問題文では｢粗死亡率が増加しているが年齢調整死亡率が減少しているのはどれか｣と問われているため､粗死亡率が増加し､かつ年齢調整死亡率が減少している選択肢を選ぶ必要があります｡この場合､結核と悪性新生物(がん)が該当しますが､問題文では2つ選ぶよう求められているため､より具体的な死因として悪性新生物", "explanation": "b,d\n\n(説明:2006年から2016年にかけて､粗死亡率は全体的に上昇傾向にありますが､特に自殺と悪性新生物(がん)は粗死亡率が増加しています｡一方､年齢調整死亡率は､心疾患､結核､脳血管疾患で減少しています｡しかし､問題文では｢粗死亡率が増加しているが年齢調整死亡率が減少しているのはどれか｣と問われているため､粗死亡率が増加し､かつ年齢調整死亡率が減少している選択肢を選ぶ必要があります｡この場合､結核と悪性新生物(がん)が該当しますが､問題文では2つ選ぶよう求められているため､より具体的な死因として悪性新生物"}
+{"problem_id": "113F35", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113F36", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113F37", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113F38", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113F39", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113F40", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113F41", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113F42", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F43", "prediction": "c,d,e", "explanation": "c,d,e"}
+{"problem_id": "113F44", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F45", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F46", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F47", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F48", "prediction": "b: 心ｴｺｰ検査\n\n(説明:この患者さんの症状や身体所見から､急性冠症候群や急性心筋梗塞の可能性が疑われます｡心ｴｺｰ検査は､心臓の機能や冠動脈の閉塞や狭窄を評価するのに有用であり､最も優先される検査です｡下肢静脈超音波検査(a)は､深部静脈血栓症の評価に有用ですが､急性冠症候群の精査としては優先度は低くなります｡胸椎mri(c)や頭部ct(d)､胸部ct(e)は､この患者さんの症状や身体所見から直接的に優先される検査ではありません｡)", "explanation": "b: 心ｴｺｰ検査\n\n(説明:この患者さんの症状や身体所見から､急性冠症候群や急性心筋梗塞の可能性が疑われます｡心ｴｺｰ検査は､心臓の機能や冠動脈の閉塞や狭窄を評価するのに有用であり､最も優先される検査です｡下肢静脈超音波検査(a)は､深部静脈血栓症の評価に有用ですが､急性冠症候群の精査としては優先度は低くなります｡胸椎mri(c)や頭部ct(d)､胸部ct(e)は､この患者さんの症状や身体所見から直接的に優先される検査ではありません｡)"}
+{"problem_id": "113F49", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F50", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F52", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F53", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F54", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F55", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F56", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F57", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F58", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F59", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F60", "prediction": "a: 羊水指数〈afi〉\n\n妊娠34週で胎動減少を主訴に来院した場合､まず評価すべきなのは胎児のwell-being(well-beingの評価)です｡羊水指数(afi: amniotic fluid index)は､胎児の羊水量を評価する指標であり､胎児のwell-beingを評価する上で重要です｡afiが正常であれば､胎児は適切に発育しており､羊水も十分に存在する可能性が高いです｡一方､afiが低値であれば､胎児の羊水減少や胎児機能不全が疑われます｡\n\nb, c, d, eの選択肢は､", "explanation": "a: 羊水指数〈afi〉\n\n妊娠34週で胎動減少を主訴に来院した場合､まず評価すべきなのは胎児のwell-being(well-beingの評価)です｡羊水指数(afi: amniotic fluid index)は､胎児の羊水量を評価する指標であり､胎児のwell-beingを評価する上で重要です｡afiが正常であれば､胎児は適切に発育しており､羊水も十分に存在する可能性が高いです｡一方､afiが低値であれば､胎児の羊水減少や胎児機能不全が疑われます｡\n\nb, c, d, eの選択肢は､"}
+{"problem_id": "113F61", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F62", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F63", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113F64", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113F65", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113F66", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113F67", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113F68", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F69", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F70", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F71", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F72", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F73", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F74", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F75", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "113F76", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F77", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F78", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F79", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F80", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F81", "prediction": "a: 脳波\n\n(説明:脳波は､脳に異常がある場合に異常所見を示す可能性が最も高い検査です｡例えば､てんかんや脳炎､脳症などの疾患では､脳波に特徴的な異常波が認められることがあります｡他の検査は､主に聴覚や視覚､眼球運動､末梢神経の機能を評価するものであり､脳全体の機能異常を直接的に反映するとは限りません｡)", "explanation": "a: 脳波\n\n(説明:脳波は､脳に異常がある場合に異常所見を示す可能性が最も高い検査です｡例えば､てんかんや脳炎､脳症などの疾患では､脳波に特徴的な異常波が認められることがあります｡他の検査は､主に聴覚や視覚､眼球運動､末梢神経の機能を評価するものであり､脳全体の機能異常を直接的に反映するとは限りません｡)"}
+{"problem_id": "113F82", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F83", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F84", "prediction": "死亡数aを人口aで割った値をﾘｽｸﾚｰﾄa､死亡数bを人口bで割った値をﾘｽｸﾚｰﾄbとすると､ﾘｽｸﾚｰﾄaは810/150,000=0.0054､ﾘｽｸﾚｰﾄbは18/24,000=0.00075となります｡\n\nﾘｽｸ比はﾘｽｸﾚｰﾄaをﾘｽｸﾚｰﾄbで割った値なので､0.0054/0.00075=7.2となります｡\n\nしかし､問題では｢小数第3位以下の数値が", "explanation": "死亡数aを人口aで割った値をﾘｽｸﾚｰﾄa､死亡数bを人口bで割った値をﾘｽｸﾚｰﾄbとすると､ﾘｽｸﾚｰﾄaは810/150,000=0.0054､ﾘｽｸﾚｰﾄbは18/24,000=0.00075となります｡\n\nﾘｽｸ比はﾘｽｸﾚｰﾄaをﾘｽｸﾚｰﾄbで割った値なので､0.0054/0.00075=7.2となります｡\n\nしかし､問題では｢小数第3位以下の数値が"}

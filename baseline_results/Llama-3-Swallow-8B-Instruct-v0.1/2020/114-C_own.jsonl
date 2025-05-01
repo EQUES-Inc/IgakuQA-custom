@@ -1,0 +1,75 @@
+{"problem_id": "114C1", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C2", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C3", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C4", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C5", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C6", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C7", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C8", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C9", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C10", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C11", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C12", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C13", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C14", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C15", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C16", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C17", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C18", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C19", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C20", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C21", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C22", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C23", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C24", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C25", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C26", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "114C27", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "114C28", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "114C29", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114C30", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "114C31", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114C32", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114C33", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "114C34", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "114C35", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C36", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C37", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C38", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C40", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C41", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C42", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C43", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C44", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C45", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C46", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C48", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C49", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C50", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C51", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C52", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C53", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C54", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C55", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C56", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C57", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "114C58", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "114C59", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "114C60", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C61", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C62", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C63", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C64", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C66", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C67", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C68", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C69", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C70", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C71", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C72", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "114C73", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114C74", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C75", "prediction": "0〜19歳: (20/40,000) × (510/120,000,000) × 1,000 = 0.00\n20〜64歳: (140/70,000) × (510/120,000,000) × 1,000 = 0.20\n65歳以上: (350/10,000) × (510/120,000,000) × 1,000 = 2.92\n\n解答: 0.00, 0.20, 2.92", "explanation": "0〜19歳: (20/40,000) × (510/120,000,000) × 1,000 = 0.00\n20〜64歳: (140/70,000) × (510/120,000,000) × 1,000 = 0.20\n65歳以上: (350/10,000) × (510/120,000,000) × 1,000 = 2.92\n\n解答: 0.00, 0.20, 2.92"}

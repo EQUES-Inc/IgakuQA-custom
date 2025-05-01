@@ -1,0 +1,75 @@
+{"problem_id": "115F1", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F2", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F3", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F4", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F5", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F6", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F7", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F8", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F9", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F10", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F11", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F12", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F13", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F15", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F16", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F17", "prediction": "画像を見ていないので正確な回答はできませんが､一般的に縦隔条件の胸部造影ctで異常所見を示す心臓の部位としては､右心室(d)や左心室(e)が考えられます｡しかし､問題文だけでは特定できません｡もし画像に具体的な異常が写っている場合は､その部位を選択する必要があります｡例えば､肺動脈(c)に狭窄や閉塞が写っている場合はそれが答えになります｡\n\n回答するためには､実際の画像情報が必要となります｡\n\n(もし画像情報があれば､例えば｢左心室に造影剤の漏出が認められる｣といった具体的な異常所見に基づいて回答することができます｡)", "explanation": "画像を見ていないので正確な回答はできませんが､一般的に縦隔条件の胸部造影ctで異常所見を示す心臓の部位としては､右心室(d)や左心室(e)が考えられます｡しかし､問題文だけでは特定できません｡もし画像に具体的な異常が写っている場合は､その部位を選択する必要があります｡例えば､肺動脈(c)に狭窄や閉塞が写っている場合はそれが答えになります｡\n\n回答するためには､実際の画像情報が必要となります｡\n\n(もし画像情報があれば､例えば｢左心室に造影剤の漏出が認められる｣といった具体的な異常所見に基づいて回答することができます｡)"}
+{"problem_id": "115F18", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F19", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F20", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F21", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F22", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F23", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F24", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F25", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F26", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F27", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F28", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F29", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F30", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "115F31", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "115F32", "prediction": "e, (選択肢の中ではﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安薬が高齢者の転倒ﾘｽｸを高める薬剤として知られています｡ただし､他の選択肢も転倒ﾘｽｸを高める可能性があるため､問題文の意図がﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安薬のみを指しているのか､それとも他の薬剤も含めて回答を求めているのかによって､回答が変わる可能性があります｡もし他の薬剤も含めて回答するならば､a: 降圧薬やd: ﾋﾞﾀﾐﾝd製剤も高齢者では転倒ﾘｽｸを高めることがあります)\n\n(追加回答:もし問題文の意図がﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安薬のみを指している場合､e: ﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安", "explanation": "e, (選択肢の中ではﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安薬が高齢者の転倒ﾘｽｸを高める薬剤として知られています｡ただし､他の選択肢も転倒ﾘｽｸを高める可能性があるため､問題文の意図がﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安薬のみを指しているのか､それとも他の薬剤も含めて回答を求めているのかによって､回答が変わる可能性があります｡もし他の薬剤も含めて回答するならば､a: 降圧薬やd: ﾋﾞﾀﾐﾝd製剤も高齢者では転倒ﾘｽｸを高めることがあります)\n\n(追加回答:もし問題文の意図がﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安薬のみを指している場合､e: ﾍﾞﾝｿﾞｼﾞｱｾﾞﾋﾟﾝ系抗不安"}
+{"problem_id": "115F33", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F34", "prediction": "b,d,e", "explanation": "b,d,e"}
+{"problem_id": "115F35", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F36", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F37", "prediction": "d: 子宮腺筋症\n\n(説明:骨盤部単純mriのt2強調矢状断像で､子宮が腫大し､内膜が厚く､筋層への浸潤が疑われる場合､子宮腺筋症の可能性が最も高いです｡子宮筋腫は子宮の腫大と過多月経をきたしますが､可動性が良好で､血液所見やmri像から貧血や浸潤は認めにくいです｡子宮体癌や子宮肉腫は､子宮体部の悪性腫瘍であり､子宮筋層の浸潤や転移を伴うことが多く､mri像や血液所見から診断が可能です｡子宮内膜増殖症", "explanation": "d: 子宮腺筋症\n\n(説明:骨盤部単純mriのt2強調矢状断像で､子宮が腫大し､内膜が厚く､筋層への浸潤が疑われる場合､子宮腺筋症の可能性が最も高いです｡子宮筋腫は子宮の腫大と過多月経をきたしますが､可動性が良好で､血液所見やmri像から貧血や浸潤は認めにくいです｡子宮体癌や子宮肉腫は､子宮体部の悪性腫瘍であり､子宮筋層の浸潤や転移を伴うことが多く､mri像や血液所見から診断が可能です｡子宮内膜増殖症"}
+{"problem_id": "115F38", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F39", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F40", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F41", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F42", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F43", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F44", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F46", "prediction": "d: 帝王切開\n\n(説明:胎児心拍数陣痛図では､一過性頻脈や遅発性一過性徐脈などの異常は認められず､胎児機能不全を示唆する所見は見られない｡しかし､児頭下降度がsp-1cmと低く､回旋も変わっていないことから､児頭の通過障害が疑われる｡また､陣痛は増強しているものの､子宮口の開大は全開大にとどまり､児頭の下降が見られないことから､自然分娩は困難と考えられる｡そのため､帝王切開による出産が適切である｡)", "explanation": "d: 帝王切開\n\n(説明:胎児心拍数陣痛図では､一過性頻脈や遅発性一過性徐脈などの異常は認められず､胎児機能不全を示唆する所見は見られない｡しかし､児頭下降度がsp-1cmと低く､回旋も変わっていないことから､児頭の通過障害が疑われる｡また､陣痛は増強しているものの､子宮口の開大は全開大にとどまり､児頭の下降が見られないことから､自然分娩は困難と考えられる｡そのため､帝王切開による出産が適切である｡)"}
+{"problem_id": "115F47", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F49", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F50", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F51", "prediction": "c", "explanation": "c"}
+{"problem_id": "115F52", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F53", "prediction": "a: 食道胃接合部\n\n(説明:上部消化管内視鏡像を見て､病変の部位が食道胃接合部にあると判断します｡この場合､内視鏡像に病変が具体的に写っていることが前提となります｡もし内視鏡像が提供されていない場合､具体的な回答はできません｡)", "explanation": "a: 食道胃接合部\n\n(説明:上部消化管内視鏡像を見て､病変の部位が食道胃接合部にあると判断します｡この場合､内視鏡像に病変が具体的に写っていることが前提となります｡もし内視鏡像が提供されていない場合､具体的な回答はできません｡)"}
+{"problem_id": "115F54", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "115F55", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "115F56", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "115F57", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "115F58", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "115F59", "prediction": "a,d,e", "explanation": "a,d,e"}
+{"problem_id": "115F60", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F61", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "115F62", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F63", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F64", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F65", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F66", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F67", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F68", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F69", "prediction": "b", "explanation": "b"}
+{"problem_id": "115F70", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F71", "prediction": "e", "explanation": "e"}
+{"problem_id": "115F72", "prediction": "a,d,e", "explanation": "a,d,e"}
+{"problem_id": "115F73", "prediction": "a", "explanation": "a"}
+{"problem_id": "115F74", "prediction": "d", "explanation": "d"}
+{"problem_id": "115F75", "prediction": "喫煙による肺癌罹患のﾘｽｸ比は､喫煙者の肺癌罹患者数を調査開始時点の喫煙者数で割った値を､非喫煙者の肺癌罹患者数を調査開始時点の非喫煙者数で割った値で割ることで求められます｡\n\nﾘｽｸ比 = (喫煙者の肺癌罹患者数 / 喫煙者数) / (非喫煙者の肺癌罹患者数 / 非喫煙者数)\n\n= (408 / 40000) / (72 / 60000)\n\n= (0.0102) / (0.", "explanation": "喫煙による肺癌罹患のﾘｽｸ比は､喫煙者の肺癌罹患者数を調査開始時点の喫煙者数で割った値を､非喫煙者の肺癌罹患者数を調査開始時点の非喫煙者数で割った値で割ることで求められます｡\n\nﾘｽｸ比 = (喫煙者の肺癌罹患者数 / 喫煙者数) / (非喫煙者の肺癌罹患者数 / 非喫煙者数)\n\n= (408 / 40000) / (72 / 60000)\n\n= (0.0102) / (0."}

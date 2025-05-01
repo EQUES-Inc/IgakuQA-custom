@@ -1,0 +1,66 @@
+{"problem_id": "112C1", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C2", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C3", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C4", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C5", "prediction": "a: 眼球\n\n圧力波による一次爆傷は､主に鼓膜や肺などの臓器に損傷を与える可能性があります｡眼球は､圧力波に対して比較的耐性があり､直接的な損傷を受けにくいとされています｡ただし､爆風による衝撃で物が飛んでくる二次的な損傷には注意が必要です｡", "explanation": "a: 眼球\n\n圧力波による一次爆傷は､主に鼓膜や肺などの臓器に損傷を与える可能性があります｡眼球は､圧力波に対して比較的耐性があり､直接的な損傷を受けにくいとされています｡ただし､爆風による衝撃で物が飛んでくる二次的な損傷には注意が必要です｡"}
+{"problem_id": "112C6", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C7", "prediction": "a, b, c, d, eのいずれも左冠動脈回旋枝ではありません｡左冠動脈回旋枝は､冠動脈の分岐ﾊﾟﾀｰﾝの中で特に複雑な部分であり､通常は冠状動脈撮影やct画像で明確に識別できます｡しかし､画像がないため正確な判断はできません｡通常､左冠動脈回旋枝は左冠動脈の枝であり､心臓の後方(背中側)を回り込むように走行します｡画像①〜⑤の具体的な内容がないため､ここでは特定できません｡\n\nもし画像があれば､左冠動脈回旋枝は心臓の後方(背中側)に位置し､左前下行", "explanation": "a, b, c, d, eのいずれも左冠動脈回旋枝ではありません｡左冠動脈回旋枝は､冠動脈の分岐ﾊﾟﾀｰﾝの中で特に複雑な部分であり､通常は冠状動脈撮影やct画像で明確に識別できます｡しかし､画像がないため正確な判断はできません｡通常､左冠動脈回旋枝は左冠動脈の枝であり､心臓の後方(背中側)を回り込むように走行します｡画像①〜⑤の具体的な内容がないため､ここでは特定できません｡\n\nもし画像があれば､左冠動脈回旋枝は心臓の後方(背中側)に位置し､左前下行"}
+{"problem_id": "112C8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C9", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C10", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C11", "prediction": "c: 超音波内視鏡\n\n胃粘膜下腫瘍の診断に有用な検査として､超音波内視鏡(endoscopic ultrasound:eus)が挙げられます｡超音波内視鏡は､胃粘膜の下にできた腫瘍を直接観察することができ､腫瘍の深達度や周囲の臓器への浸潤の有無を評価するのに有用です｡また､eusｶﾞｲﾄﾞ下で針生検を行うことで､腫瘍の組織診断を行うことも可能です｡\n\n拡大内視鏡(a)､色素内視鏡(b)､ｶﾌﾟｾﾙ内視鏡(d)､ﾀﾞﾌﾞﾙﾊﾞﾙｰﾝ内視鏡(e)は､胃粘膜の観察や病変の検出には有用ですが､胃粘膜下腫瘍の診断に特に特化しているわけではありません｡ただし､", "explanation": "c: 超音波内視鏡\n\n胃粘膜下腫瘍の診断に有用な検査として､超音波内視鏡(endoscopic ultrasound:eus)が挙げられます｡超音波内視鏡は､胃粘膜の下にできた腫瘍を直接観察することができ､腫瘍の深達度や周囲の臓器への浸潤の有無を評価するのに有用です｡また､eusｶﾞｲﾄﾞ下で針生検を行うことで､腫瘍の組織診断を行うことも可能です｡\n\n拡大内視鏡(a)､色素内視鏡(b)､ｶﾌﾟｾﾙ内視鏡(d)､ﾀﾞﾌﾞﾙﾊﾞﾙｰﾝ内視鏡(e)は､胃粘膜の観察や病変の検出には有用ですが､胃粘膜下腫瘍の診断に特に特化しているわけではありません｡ただし､"}
+{"problem_id": "112C12", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C13", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C14", "prediction": "a: 妊娠6週\n\n(説明:正常胎芽･胎児において､心拍数が最も多い時期は妊娠6週頃です｡この時期は､胎児の心拍数が1分間に160~180回程度と最も高く､妊娠が進むにつれて徐々に減少していきます｡)", "explanation": "a: 妊娠6週\n\n(説明:正常胎芽･胎児において､心拍数が最も多い時期は妊娠6週頃です｡この時期は､胎児の心拍数が1分間に160~180回程度と最も高く､妊娠が進むにつれて徐々に減少していきます｡)"}
+{"problem_id": "112C15", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C16", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112C17", "prediction": "d,e\n\n(説明:ｼｮｯｸをきたす病態で早期から中心静脈圧が上昇するのは､心ﾀﾝﾎﾟﾅ一ﾃﾞとｱﾅﾌｨﾗｷｼｰです｡敗血症や異所性妊娠破裂では､初期には中心静脈圧の上昇はみられず､むしろ血圧低下やｼｮｯｸ症状が先行します｡緊張性気胸では､胸腔内圧の上昇により静脈還流が障害され､ｼｮｯｸをきたすことがありますが､中心静脈圧の上昇は顕著ではありません｡ｱﾅﾌｨﾗｷｼｰでは､血管透過性亢進により循環血液量が減少し､ｼｮｯｸをきたすことがありますが､心ﾀﾝﾎﾟﾅ一ﾃﾞほど早期に中心静脈圧の上昇", "explanation": "d,e\n\n(説明:ｼｮｯｸをきたす病態で早期から中心静脈圧が上昇するのは､心ﾀﾝﾎﾟﾅ一ﾃﾞとｱﾅﾌｨﾗｷｼｰです｡敗血症や異所性妊娠破裂では､初期には中心静脈圧の上昇はみられず､むしろ血圧低下やｼｮｯｸ症状が先行します｡緊張性気胸では､胸腔内圧の上昇により静脈還流が障害され､ｼｮｯｸをきたすことがありますが､中心静脈圧の上昇は顕著ではありません｡ｱﾅﾌｨﾗｷｼｰでは､血管透過性亢進により循環血液量が減少し､ｼｮｯｸをきたすことがありますが､心ﾀﾝﾎﾟﾅ一ﾃﾞほど早期に中心静脈圧の上昇"}
+{"problem_id": "112C18", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112C19", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112C20", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112C21", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112C22", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112C23", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112C24", "prediction": "b,c,d", "explanation": "b,c,d"}
+{"problem_id": "112C25", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C26", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C27", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C28", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C29", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C30", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C31", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C32", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C33", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C34", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C35", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C36", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C37", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C38", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C39", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C40", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C41", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C42", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C43", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C44", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C45", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C46", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C48", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C49", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C50", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112C51", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C52", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C53", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C54", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C55", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C56", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C57", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112C58", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "112C59", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C60", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C61", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C62", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C63", "prediction": "a: 脳波\n\nこの患者さんの症状と検査結果から､脳炎や脳症､多発性硬化症などの脱髄疾患が疑われます｡脳波検査は､これらの疾患の診断に有用な検査であり､特に急性の経過を示す場合には重要な検査となります｡視覚誘発電位検査や脳血流spect検査は､他の脳疾患や血管障害の診断には有用ですが､この患者さんの症状と検査結果からは第一選択の検査ではありません｡頸動脈超音波検査は､脳梗塞のﾘｽｸ評価には有用ですが､この患者さんの症状からは直接的ではありません｡反復誘発筋電図検査は､末梢神経障害の診断には有用ですが､", "explanation": "a: 脳波\n\nこの患者さんの症状と検査結果から､脳炎や脳症､多発性硬化症などの脱髄疾患が疑われます｡脳波検査は､これらの疾患の診断に有用な検査であり､特に急性の経過を示す場合には重要な検査となります｡視覚誘発電位検査や脳血流spect検査は､他の脳疾患や血管障害の診断には有用ですが､この患者さんの症状と検査結果からは第一選択の検査ではありません｡頸動脈超音波検査は､脳梗塞のﾘｽｸ評価には有用ですが､この患者さんの症状からは直接的ではありません｡反復誘発筋電図検査は､末梢神経障害の診断には有用ですが､"}
+{"problem_id": "112C64", "prediction": "問題文だけでは具体的な疾患や症状が不明のため､適切な回答はできません｡しかし､一般的に急性の血栓症(例えば心筋梗塞や脳梗塞)に対してはa: 血栓溶解療法がまず行うべき治療となることが多いです｡他の選択肢は､慢性の免疫疾患(例えばrheumatoid arthritisやsystemic lupus erythematosus)に対して行われる治療です｡より具体的な情報があれば､適切な回答ができます｡\n\n(但し､問題文が特定の疾患や状況を前提としている場合､その前提に応じた回答が必要となります｡)", "explanation": "問題文だけでは具体的な疾患や症状が不明のため､適切な回答はできません｡しかし､一般的に急性の血栓症(例えば心筋梗塞や脳梗塞)に対してはa: 血栓溶解療法がまず行うべき治療となることが多いです｡他の選択肢は､慢性の免疫疾患(例えばrheumatoid arthritisやsystemic lupus erythematosus)に対して行われる治療です｡より具体的な情報があれば､適切な回答ができます｡\n\n(但し､問題文が特定の疾患や状況を前提としている場合､その前提に応じた回答が必要となります｡)"}
+{"problem_id": "112C65", "prediction": "a: ｱｽﾋﾟﾘﾝ\n\n(説明:再発予防にｱｽﾋﾟﾘﾝが用いられる疾患としては､主に心筋梗塞や脳梗塞後の再発予防があります｡ｱｽﾋﾟﾘﾝは血小板の凝集を抑制することで､血栓の形成を防ぎ､再発を予防します｡ﾜﾙﾌｧﾘﾝは血液を凝固しにくくする抗凝固薬であり､ｼｸﾛｽﾎﾟﾘﾝは免疫抑制剤､ｲﾝﾀｰﾌｪﾛﾝβはｳｲﾙｽ感染症や自己免疫疾患の治療に用いられる薬剤､副腎皮質ｽﾃﾛｲﾄﾞは炎症を抑える薬剤であり､いずれも再発予防に用いられることがありますが､問題文の文脈からはｱｽﾋﾟﾘﾝが最も適切な選択肢です｡)", "explanation": "a: ｱｽﾋﾟﾘﾝ\n\n(説明:再発予防にｱｽﾋﾟﾘﾝが用いられる疾患としては､主に心筋梗塞や脳梗塞後の再発予防があります｡ｱｽﾋﾟﾘﾝは血小板の凝集を抑制することで､血栓の形成を防ぎ､再発を予防します｡ﾜﾙﾌｧﾘﾝは血液を凝固しにくくする抗凝固薬であり､ｼｸﾛｽﾎﾟﾘﾝは免疫抑制剤､ｲﾝﾀｰﾌｪﾛﾝβはｳｲﾙｽ感染症や自己免疫疾患の治療に用いられる薬剤､副腎皮質ｽﾃﾛｲﾄﾞは炎症を抑える薬剤であり､いずれも再発予防に用いられることがありますが､問題文の文脈からはｱｽﾋﾟﾘﾝが最も適切な選択肢です｡)"}
+{"problem_id": "112C66", "prediction": "pao2(動脈血酸素分圧)と肺胞気酸素分圧(pao2 eq)は通常同じ値であるため､肺胞気-動脈血酸素分圧較差(a-ado2)は原則として0torrとなります｡しかし､この問題ではpao2が79torr､room airにおける肺胞気酸素分圧(pao2 eq)は一般的に100torrと仮定されるため､a-ado2はpao2とpao2 eqの差として計算されます｡\n\nこの場合､a-ado2 = pao2 eq", "explanation": "pao2(動脈血酸素分圧)と肺胞気酸素分圧(pao2 eq)は通常同じ値であるため､肺胞気-動脈血酸素分圧較差(a-ado2)は原則として0torrとなります｡しかし､この問題ではpao2が79torr､room airにおける肺胞気酸素分圧(pao2 eq)は一般的に100torrと仮定されるため､a-ado2はpao2とpao2 eqの差として計算されます｡\n\nこの場合､a-ado2 = pao2 eq"}

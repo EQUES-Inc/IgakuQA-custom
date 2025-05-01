@@ -1,0 +1,84 @@
+{"problem_id": "112F1", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F2", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F3", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F4", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F6", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F8", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F9", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F10", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F11", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F12", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F13", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F14", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F15", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F16", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F18", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F19", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F20", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F21", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F22", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F23", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F24", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F25", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F26", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F27", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F28", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F29", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F30", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F31", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F32", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F33", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F34", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F35", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F36", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112F37", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112F38", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "112F39", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "112F40", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112F41", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112F42", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "112F43", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "112F44", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "112F45", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F46", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F47", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F49", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F50", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F52", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F53", "prediction": "e", "explanation": "e"}
+{"problem_id": "112F54", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F55", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F56", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F57", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F58", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F59", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F60", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F61", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F62", "prediction": "b", "explanation": "b"}
+{"problem_id": "112F63", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F64", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F65", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F66", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112F67", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "112F68", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "112F69", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F70", "prediction": "a", "explanation": "a"}
+{"problem_id": "112F71", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F72", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F73", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F74", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F75", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "112F76", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F77", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F78", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F79", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F80", "prediction": "d", "explanation": "d"}
+{"problem_id": "112F81", "prediction": "c", "explanation": "c"}
+{"problem_id": "112F82", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "112F83", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "112F84", "prediction": "① 15歳から49歳までの女性人口は､15歳から19歳までの女性人口2,000,000人､20歳から39歳までの女性人口1,500,000人､40歳から49歳までの女性人口500,000人を合計した3,000,000人である｡\n\n② 総再生産率は､15歳から49歳までの女性人口3,000,000人に対する出生数の合計を､15歳から49歳までの女性人口3,000,000人で割った値である｡\n\n出生数", "explanation": "① 15歳から49歳までの女性人口は､15歳から19歳までの女性人口2,000,000人､20歳から39歳までの女性人口1,500,000人､40歳から49歳までの女性人口500,000人を合計した3,000,000人である｡\n\n② 総再生産率は､15歳から49歳までの女性人口3,000,000人に対する出生数の合計を､15歳から49歳までの女性人口3,000,000人で割った値である｡\n\n出生数"}

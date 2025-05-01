@@ -1,0 +1,51 @@
+{"problem_id": "113E1", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E2", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E3", "prediction": "c", "explanation": "c"}
+{"problem_id": "113E4", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E5", "prediction": "c", "explanation": "c"}
+{"problem_id": "113E6", "prediction": "c", "explanation": "c"}
+{"problem_id": "113E7", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E8", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E9", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E10", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E11", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E12", "prediction": "c: 2点\n\nquick sofa(qsofa)ｽｺｱは､感染症患者における敗血症のｽｸﾘｰﾆﾝｸﾞに使用されます｡qsofaｽｺｱは以下の3つの項目から構成されています:\n\n1. 意識ﾚﾍﾞﾙの低下(glasgow coma scale [gcs] 15未満)\n2. ｼｽﾃﾐｯｸ血圧の低下(収縮期血圧100mmhg未満)\n3. 呼吸数の増加(22回/分以上)\n\n各", "explanation": "c: 2点\n\nquick sofa(qsofa)ｽｺｱは､感染症患者における敗血症のｽｸﾘｰﾆﾝｸﾞに使用されます｡qsofaｽｺｱは以下の3つの項目から構成されています:\n\n1. 意識ﾚﾍﾞﾙの低下(glasgow coma scale [gcs] 15未満)\n2. ｼｽﾃﾐｯｸ血圧の低下(収縮期血圧100mmhg未満)\n3. 呼吸数の増加(22回/分以上)\n\n各"}
+{"problem_id": "113E13", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E14", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E15", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E16", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E17", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E18", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E19", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E20", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E21", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E22", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E23", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E24", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E25", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E26", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E27", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E28", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E29", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E30", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E31", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E32", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E33", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E34", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E35", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E36", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E37", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E38", "prediction": "c", "explanation": "c"}
+{"problem_id": "113E39", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E40", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E41", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E42", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E43", "prediction": "a", "explanation": "a"}
+{"problem_id": "113E44", "prediction": "d", "explanation": "d"}
+{"problem_id": "113E45", "prediction": "c", "explanation": "c"}
+{"problem_id": "113E46", "prediction": "e: e\n\nこの患者は間欠性跛行と安静時疼痛を呈しており､末梢動脈疾患(pad)が強く疑われます｡特に､左足趾尖の安静時疼痛と左足の暗赤色変色､左の後脛骨動脈が触知できないことから､左下肢の血流が著しく低下していることが示唆されます｡abi(足関節上腕血圧比)は､下肢の血流を評価する重要な指標で､正常値は0.9以上とされています｡末梢", "explanation": "e: e\n\nこの患者は間欠性跛行と安静時疼痛を呈しており､末梢動脈疾患(pad)が強く疑われます｡特に､左足趾尖の安静時疼痛と左足の暗赤色変色､左の後脛骨動脈が触知できないことから､左下肢の血流が著しく低下していることが示唆されます｡abi(足関節上腕血圧比)は､下肢の血流を評価する重要な指標で､正常値は0.9以上とされています｡末梢"}
+{"problem_id": "113E47", "prediction": "a: 理学療法士", "explanation": "a: 理学療法士"}
+{"problem_id": "113E48", "prediction": "c: ﾍﾟﾆｼﾘﾝ系\n\nこの症例では､患者の陰茎に無痛性の潰瘍が存在し､rpr(rapid plasma reagin)とtpha(treponema pallidum hemagglutination assay)の検査結果が陽性であるため､梅毒の診断が強く疑われます｡梅毒の治療にはﾍﾟﾆｼﾘﾝ系の抗菌薬が標準的であり､特に初期梅毒では単回のﾍﾞﾝｼﾞﾙﾍﾟﾆｼﾘﾝの筋肉注射が一般的に推奨されています｡", "explanation": "c: ﾍﾟﾆｼﾘﾝ系\n\nこの症例では､患者の陰茎に無痛性の潰瘍が存在し､rpr(rapid plasma reagin)とtpha(treponema pallidum hemagglutination assay)の検査結果が陽性であるため､梅毒の診断が強く疑われます｡梅毒の治療にはﾍﾟﾆｼﾘﾝ系の抗菌薬が標準的であり､特に初期梅毒では単回のﾍﾞﾝｼﾞﾙﾍﾟﾆｼﾘﾝの筋肉注射が一般的に推奨されています｡"}
+{"problem_id": "113E49", "prediction": "b", "explanation": "b"}
+{"problem_id": "113E50", "prediction": "e", "explanation": "e"}
+{"problem_id": "113E51", "prediction": "c", "explanation": "c"}

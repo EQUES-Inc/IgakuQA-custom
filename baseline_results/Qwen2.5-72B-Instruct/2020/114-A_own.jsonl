@@ -1,0 +1,75 @@
+{"problem_id": "114A1", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A2", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A3", "prediction": "この質問の答えを決定するためには､具体的な物品の写真や詳細な説明が必要です｡通常､末梢血血液検査には以下のような物品が必要です:\n\n- 末梢血採取用の針\n- 末梢血採取用のﾁｭｰﾌﾞ(例えば､ｴﾄﾞﾀ管)\n- 消毒用ｱﾙｺｰﾙ綿\n- ｶﾞｰｾﾞ\n- ﾊﾞﾝﾄﾞｴｲﾄﾞ\n\nただし､質問文には具体的な物品の詳細が提供されていないため､選択肢の内容を推測することはできません｡もし具体的", "explanation": "この質問の答えを決定するためには､具体的な物品の写真や詳細な説明が必要です｡通常､末梢血血液検査には以下のような物品が必要です:\n\n- 末梢血採取用の針\n- 末梢血採取用のﾁｭｰﾌﾞ(例えば､ｴﾄﾞﾀ管)\n- 消毒用ｱﾙｺｰﾙ綿\n- ｶﾞｰｾﾞ\n- ﾊﾞﾝﾄﾞｴｲﾄﾞ\n\nただし､質問文には具体的な物品の詳細が提供されていないため､選択肢の内容を推測することはできません｡もし具体的"}
+{"problem_id": "114A4", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A5", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A6", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A7", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A8", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A9", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A10", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A11", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A12", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A13", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114A14", "prediction": "この質問には具体的な心ｴｺｰ図(a〜c)が示されていないため､正確な回答を提供することはできません｡しかし､一般的な知識に基づいて､心ｴｺｰ図でよく見られる所見から推測することができます｡\n\n例えば､非対称性心室中隔肥厚(d)は､心室中隔が他の部分よりも著しく肥厚している状態で､心ｴｺｰ図で明確に確認できます｡また､僧帽弁収縮期前方運動(e)は､僧帽弁が収縮期に左心", "explanation": "この質問には具体的な心ｴｺｰ図(a〜c)が示されていないため､正確な回答を提供することはできません｡しかし､一般的な知識に基づいて､心ｴｺｰ図でよく見られる所見から推測することができます｡\n\n例えば､非対称性心室中隔肥厚(d)は､心室中隔が他の部分よりも著しく肥厚している状態で､心ｴｺｰ図で明確に確認できます｡また､僧帽弁収縮期前方運動(e)は､僧帽弁が収縮期に左心"}
+{"problem_id": "114A15", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "114A16", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A17", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A18", "prediction": "e: ｺﾚｽﾃﾛｰﾙ塞栓症", "explanation": "e: ｺﾚｽﾃﾛｰﾙ塞栓症"}
+{"problem_id": "114A19", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A20", "prediction": "e: ｼｸﾛﾌｫｽﾌｧﾐﾄﾞ\n\nこの症例は､全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)の可能性が高く､特に神経精神症状(せん妄状態)や抗dsdna抗体の陽性､抗sm抗体の陽性などから､神経精神sleの診断が考えられます｡神経精神sleの治療では､高用量の副腎皮質ｽﾃﾛｲﾄﾞ(ﾌﾟﾚﾄﾞﾆｿﾞﾛﾝなど)と免疫抑制剤の併用が一般的です｡ｼｸﾛﾌｫｽﾌｧﾐ", "explanation": "e: ｼｸﾛﾌｫｽﾌｧﾐﾄﾞ\n\nこの症例は､全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)の可能性が高く､特に神経精神症状(せん妄状態)や抗dsdna抗体の陽性､抗sm抗体の陽性などから､神経精神sleの診断が考えられます｡神経精神sleの治療では､高用量の副腎皮質ｽﾃﾛｲﾄﾞ(ﾌﾟﾚﾄﾞﾆｿﾞﾛﾝなど)と免疫抑制剤の併用が一般的です｡ｼｸﾛﾌｫｽﾌｧﾐ"}
+{"problem_id": "114A21", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A22", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A23", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A24", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A25", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A26", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A27", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A28", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A29", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A30", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A31", "prediction": "d: supraventricular tachycardia", "explanation": "d: supraventricular tachycardia"}
+{"problem_id": "114A32", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A33", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A34", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A35", "prediction": "d: ﾊﾌﾟﾄｸﾞﾛﾋﾞﾝ\n\nこの症例では､患者が急性期の微細な多発性脳梗塞を呈しており､末梢血塗抹所見から溶血性貧血が疑われます｡また､血小板減少､高ﾋﾞﾘﾙﾋﾞﾝ血症､高ldh血症､紫斑などの所見から､血栓性微小血管症(tma)が強く疑われます｡tmaには､血栓性血小板減少性紫斑病(ttp)や溶血性尿毒症症", "explanation": "d: ﾊﾌﾟﾄｸﾞﾛﾋﾞﾝ\n\nこの症例では､患者が急性期の微細な多発性脳梗塞を呈しており､末梢血塗抹所見から溶血性貧血が疑われます｡また､血小板減少､高ﾋﾞﾘﾙﾋﾞﾝ血症､高ldh血症､紫斑などの所見から､血栓性微小血管症(tma)が強く疑われます｡tmaには､血栓性血小板減少性紫斑病(ttp)や溶血性尿毒症症"}
+{"problem_id": "114A36", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A37", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A38", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A39", "prediction": "a: behçet病", "explanation": "a: behçet病"}
+{"problem_id": "114A40", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A41", "prediction": "d: 色素性蕁麻疹", "explanation": "d: 色素性蕁麻疹"}
+{"problem_id": "114A42", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A43", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A44", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A45", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A46", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A47", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A48", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A49", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A50", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A51", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A52", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A53", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A54", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A55", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A56", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A57", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A58", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A59", "prediction": "a: 緊急手術", "explanation": "a: 緊急手術"}
+{"problem_id": "114A60", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A61", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A62", "prediction": "a: 外科的切除\n\nこの症例では､左下腹部に腫瘤が触知され､過去に同様の疼痛発作があることから､卵管や卵巣の疾患が疑われます｡特に､mriの所見から､卵巣腫瘍の可能性が高いと考えられます｡卵巣腫瘍の治療としては､外科的切除が一般的です｡血液所見や腫瘍ﾏｰｶｰの値も､特に悪性の兆候は示していないため､良性の腫瘍である可能性も", "explanation": "a: 外科的切除\n\nこの症例では､左下腹部に腫瘤が触知され､過去に同様の疼痛発作があることから､卵管や卵巣の疾患が疑われます｡特に､mriの所見から､卵巣腫瘍の可能性が高いと考えられます｡卵巣腫瘍の治療としては､外科的切除が一般的です｡血液所見や腫瘍ﾏｰｶｰの値も､特に悪性の兆候は示していないため､良性の腫瘍である可能性も"}
+{"problem_id": "114A63", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A64", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A65", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "114A66", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114A67", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114A68", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114A69", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "114A70", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "114A71", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "114A72", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "114A73", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "114A74", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114A75", "prediction": "a, c, e", "explanation": "a, c, e"}

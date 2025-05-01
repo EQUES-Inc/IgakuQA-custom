@@ -1,0 +1,75 @@
+{"problem_id": "114A1", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A2", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A3", "prediction": "a, b, c, d, eのいずれもが正しい物品の写真ではないため､この問題には正解がありません｡しかし､nicuに入院している日齢2の新生児の血小板数確認のために必要な物品を考えると､一般的には以下のものが該当します｡\n\n* 採血管(血小板を測定できるように､適切な抗凝固剤が含まれたもの)\n* 真空管または真空採血管ﾎﾙﾀﾞｰ\n* 患者識別ﾗﾍﾞﾙまたはﾊﾞｰｺｰﾄﾞﾘｰﾀﾞｰ(患者情報と検体をﾏｯﾁﾝｸﾞさせるため)\n* 検体提出用ﾗﾍﾞﾙまたはﾌｫｰﾑ\n\n写真がないため正確な判断はできませんが､上記の物品が該当する可能性が高いです｡しかし､問題文の写真と照らし合わせると､いずれも", "explanation": "a, b, c, d, eのいずれもが正しい物品の写真ではないため､この問題には正解がありません｡しかし､nicuに入院している日齢2の新生児の血小板数確認のために必要な物品を考えると､一般的には以下のものが該当します｡\n\n* 採血管(血小板を測定できるように､適切な抗凝固剤が含まれたもの)\n* 真空管または真空採血管ﾎﾙﾀﾞｰ\n* 患者識別ﾗﾍﾞﾙまたはﾊﾞｰｺｰﾄﾞﾘｰﾀﾞｰ(患者情報と検体をﾏｯﾁﾝｸﾞさせるため)\n* 検体提出用ﾗﾍﾞﾙまたはﾌｫｰﾑ\n\n写真がないため正確な判断はできませんが､上記の物品が該当する可能性が高いです｡しかし､問題文の写真と照らし合わせると､いずれも"}
+{"problem_id": "114A4", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A5", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A6", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A7", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A8", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A9", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A10", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A11", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A12", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A13", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114A14", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114A15", "prediction": "e,a,b\n\n(説明:推算糸球体濾過量〈egfr〉の計算には､通常､血清ｸﾚｱﾁﾆﾝ値､年齢､性別が必要です｡尿量や尿蛋白量は､egfrの計算に直接必要ではありません｡ただし､尿量や尿蛋白量は､腎機能の評価において重要な情報であり､egfrの計算以外の目的で考慮されることがあります｡)", "explanation": "e,a,b\n\n(説明:推算糸球体濾過量〈egfr〉の計算には､通常､血清ｸﾚｱﾁﾆﾝ値､年齢､性別が必要です｡尿量や尿蛋白量は､egfrの計算に直接必要ではありません｡ただし､尿量や尿蛋白量は､腎機能の評価において重要な情報であり､egfrの計算以外の目的で考慮されることがあります｡)"}
+{"problem_id": "114A16", "prediction": "a: 手根管症候群\n\n(説明:左母指から中指の手掌側にしびれ感が誘発される肢位は､手根管症候群を示唆しています｡手根管症候群は､手根管内で正中神経が圧迫されることで起こる神経障害であり､ｷﾞﾀｰの練習のような手指の反復運動が誘因となることがあります｡)", "explanation": "a: 手根管症候群\n\n(説明:左母指から中指の手掌側にしびれ感が誘発される肢位は､手根管症候群を示唆しています｡手根管症候群は､手根管内で正中神経が圧迫されることで起こる神経障害であり､ｷﾞﾀｰの練習のような手指の反復運動が誘因となることがあります｡)"}
+{"problem_id": "114A17", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A18", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A19", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A20", "prediction": "b: 抗tnf-α抗体\n\nこの患者は､ﾙｰﾌﾟｽ腎炎や中枢神経ﾙｰﾌﾟｽ(せん妄状態)を伴う全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)と考えられます｡sleの治療では､副腎皮質ｽﾃﾛｲﾄﾞが第一選択薬となりますが､より強力な免疫抑制療法が必要となる場合があります｡抗tnf-α抗体は､tnf-αというｻｲﾄｶｲﾝを阻害することで炎症を抑制し､sleの治療に有効です｡特に､ﾙｰﾌﾟｽ腎炎や中枢神経ﾙｰﾌﾟｽに対して有用性が認められています｡\n\nｺﾙﾋﾁﾝ(a)は､主に関節炎や筋肉痛の緩和に使用される薬剤であり､sleの全身", "explanation": "b: 抗tnf-α抗体\n\nこの患者は､ﾙｰﾌﾟｽ腎炎や中枢神経ﾙｰﾌﾟｽ(せん妄状態)を伴う全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)と考えられます｡sleの治療では､副腎皮質ｽﾃﾛｲﾄﾞが第一選択薬となりますが､より強力な免疫抑制療法が必要となる場合があります｡抗tnf-α抗体は､tnf-αというｻｲﾄｶｲﾝを阻害することで炎症を抑制し､sleの治療に有効です｡特に､ﾙｰﾌﾟｽ腎炎や中枢神経ﾙｰﾌﾟｽに対して有用性が認められています｡\n\nｺﾙﾋﾁﾝ(a)は､主に関節炎や筋肉痛の緩和に使用される薬剤であり､sleの全身"}
+{"problem_id": "114A21", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A22", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A23", "prediction": "a: 心雑音\n\n(説明:この患者さんの症状から､最も可能性が高いのは起立性低血圧によるめまいです｡起立性低血圧は､血圧の調節機能の異常により､立ち上がった際に血圧が低下し､めまいや失神を引き起こす状態です｡心雑音は､起立性低血圧の診断において優先度が lowest であり､通常はまず確認されません｡低血圧､頸部血管雑音､聴力の左右差､眼瞼結膜の貧血は､起立性低血圧の診断や関連疾患の評価において重要な項目です｡)", "explanation": "a: 心雑音\n\n(説明:この患者さんの症状から､最も可能性が高いのは起立性低血圧によるめまいです｡起立性低血圧は､血圧の調節機能の異常により､立ち上がった際に血圧が低下し､めまいや失神を引き起こす状態です｡心雑音は､起立性低血圧の診断において優先度が lowest であり､通常はまず確認されません｡低血圧､頸部血管雑音､聴力の左右差､眼瞼結膜の貧血は､起立性低血圧の診断や関連疾患の評価において重要な項目です｡)"}
+{"problem_id": "114A24", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A25", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A26", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A27", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A28", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A29", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A30", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A31", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A32", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A33", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A34", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A35", "prediction": "e: adamts-13活性\n\nこの患者の診断を確定するために最も重要な検査項目は､adamts-13活性です｡adamts-13は､ﾌｫﾝｳｨﾙﾌﾞﾗﾝﾄﾞ因子を切断する酵素であり､その活性が低下すると血栓性血小板減少性紫斑病(ttp)を引き起こします｡ttpは､血小板減少､溶血性貧血､神経症状､腎障害などの症状を示し､血液生化学所見では､ld高値､alp高値､総ﾋﾞﾘﾙﾋﾞﾝ上昇､直接ﾋﾞﾘﾙﾋﾞﾝ上昇､血小板減少､溶血性貧血などが認められます｡また､末梢", "explanation": "e: adamts-13活性\n\nこの患者の診断を確定するために最も重要な検査項目は､adamts-13活性です｡adamts-13は､ﾌｫﾝｳｨﾙﾌﾞﾗﾝﾄﾞ因子を切断する酵素であり､その活性が低下すると血栓性血小板減少性紫斑病(ttp)を引き起こします｡ttpは､血小板減少､溶血性貧血､神経症状､腎障害などの症状を示し､血液生化学所見では､ld高値､alp高値､総ﾋﾞﾘﾙﾋﾞﾝ上昇､直接ﾋﾞﾘﾙﾋﾞﾝ上昇､血小板減少､溶血性貧血などが認められます｡また､末梢"}
+{"problem_id": "114A36", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A37", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A38", "prediction": "d: 表在静脈拡張\n\n(説明:胸腔ﾄﾞﾚｰﾝからの空気漏れが続く状況では､胸腔内の陰圧により胸壁の静脈が拡張することがあります｡これが表在静脈拡張として観察される可能性があります｡他の選択肢は､空気漏れや術後の合併症として直接関連しない所見です｡)", "explanation": "d: 表在静脈拡張\n\n(説明:胸腔ﾄﾞﾚｰﾝからの空気漏れが続く状況では､胸腔内の陰圧により胸壁の静脈が拡張することがあります｡これが表在静脈拡張として観察される可能性があります｡他の選択肢は､空気漏れや術後の合併症として直接関連しない所見です｡)"}
+{"problem_id": "114A39", "prediction": "a: behçet病\n\n(説明:behçet病は､口腔内や陰部に痛みを伴うびらんと潰瘍､移動性の関節痛､下腿から足部の頭尾方向に延びる発赤を伴う有痛性皮疹､そして両下肢の腫脹やcrp高値などの症状を伴うことがあります｡また､血液検査では白血球増加､特に好中球増加や､aptt延長､dﾀﾞｲﾏｰ上昇などが見られることがあります｡鼠径部の造影ctで血管の狭窄や閉塞が疑われる場合もありますが､提示された画像情報だけでは確定できません｡しかし､beh", "explanation": "a: behçet病\n\n(説明:behçet病は､口腔内や陰部に痛みを伴うびらんと潰瘍､移動性の関節痛､下腿から足部の頭尾方向に延びる発赤を伴う有痛性皮疹､そして両下肢の腫脹やcrp高値などの症状を伴うことがあります｡また､血液検査では白血球増加､特に好中球増加や､aptt延長､dﾀﾞｲﾏｰ上昇などが見られることがあります｡鼠径部の造影ctで血管の狭窄や閉塞が疑われる場合もありますが､提示された画像情報だけでは確定できません｡しかし､beh"}
+{"problem_id": "114A40", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A41", "prediction": "d: 色素性蕁麻疹\n\n(説明:体幹の写真と皮膚生検の結果から､色素斑と浸潤性紅斑､擦過による膨疹の出現､真皮内の赤紫色顆粒を含有する細胞の浸潤が認められることから､色素性蕁麻疹が最も考えられます｡sweet病や急性痒疹､quincke浮腫は､症状や皮膚所見が異なり､ｱﾄﾋﾟｰ性皮膚炎は体幹だけでなく全身に症状が現れることが多いため､今回のｹｰｽとは異なります｡)", "explanation": "d: 色素性蕁麻疹\n\n(説明:体幹の写真と皮膚生検の結果から､色素斑と浸潤性紅斑､擦過による膨疹の出現､真皮内の赤紫色顆粒を含有する細胞の浸潤が認められることから､色素性蕁麻疹が最も考えられます｡sweet病や急性痒疹､quincke浮腫は､症状や皮膚所見が異なり､ｱﾄﾋﾟｰ性皮膚炎は体幹だけでなく全身に症状が現れることが多いため､今回のｹｰｽとは異なります｡)"}
+{"problem_id": "114A42", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A43", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A44", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A45", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A46", "prediction": "a: せん妄\n\nこの異常行動は､意識障害や認知機能の変動､周囲の状況に対する反応の異常などの特徴から､せん妄が疑われます｡せん妄は､意識ﾚﾍﾞﾙの変化や認知機能の変動､錯覚や幻覚､興奮や不穏などの症状を伴う状態であり､特に高齢者や認知機能障害のある患者でみられます｡\n\nb: 常同運動症は､同じ動作を繰り返す症状ですが､このｹｰｽでは箸を落とす､中空を見つめる､唾を飲み込む､歩き回るなどの症状が断続的に現れており､常同運動症よりもせん妄に近いと考えられます｡\n\nc: 複雑部分発作は､", "explanation": "a: せん妄\n\nこの異常行動は､意識障害や認知機能の変動､周囲の状況に対する反応の異常などの特徴から､せん妄が疑われます｡せん妄は､意識ﾚﾍﾞﾙの変化や認知機能の変動､錯覚や幻覚､興奮や不穏などの症状を伴う状態であり､特に高齢者や認知機能障害のある患者でみられます｡\n\nb: 常同運動症は､同じ動作を繰り返す症状ですが､このｹｰｽでは箸を落とす､中空を見つめる､唾を飲み込む､歩き回るなどの症状が断続的に現れており､常同運動症よりもせん妄に近いと考えられます｡\n\nc: 複雑部分発作は､"}
+{"problem_id": "114A47", "prediction": "c", "explanation": "c"}
+{"problem_id": "114A48", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A49", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A50", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A51", "prediction": "b: 酸素投与\n\n(説明:この患者は意識障害があり､呼吸数が速く､spo2もroom airで97%と正常範囲内ですが､ｶﾞｿﾘﾝｴﾝｼﾞﾝを使用する作業環境で意識障害を起こした可能性があります｡低酸素血症の可能性があるため､まず酸素投与を行うのが適切です｡他の選択肢は､この患者の状態や情報だけでは緊急性が低いと考えられます｡)", "explanation": "b: 酸素投与\n\n(説明:この患者は意識障害があり､呼吸数が速く､spo2もroom airで97%と正常範囲内ですが､ｶﾞｿﾘﾝｴﾝｼﾞﾝを使用する作業環境で意識障害を起こした可能性があります｡低酸素血症の可能性があるため､まず酸素投与を行うのが適切です｡他の選択肢は､この患者の状態や情報だけでは緊急性が低いと考えられます｡)"}
+{"problem_id": "114A52", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A53", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A54", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A55", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A56", "prediction": "d: 消化管閉鎖\n\n(説明:日齢6の新生児で､常位胎盤早期剥離のため緊急帝王切開で出生し､在胎26週4日､出生体重750gという低出生体重児である｡出生後すぐに気管挿管が行われ､開眼していることから､呼吸管理が必要な状態であったことがわかる｡入院後､少量のﾐﾙｸを開始したが､胃内にﾐﾙｸが残り､腹部が軽度膨満していることから､消化管通過障害が疑われる｡また､腸雑音が減弱しており､胸腹部ｴｯｸｽ線写真では､胃内に空気貯留が認められ､腸管の拡張が示唆される｡", "explanation": "d: 消化管閉鎖\n\n(説明:日齢6の新生児で､常位胎盤早期剥離のため緊急帝王切開で出生し､在胎26週4日､出生体重750gという低出生体重児である｡出生後すぐに気管挿管が行われ､開眼していることから､呼吸管理が必要な状態であったことがわかる｡入院後､少量のﾐﾙｸを開始したが､胃内にﾐﾙｸが残り､腹部が軽度膨満していることから､消化管通過障害が疑われる｡また､腸雑音が減弱しており､胸腹部ｴｯｸｽ線写真では､胃内に空気貯留が認められ､腸管の拡張が示唆される｡"}
+{"problem_id": "114A57", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A58", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A59", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A60", "prediction": "e", "explanation": "e"}
+{"problem_id": "114A61", "prediction": "d", "explanation": "d"}
+{"problem_id": "114A62", "prediction": "a", "explanation": "a"}
+{"problem_id": "114A63", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A64", "prediction": "b", "explanation": "b"}
+{"problem_id": "114A65", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114A66", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114A67", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114A68", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114A69", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114A70", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "114A71", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114A72", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114A73", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "114A74", "prediction": "c, d, e", "explanation": "c, d, e"}
+{"problem_id": "114A75", "prediction": "c,d,e", "explanation": "c,d,e"}

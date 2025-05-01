@@ -1,0 +1,75 @@
+{"problem_id": "115D1", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D2", "prediction": "c: ﾊﾞﾝｺﾏｲｼﾝ\n\n(説明:ﾊﾞﾝｺﾏｲｼﾝは､血中濃度のﾓﾆﾀﾘﾝｸﾞが必要な薬剤の代表例です｡この薬剤は､抗菌作用が強く､腎機能障害のある患者では蓄積しやすいため､適切な血中濃度を維持することが重要です｡他の選択肢は､一般的に血中濃度のﾓﾆﾀﾘﾝｸﾞは必須ではありません｡ただし､ｾﾌｧｿﾞﾘﾝは腎機能障害のある患者では投与量の調整が必要な場合があります｡)", "explanation": "c: ﾊﾞﾝｺﾏｲｼﾝ\n\n(説明:ﾊﾞﾝｺﾏｲｼﾝは､血中濃度のﾓﾆﾀﾘﾝｸﾞが必要な薬剤の代表例です｡この薬剤は､抗菌作用が強く､腎機能障害のある患者では蓄積しやすいため､適切な血中濃度を維持することが重要です｡他の選択肢は､一般的に血中濃度のﾓﾆﾀﾘﾝｸﾞは必須ではありません｡ただし､ｾﾌｧｿﾞﾘﾝは腎機能障害のある患者では投与量の調整が必要な場合があります｡)"}
+{"problem_id": "115D3", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D4", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D6", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D8", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D9", "prediction": "e: 全身性ｴﾘﾃﾏﾄｰﾃﾞｽ〈sle〉\n\n(説明:全身性ｴﾘﾃﾏﾄｰﾃﾞｽ〈sle〉は､自己免疫疾患であり､心臓の伝導障害を引き起こすことがあります｡特に完全房室ﾌﾞﾛｯｸを合併症として生じることが知られています｡他の選択肢は､強皮症(心臓伝導障害のﾘｽｸあり)､sjögren症候群(心臓伝導障害のﾘｽｸは低い)､甲状腺機能低下症(徐脈のﾘｽｸあり)､心ｻﾙｺｲﾄﾞｰｼｽ(心臓伝導障害のﾘｽｸあり)ですが､完全房室ﾌﾞﾛｯｸを最も生じやすいのはsleです｡)", "explanation": "e: 全身性ｴﾘﾃﾏﾄｰﾃﾞｽ〈sle〉\n\n(説明:全身性ｴﾘﾃﾏﾄｰﾃﾞｽ〈sle〉は､自己免疫疾患であり､心臓の伝導障害を引き起こすことがあります｡特に完全房室ﾌﾞﾛｯｸを合併症として生じることが知られています｡他の選択肢は､強皮症(心臓伝導障害のﾘｽｸあり)､sjögren症候群(心臓伝導障害のﾘｽｸは低い)､甲状腺機能低下症(徐脈のﾘｽｸあり)､心ｻﾙｺｲﾄﾞｰｼｽ(心臓伝導障害のﾘｽｸあり)ですが､完全房室ﾌﾞﾛｯｸを最も生じやすいのはsleです｡)"}
+{"problem_id": "115D10", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "115D11", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "115D12", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "115D13", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "115D14", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "115D15", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "115D16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D17", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D18", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D19", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D20", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D21", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D22", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D23", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D25", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D27", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D28", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D29", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D30", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D31", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D32", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D33", "prediction": "e: ｽﾎﾟﾛﾄﾘｺｰｼｽ\n\n(説明:この患者さんの症状､皮膚生検結果､および真菌培養結果から､ｽﾎﾟﾛﾄﾘｺｰｼｽが最も考えられます｡ｽﾎﾟﾛﾄﾘｺｰｼｽは､sporotrichoid菌による感染症で､主に皮膚や軟部組織に病変を起こします｡症状としては､結節や潰瘍､類上皮細胞肉芽腫を形成することがあり､局所熱感や圧痛を認めないことが多いです｡また､真菌培養では初期には陰性となることが多く､小川培地などで長期培養することで陽性になることがあります｡他の選択肢は､丹毒は局所熱感と圧痛を認め､化膿", "explanation": "e: ｽﾎﾟﾛﾄﾘｺｰｼｽ\n\n(説明:この患者さんの症状､皮膚生検結果､および真菌培養結果から､ｽﾎﾟﾛﾄﾘｺｰｼｽが最も考えられます｡ｽﾎﾟﾛﾄﾘｺｰｼｽは､sporotrichoid菌による感染症で､主に皮膚や軟部組織に病変を起こします｡症状としては､結節や潰瘍､類上皮細胞肉芽腫を形成することがあり､局所熱感や圧痛を認めないことが多いです｡また､真菌培養では初期には陰性となることが多く､小川培地などで長期培養することで陽性になることがあります｡他の選択肢は､丹毒は局所熱感と圧痛を認め､化膿"}
+{"problem_id": "115D34", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D35", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D37", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D38", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D39", "prediction": "a: 脳波\n\nこの問題では､患者さんの症状や検査結果から､ﾊﾟｰｷﾝｿﾝ病やﾚﾋﾞｰ小体型認知症が疑われます｡脳波検査は､これらの疾患の診断や鑑別において有用な検査です｡特に､ﾚﾋﾞｰ小体型認知症では､脳波上で周期性同期性放電(psd)や徐波化が認められることがあります｡脳血管撮影や浸透圧利尿薬の負荷､mibg心筋ｼﾝﾁｸﾞﾗﾌｨ､脳脊髄液排出試験は､ﾊﾟｰｷﾝｿﾝ病やﾚﾋﾞｰ小体型認知症の診断において直接的な有用性は高くありません｡ただし､他の疾患を除外したり､治療方針を決定したりする際には有用な", "explanation": "a: 脳波\n\nこの問題では､患者さんの症状や検査結果から､ﾊﾟｰｷﾝｿﾝ病やﾚﾋﾞｰ小体型認知症が疑われます｡脳波検査は､これらの疾患の診断や鑑別において有用な検査です｡特に､ﾚﾋﾞｰ小体型認知症では､脳波上で周期性同期性放電(psd)や徐波化が認められることがあります｡脳血管撮影や浸透圧利尿薬の負荷､mibg心筋ｼﾝﾁｸﾞﾗﾌｨ､脳脊髄液排出試験は､ﾊﾟｰｷﾝｿﾝ病やﾚﾋﾞｰ小体型認知症の診断において直接的な有用性は高くありません｡ただし､他の疾患を除外したり､治療方針を決定したりする際には有用な"}
+{"problem_id": "115D40", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D41", "prediction": "d: 播種性真菌感染症\n\n理由:この患者の症状や身体所見､検査ﾃﾞｰﾀから､播種性真菌感染症が最も疑われる｡特に､左眼球突出､左眼瞼下垂､左眼球結膜の充血と浮腫､鼻中隔穿孔､両側鼓膜の発赤と腫脹､尿中の赤血球円柱､血液中の好中球増加とcrp高値は､真菌感染を示唆する｡また､胸部単純ctで肺野に多発性の浸潤影を認め､播種性真菌感染症を疑う根拠となる｡他の選択肢は､症状や検査", "explanation": "d: 播種性真菌感染症\n\n理由:この患者の症状や身体所見､検査ﾃﾞｰﾀから､播種性真菌感染症が最も疑われる｡特に､左眼球突出､左眼瞼下垂､左眼球結膜の充血と浮腫､鼻中隔穿孔､両側鼓膜の発赤と腫脹､尿中の赤血球円柱､血液中の好中球増加とcrp高値は､真菌感染を示唆する｡また､胸部単純ctで肺野に多発性の浸潤影を認め､播種性真菌感染症を疑う根拠となる｡他の選択肢は､症状や検査"}
+{"problem_id": "115D42", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D43", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D44", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D45", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D46", "prediction": "a: 肺高血圧症\n\n胸部ｴｯｸｽ線写真で心拡大と肺血管影の増強が認められ､頸静脈怒張やii音の亢進も肺高血圧症を示唆する症状です｡また､血液生化学所見でｱﾙﾌﾞﾐﾝ低下と総蛋白低下が認められ､心不全の兆候があります｡さらに､心電図で右室負荷所見(ii､iii､avfのst低下､v1-v3のr波減高)が認められ､肺高血圧症が疑われます｡\n\nb: 不安定狭心症は､症状の増悪や心電図変化から疑われますが､", "explanation": "a: 肺高血圧症\n\n胸部ｴｯｸｽ線写真で心拡大と肺血管影の増強が認められ､頸静脈怒張やii音の亢進も肺高血圧症を示唆する症状です｡また､血液生化学所見でｱﾙﾌﾞﾐﾝ低下と総蛋白低下が認められ､心不全の兆候があります｡さらに､心電図で右室負荷所見(ii､iii､avfのst低下､v1-v3のr波減高)が認められ､肺高血圧症が疑われます｡\n\nb: 不安定狭心症は､症状の増悪や心電図変化から疑われますが､"}
+{"problem_id": "115D47", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D48", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D49", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D50", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D51", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D52", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D53", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D54", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D55", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D56", "prediction": "この問題では､患者の症状､検査結果､および鼓膜写真の特徴から､左鼓膜に病変がある可能性が高いことがわかります｡側頭骨ctで中頭蓋底の骨欠損と左上鼓室および耳小骨周囲の病変が認められていることから､慢性中耳炎や真珠腫性中耳炎が疑われます｡これらの疾患では､鼓膜に穿孔や変形が認められることが一般的です｡\n\n提示された鼓膜写真(①~⑤)の中で､慢性中耳炎や真珠腫性中耳炎を示唆する特徴が最も明確に現れているのは､鼓膜に穿孔があり､その周囲に炎症や肉芽組織が認められる", "explanation": "この問題では､患者の症状､検査結果､および鼓膜写真の特徴から､左鼓膜に病変がある可能性が高いことがわかります｡側頭骨ctで中頭蓋底の骨欠損と左上鼓室および耳小骨周囲の病変が認められていることから､慢性中耳炎や真珠腫性中耳炎が疑われます｡これらの疾患では､鼓膜に穿孔や変形が認められることが一般的です｡\n\n提示された鼓膜写真(①~⑤)の中で､慢性中耳炎や真珠腫性中耳炎を示唆する特徴が最も明確に現れているのは､鼓膜に穿孔があり､その周囲に炎症や肉芽組織が認められる"}
+{"problem_id": "115D57", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D58", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D59", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D60", "prediction": "b: 尋常性天疱瘡\n\n(説明:写真および生検組織のh-e染色標本から､尋常性天疱瘡が疑われます｡蛍光抗体直接法で表皮下層を中心にigg､c3の沈着を認めることも､天疱瘡を示唆する所見です｡後天性表皮水疱症(a)は､主に皮膚に水疱を生じ､口腔粘膜びらんは軽度であることが多いです｡水疱性類天疱瘡(c)は､主に皮膚に水", "explanation": "b: 尋常性天疱瘡\n\n(説明:写真および生検組織のh-e染色標本から､尋常性天疱瘡が疑われます｡蛍光抗体直接法で表皮下層を中心にigg､c3の沈着を認めることも､天疱瘡を示唆する所見です｡後天性表皮水疱症(a)は､主に皮膚に水疱を生じ､口腔粘膜びらんは軽度であることが多いです｡水疱性類天疱瘡(c)は､主に皮膚に水"}
+{"problem_id": "115D61", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D62", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D63", "prediction": "a: ﾙｰﾌﾟｽ腎炎\n\n理由:抗核抗体の高値(1,280倍)､c3とc4の低下､尿蛋白と尿潜血陽性､赤血球円柱と顆粒円柱の出現､腎生検のpas染色標本と蛍光抗体c1q染色標本の結果から､ﾙｰﾌﾟｽ腎炎が最も考えられます｡ﾙｰﾌﾟｽ腎炎は､全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)に合併する代表的な腎炎であり､抗核抗体の高値､免疫複合体の沈着､血管炎などの特徴的所見を認めます｡\n\nb: ", "explanation": "a: ﾙｰﾌﾟｽ腎炎\n\n理由:抗核抗体の高値(1,280倍)､c3とc4の低下､尿蛋白と尿潜血陽性､赤血球円柱と顆粒円柱の出現､腎生検のpas染色標本と蛍光抗体c1q染色標本の結果から､ﾙｰﾌﾟｽ腎炎が最も考えられます｡ﾙｰﾌﾟｽ腎炎は､全身性ｴﾘﾃﾏﾄｰﾃﾞｽ(sle)に合併する代表的な腎炎であり､抗核抗体の高値､免疫複合体の沈着､血管炎などの特徴的所見を認めます｡\n\nb: "}
+{"problem_id": "115D64", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D65", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D66", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D67", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "115D68", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "115D69", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "115D70", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "115D71", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "115D72", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "115D73", "prediction": "d,e\n\n(説明:右腹部痛､尿路結石の症状と検査ﾃﾞｰﾀから､尿路結石が疑われます｡尿路結石の再発予防で重要なのは､水分摂取(a)とｶﾙｼｳﾑやｼｭｳ酸の摂取制限(b,cは結石形成を促す可能性があるため不適切､dはｱﾝﾄﾞﾛｹﾞﾝが結石形成に関与する場合に考慮されるが､一般的には飲水と食事管理が重要)です｡しかし､動物性ﾀﾝﾊﾟｸ質の摂取(e)は尿路結石の再発予防において制限すべきものではなく､むしろ適切な栄養摂取は重要です｡したがって､正しい選択肢は飲水(a)とｶﾙｼｳﾑの摂取制限(bは", "explanation": "d,e\n\n(説明:右腹部痛､尿路結石の症状と検査ﾃﾞｰﾀから､尿路結石が疑われます｡尿路結石の再発予防で重要なのは､水分摂取(a)とｶﾙｼｳﾑやｼｭｳ酸の摂取制限(b,cは結石形成を促す可能性があるため不適切､dはｱﾝﾄﾞﾛｹﾞﾝが結石形成に関与する場合に考慮されるが､一般的には飲水と食事管理が重要)です｡しかし､動物性ﾀﾝﾊﾟｸ質の摂取(e)は尿路結石の再発予防において制限すべきものではなく､むしろ適切な栄養摂取は重要です｡したがって､正しい選択肢は飲水(a)とｶﾙｼｳﾑの摂取制限(bは"}
+{"problem_id": "115D74", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "115D75", "prediction": "b", "explanation": "b"}

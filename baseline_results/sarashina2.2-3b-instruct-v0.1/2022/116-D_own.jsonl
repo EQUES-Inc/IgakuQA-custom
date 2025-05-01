@@ -1,0 +1,75 @@
+{"problem_id": "116D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D3", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D4", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D5", "prediction": "b: 食道ｱｶﾗｼｱ\n\n上部消化管内視鏡(胃ｶﾒﾗ)は､食道､胃､十二指腸の病変を診断するために用いられます｡食道ｱｶﾗｼｱは､食道の括約筋の機能が障害され､食物が食道に停滞する疾患であり､内視鏡を用いて治療が行われることがあります｡具体的には､ﾊﾞﾙｰﾝ拡張術や筋層切開術などが行われます｡\n\n他の選択肢について説明します｡\n\n* a: 食道憩室は､食道壁の弱い部分が拡張してできる袋状の病変であり､通常は内視鏡治療の必要はありません｡\n* c: 食道ｶﾝｼﾞﾀﾞ症は､食道にｶﾝｼﾞﾀﾞという真", "explanation": "b: 食道ｱｶﾗｼｱ\n\n上部消化管内視鏡(胃ｶﾒﾗ)は､食道､胃､十二指腸の病変を診断するために用いられます｡食道ｱｶﾗｼｱは､食道の括約筋の機能が障害され､食物が食道に停滞する疾患であり､内視鏡を用いて治療が行われることがあります｡具体的には､ﾊﾞﾙｰﾝ拡張術や筋層切開術などが行われます｡\n\n他の選択肢について説明します｡\n\n* a: 食道憩室は､食道壁の弱い部分が拡張してできる袋状の病変であり､通常は内視鏡治療の必要はありません｡\n* c: 食道ｶﾝｼﾞﾀﾞ症は､食道にｶﾝｼﾞﾀﾞという真"}
+{"problem_id": "116D6", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D8", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D9", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D10", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D11", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D12", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "116D13", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "116D14", "prediction": "b,c,d", "explanation": "b,c,d"}
+{"problem_id": "116D15", "prediction": "a,b,d", "explanation": "a,b,d"}
+{"problem_id": "116D16", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D17", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D18", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D19", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D20", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D21", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D22", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D23", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D24", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D25", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D26", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D27", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D28", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D29", "prediction": "a: 手術治療\n\n(説明:この患者の舌腫瘤は扁平上皮癌であり､頸部ﾘﾝﾊﾟ節転移は認めていないため､まず行う治療としては手術治療が適しています｡粒子線治療や永久気管孔造設､経皮的胃瘻造設は､この段階での主な治療選択肢ではありません｡薬物による抗癌治療は､手術や放射線療法後のadjuvant therapyとして考慮される可能性があります｡)", "explanation": "a: 手術治療\n\n(説明:この患者の舌腫瘤は扁平上皮癌であり､頸部ﾘﾝﾊﾟ節転移は認めていないため､まず行う治療としては手術治療が適しています｡粒子線治療や永久気管孔造設､経皮的胃瘻造設は､この段階での主な治療選択肢ではありません｡薬物による抗癌治療は､手術や放射線療法後のadjuvant therapyとして考慮される可能性があります｡)"}
+{"problem_id": "116D30", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D31", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D32", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D33", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D34", "prediction": "a: parkinson病\n\n(説明:parkinson病では､安静時振戦､筋強剛､動作緩慢､姿勢反射障害などの症状が認められます｡この患者さんの症状と神経診察の結果は､parkinson病に典型的なものです｡特に､構音障害､上肢の測定障害や回内回外試験での異常､四肢の筋強剛(振戦はない)､体幹動揺などはparkinson病の特徴的症状です｡多系統萎縮症や筋萎縮性側索硬化症､huntington病､大脳皮質基底核変性症では､これらの症状の組み合わせはparkinson病ほど", "explanation": "a: parkinson病\n\n(説明:parkinson病では､安静時振戦､筋強剛､動作緩慢､姿勢反射障害などの症状が認められます｡この患者さんの症状と神経診察の結果は､parkinson病に典型的なものです｡特に､構音障害､上肢の測定障害や回内回外試験での異常､四肢の筋強剛(振戦はない)､体幹動揺などはparkinson病の特徴的症状です｡多系統萎縮症や筋萎縮性側索硬化症､huntington病､大脳皮質基底核変性症では､これらの症状の組み合わせはparkinson病ほど"}
+{"problem_id": "116D35", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D37", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D38", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D39", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D40", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D41", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D42", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D43", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D44", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D45", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D46", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D47", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D48", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D49", "prediction": "d: 急性膵炎\n\n(説明:血液生化学所見で､ast､alt､ld､alp､γ-gtが高値を示し､特にalpとγ-gtが異常に高い値を示しています｡また､ｱﾐﾗｰｾﾞも軽度上昇しています｡これらの検査結果は急性膵炎を示唆しています｡頭部単純ctで明らかな異常がないことも､急性膵炎の可能性を高めています｡非ﾎｼﾞｷﾝﾘﾝﾊﾟ腫治療前のb型肝炎ｳｲﾙｽﾏｰｶｰがhbs抗原陰性､hbs抗体陽性､hbc抗体陽性であったことは､急性膵炎の診断に直接的な影響を与えません｡しかし､hbs抗原陽性とhb", "explanation": "d: 急性膵炎\n\n(説明:血液生化学所見で､ast､alt､ld､alp､γ-gtが高値を示し､特にalpとγ-gtが異常に高い値を示しています｡また､ｱﾐﾗｰｾﾞも軽度上昇しています｡これらの検査結果は急性膵炎を示唆しています｡頭部単純ctで明らかな異常がないことも､急性膵炎の可能性を高めています｡非ﾎｼﾞｷﾝﾘﾝﾊﾟ腫治療前のb型肝炎ｳｲﾙｽﾏｰｶｰがhbs抗原陰性､hbs抗体陽性､hbc抗体陽性であったことは､急性膵炎の診断に直接的な影響を与えません｡しかし､hbs抗原陽性とhb"}
+{"problem_id": "116D50", "prediction": "b: 抗真菌薬\n\nこの患者さんの症状と検査結果から､ﾒﾄﾄﾚｷｻｰﾄによる薬剤性肺炎や播種性血管内凝固症候群(dic)が疑われます｡特に､血液培養で菌が検出された場合､抗菌薬治療が必要となります｡ﾒﾄﾄﾚｷｻｰﾄは真菌感染を悪化させる可能性があるため､抗真菌薬の投与が適切です｡st合剤は細菌性感染症に､活性型葉酸やﾋﾞﾀﾐﾝb12は葉酸代謝異常に対する治療であり､副腎皮質ｽﾃﾛｲﾄﾞは炎症反応を抑える目的ですが､この患者さんの症状からは直接的ではないと考えられます｡\n\nただし､血液培養で具体的な菌", "explanation": "b: 抗真菌薬\n\nこの患者さんの症状と検査結果から､ﾒﾄﾄﾚｷｻｰﾄによる薬剤性肺炎や播種性血管内凝固症候群(dic)が疑われます｡特に､血液培養で菌が検出された場合､抗菌薬治療が必要となります｡ﾒﾄﾄﾚｷｻｰﾄは真菌感染を悪化させる可能性があるため､抗真菌薬の投与が適切です｡st合剤は細菌性感染症に､活性型葉酸やﾋﾞﾀﾐﾝb12は葉酸代謝異常に対する治療であり､副腎皮質ｽﾃﾛｲﾄﾞは炎症反応を抑える目的ですが､この患者さんの症状からは直接的ではないと考えられます｡\n\nただし､血液培養で具体的な菌"}
+{"problem_id": "116D51", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D52", "prediction": "a: 開腹手術\n\n(説明:画像診断と腫瘍ﾏｰｶｰの結果から､子宮内膜症の悪性転化である類内膜癌や､子宮肉腫などの悪性腫瘍が疑われます｡これらの疾患では､まず開腹手術による腫瘍の完全切除が第一選択となります｡放射線照射や薬物治療､gnrhｱｺﾞﾆｽﾄ投与は､主に症状の緩和や進行抑制を目的として行われる治療であり､まずは腫瘍の完全切除を目指すことが重要です｡また､嚢胞穿刺吸引は､主に良性腫瘍や嚢胞の診断のために行われる検査であり､悪性腫瘍が疑われる場合にはまず手術を行うのが一般的です｡)", "explanation": "a: 開腹手術\n\n(説明:画像診断と腫瘍ﾏｰｶｰの結果から､子宮内膜症の悪性転化である類内膜癌や､子宮肉腫などの悪性腫瘍が疑われます｡これらの疾患では､まず開腹手術による腫瘍の完全切除が第一選択となります｡放射線照射や薬物治療､gnrhｱｺﾞﾆｽﾄ投与は､主に症状の緩和や進行抑制を目的として行われる治療であり､まずは腫瘍の完全切除を目指すことが重要です｡また､嚢胞穿刺吸引は､主に良性腫瘍や嚢胞の診断のために行われる検査であり､悪性腫瘍が疑われる場合にはまず手術を行うのが一般的です｡)"}
+{"problem_id": "116D53", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D54", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D55", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D56", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D57", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D58", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D59", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D60", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D61", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D62", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D63", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D64", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D65", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D66", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "116D67", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "116D68", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "116D69", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "116D70", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "116D71", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "116D72", "prediction": "a,b,e", "explanation": "a,b,e"}
+{"problem_id": "116D73", "prediction": "a, e, b\n\n(説明:上部消化管内視鏡検査で十二指腸下行脚に異常を認め､主膵管の拡張が腹部超音波検査で確認されていることから､膵炎や膵管狭窄が疑われます｡そのため､腹部造影ct(a)で膵管の狭窄や閉塞の有無を確認することが重要です｡また､mrcp(e)は非侵襲的で膵管の評価に有用な検査であり､膵炎や膵管結石の診断に役立ちます｡さらに､超音波内視鏡検査(b)は膵病変の詳細な評価に有用であり､生検組織の結果と合わせて診断を確定するために", "explanation": "a, e, b\n\n(説明:上部消化管内視鏡検査で十二指腸下行脚に異常を認め､主膵管の拡張が腹部超音波検査で確認されていることから､膵炎や膵管狭窄が疑われます｡そのため､腹部造影ct(a)で膵管の狭窄や閉塞の有無を確認することが重要です｡また､mrcp(e)は非侵襲的で膵管の評価に有用な検査であり､膵炎や膵管結石の診断に役立ちます｡さらに､超音波内視鏡検査(b)は膵病変の詳細な評価に有用であり､生検組織の結果と合わせて診断を確定するために"}
+{"problem_id": "116D74", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "116D75", "prediction": "b,e", "explanation": "b,e"}

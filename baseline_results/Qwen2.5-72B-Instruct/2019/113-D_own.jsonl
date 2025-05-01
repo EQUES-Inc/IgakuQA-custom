@@ -1,0 +1,75 @@
+{"problem_id": "113D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D2", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D3", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D4", "prediction": "この質問の答えを決定するためには､視力表の具体的な内容や構造についての情報が必要です｡通常､乱視の軸を決定するためには､特定の方向性を持つ線や形状(例えば､ｱｽﾄigmatic dialやlandolt環の異なる向き)が使用されます｡しかし､提供された情報では具体的な視力表の内容が不明瞭です｡\n\n一般的に､乱視の軸を決定するためには､視力表の特定の部分､特に方向性を持つ線や形状が使用されます｡もし視力表にｱｽﾄigmatic dial(", "explanation": "この質問の答えを決定するためには､視力表の具体的な内容や構造についての情報が必要です｡通常､乱視の軸を決定するためには､特定の方向性を持つ線や形状(例えば､ｱｽﾄigmatic dialやlandolt環の異なる向き)が使用されます｡しかし､提供された情報では具体的な視力表の内容が不明瞭です｡\n\n一般的に､乱視の軸を決定するためには､視力表の特定の部分､特に方向性を持つ線や形状が使用されます｡もし視力表にｱｽﾄigmatic dial("}
+{"problem_id": "113D5", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D6", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D8", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D9", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D10", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D11", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D12", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D13", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D14", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "113D15", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "113D16", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D17", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D18", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D19", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D20", "prediction": "e: ｹﾗﾄｱｶﾝﾄｰﾏ", "explanation": "e: ｹﾗﾄｱｶﾝﾄｰﾏ"}
+{"problem_id": "113D21", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D22", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D23", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D24", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D25", "prediction": "e: e\n\nこの患者は､呼吸困難､低血圧､心雑音の奔馬調律､両肺野浸潤影､bnpの上昇､心ｴｺｰでの左室壁運動の低下と左室駆出率の低下など､心不全の所見を示しています｡特に､bnpの著しい上昇(1,728pg/ml)と左室駆出率の低下(30%)は､心不全の重症度を示しています｡\n\n心不全の患者では､心係数が低下", "explanation": "e: e\n\nこの患者は､呼吸困難､低血圧､心雑音の奔馬調律､両肺野浸潤影､bnpの上昇､心ｴｺｰでの左室壁運動の低下と左室駆出率の低下など､心不全の所見を示しています｡特に､bnpの著しい上昇(1,728pg/ml)と左室駆出率の低下(30%)は､心不全の重症度を示しています｡\n\n心不全の患者では､心係数が低下"}
+{"problem_id": "113D26", "prediction": "b: volkmann拘縮", "explanation": "b: volkmann拘縮"}
+{"problem_id": "113D27", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D28", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D29", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D30", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D31", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D32", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D33", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D34", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D35", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D37", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D38", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D39", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D40", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D41", "prediction": "a: 気道確保", "explanation": "a: 気道確保"}
+{"problem_id": "113D42", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D43", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D44", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D45", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D46", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D47", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D48", "prediction": "b: ｲﾏﾁﾆﾌﾞ", "explanation": "b: ｲﾏﾁﾆﾌﾞ"}
+{"problem_id": "113D49", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D50", "prediction": "a: ｱﾛﾌﾟﾘﾉｰﾙ\n\n赤ﾚﾝｶﾞ色の結石は尿酸結石を示唆します｡尿酸結石の再発予防には､尿酸産生を抑制するｱﾛﾌﾟﾘﾉｰﾙが有効です｡", "explanation": "a: ｱﾛﾌﾟﾘﾉｰﾙ\n\n赤ﾚﾝｶﾞ色の結石は尿酸結石を示唆します｡尿酸結石の再発予防には､尿酸産生を抑制するｱﾛﾌﾟﾘﾉｰﾙが有効です｡"}
+{"problem_id": "113D51", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D52", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D53", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D54", "prediction": "b: 急性ﾘﾝﾊﾟ性白血病\n\nこの診断は､患者の臨床症状､血液所見､骨髄細胞の特徴､および表面ﾏｰｶｰ解析の結果に基づいています｡特に､異常細胞のﾍﾟﾙｵｷｼﾀﾞｰｾﾞ反応が陰性で､cd19陽性､cd20陰性､cd33陰性､tdt陽性という特徴は､急性ﾘﾝﾊﾟ性白血病を強く示唆しています｡", "explanation": "b: 急性ﾘﾝﾊﾟ性白血病\n\nこの診断は､患者の臨床症状､血液所見､骨髄細胞の特徴､および表面ﾏｰｶｰ解析の結果に基づいています｡特に､異常細胞のﾍﾟﾙｵｷｼﾀﾞｰｾﾞ反応が陰性で､cd19陽性､cd20陰性､cd33陰性､tdt陽性という特徴は､急性ﾘﾝﾊﾟ性白血病を強く示唆しています｡"}
+{"problem_id": "113D55", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D56", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D57", "prediction": "e: ﾃﾄﾗｻｲｸﾘﾝ\n\nこの症例では､患者が山で伐採作業をした後に発熱と皮疹が出現し､特に右鼠径部に発赤を伴った痂皮が認められる点から､ｴﾘｼｵﾈﾗ･ﾁﾌｽ(ﾏﾀﾞﾆ媒介性の感染症)の可能性が高いと考えられます｡ﾃﾄﾗｻｲｸﾘﾝ系の抗菌薬は､この疾患の治療に有効とされています｡", "explanation": "e: ﾃﾄﾗｻｲｸﾘﾝ\n\nこの症例では､患者が山で伐採作業をした後に発熱と皮疹が出現し､特に右鼠径部に発赤を伴った痂皮が認められる点から､ｴﾘｼｵﾈﾗ･ﾁﾌｽ(ﾏﾀﾞﾆ媒介性の感染症)の可能性が高いと考えられます｡ﾃﾄﾗｻｲｸﾘﾝ系の抗菌薬は､この疾患の治療に有効とされています｡"}
+{"problem_id": "113D58", "prediction": "d: 乳腺葉状腫瘍", "explanation": "d: 乳腺葉状腫瘍"}
+{"problem_id": "113D59", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D60", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D61", "prediction": "b: ｢炎症反応が高く重症化しやすいので入院して治療しましょう｣", "explanation": "b: ｢炎症反応が高く重症化しやすいので入院して治療しましょう｣"}
+{"problem_id": "113D62", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D63", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D64", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "113D65", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "113D66", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "113D67", "prediction": "この症例では､抗ｱｾﾁﾙｺﾘﾝ受容体抗体が陽性であり､これは自己免疫性の神経筋接合部の障害である｢重症筋無力症｣を示唆しています｡重症筋無力症の患者では､特に胸腺腫や胸腺の異常が合併することが多いことが知られています｡しかし､選択肢には胸腺腫が含まれていません｡そのため､一般的な合併症として考えられるものを選択します｡\n\na: 赤芽球癆\ne: 低ｶﾞﾝﾏ", "explanation": "この症例では､抗ｱｾﾁﾙｺﾘﾝ受容体抗体が陽性であり､これは自己免疫性の神経筋接合部の障害である｢重症筋無力症｣を示唆しています｡重症筋無力症の患者では､特に胸腺腫や胸腺の異常が合併することが多いことが知られています｡しかし､選択肢には胸腺腫が含まれていません｡そのため､一般的な合併症として考えられるものを選択します｡\n\na: 赤芽球癆\ne: 低ｶﾞﾝﾏ"}
+{"problem_id": "113D68", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113D69", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113D70", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "113D71", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "113D72", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "113D73", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "113D74", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113D75", "prediction": "a, b, c", "explanation": "a, b, c"}

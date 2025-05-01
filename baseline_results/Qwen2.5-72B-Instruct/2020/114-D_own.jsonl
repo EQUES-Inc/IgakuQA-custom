@@ -1,0 +1,75 @@
+{"problem_id": "114D1", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D3", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D4", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D5", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D6", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D7", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D8", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D9", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D10", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D11", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D12", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "114D13", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114D14", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "114D15", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D16", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D17", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D18", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D19", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D20", "prediction": "a: 絶食試験", "explanation": "a: 絶食試験"}
+{"problem_id": "114D21", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D22", "prediction": "a: ｲﾏﾁﾆﾌﾞ", "explanation": "a: ｲﾏﾁﾆﾌﾞ"}
+{"problem_id": "114D23", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D24", "prediction": "e: ﾌﾞﾄﾞｳ球菌性熱傷様皮膚症候群", "explanation": "e: ﾌﾞﾄﾞｳ球菌性熱傷様皮膚症候群"}
+{"problem_id": "114D25", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D26", "prediction": "a: 急性心筋炎", "explanation": "a: 急性心筋炎"}
+{"problem_id": "114D27", "prediction": "a: 直腸脱", "explanation": "a: 直腸脱"}
+{"problem_id": "114D28", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D29", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D30", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D31", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D32", "prediction": "b: ｱﾄﾞﾘｱﾏｲｼﾝ\n\nこの症例では､患者は倦怠感と四肢の紫斑を主訴としており､血液所見から重度の全血球減少(pancytopenia)が認められます｡骨髄検査では芽球の増加や異形成がなく､染色体異常も見られません｡これらの所見から､再生不良性貧血(aplastic anemia)が強く疑われます｡\n\n再生不良性貧血の治療には､免疫抑制療法(例えば､ｼｸﾛｽﾎﾟﾘﾝ､抗胸腺ｸﾞﾛﾌﾞ", "explanation": "b: ｱﾄﾞﾘｱﾏｲｼﾝ\n\nこの症例では､患者は倦怠感と四肢の紫斑を主訴としており､血液所見から重度の全血球減少(pancytopenia)が認められます｡骨髄検査では芽球の増加や異形成がなく､染色体異常も見られません｡これらの所見から､再生不良性貧血(aplastic anemia)が強く疑われます｡\n\n再生不良性貧血の治療には､免疫抑制療法(例えば､ｼｸﾛｽﾎﾟﾘﾝ､抗胸腺ｸﾞﾛﾌﾞ"}
+{"problem_id": "114D33", "prediction": "a: 皮膚筋炎", "explanation": "a: 皮膚筋炎"}
+{"problem_id": "114D34", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D35", "prediction": "a: 減圧症", "explanation": "a: 減圧症"}
+{"problem_id": "114D36", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D37", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D38", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D39", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D40", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D41", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D42", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D43", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D44", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D45", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D46", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D47", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D48", "prediction": "d: fanconi症候群", "explanation": "d: fanconi症候群"}
+{"problem_id": "114D49", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D50", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D51", "prediction": "a: nsaidの中止\n\nこの症例では､患者さんが関節ﾘｳﾏﾁの治療を受けている一方で､発熱と頸部のしこり､そして血液検査で炎症反応の上昇(crpの上昇､ldの著しい上昇)が見られ､造影ctで多発性のﾘﾝﾊﾟ節腫大が確認されています｡これらの所見は､感染症や悪性ﾘﾝﾊﾟ腫などの可能性を示唆しています｡\n\nnsaid(非ｽﾃﾛｲﾄﾞ性抗炎症薬)は､", "explanation": "a: nsaidの中止\n\nこの症例では､患者さんが関節ﾘｳﾏﾁの治療を受けている一方で､発熱と頸部のしこり､そして血液検査で炎症反応の上昇(crpの上昇､ldの著しい上昇)が見られ､造影ctで多発性のﾘﾝﾊﾟ節腫大が確認されています｡これらの所見は､感染症や悪性ﾘﾝﾊﾟ腫などの可能性を示唆しています｡\n\nnsaid(非ｽﾃﾛｲﾄﾞ性抗炎症薬)は､"}
+{"problem_id": "114D52", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D53", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D54", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D55", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D56", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D57", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D58", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D59", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D60", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D61", "prediction": "c: warthin腫瘍", "explanation": "c: warthin腫瘍"}
+{"problem_id": "114D62", "prediction": "d: 有棘層", "explanation": "d: 有棘層"}
+{"problem_id": "114D63", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D64", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D65", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D66", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "114D67", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "114D68", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "114D69", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "114D70", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "114D71", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "114D72", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114D73", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "114D74", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "114D75", "prediction": "まず､a-ado2(肺胞気-動脈血酸素分圧較差)を求めるために､以下の式を使用します:\n\n\\[ a-ado2 = (fio2 \\times (p_{atm} - p_{h2o}) - paco2 / rq) - pao2 \\]\n\nここで､\n- \\( fio2 = 0.28 \\)\n- \\( p_{atm} = 760 \\) torr(大気圧)\n- \\( p_{h2o} = 47 \\) torr(37", "explanation": "まず､a-ado2(肺胞気-動脈血酸素分圧較差)を求めるために､以下の式を使用します:\n\n\\[ a-ado2 = (fio2 \\times (p_{atm} - p_{h2o}) - paco2 / rq) - pao2 \\]\n\nここで､\n- \\( fio2 = 0.28 \\)\n- \\( p_{atm} = 760 \\) torr(大気圧)\n- \\( p_{h2o} = 47 \\) torr(37"}

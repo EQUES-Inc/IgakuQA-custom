@@ -1,0 +1,75 @@
+{"problem_id": "114D1", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D3", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D4", "prediction": "d: 周期性四肢麻痺\n\n(説明:書字時に手が震える症状と､書字以外の動作には支障がないという特徴は､ﾊﾟｰｷﾝｿﾝ病や本態性振戦などの運動障害を示唆しています｡しかし､写真だけでは具体的な診断は困難です｡周期性四肢麻痺は､筋肉の弛緩と収縮が繰り返し起こる疾患で､主にｶﾘｳﾑ不足などが原因で起こります｡この疾患では､書字時だけでなく､様々な動作で手が震える症状が現れることがあります｡ただし､書字以外の動作に問題がないという特徴とは矛盾する可能性があります｡他の選択肢は､片頭痛や眼瞼けいれんは", "explanation": "d: 周期性四肢麻痺\n\n(説明:書字時に手が震える症状と､書字以外の動作には支障がないという特徴は､ﾊﾟｰｷﾝｿﾝ病や本態性振戦などの運動障害を示唆しています｡しかし､写真だけでは具体的な診断は困難です｡周期性四肢麻痺は､筋肉の弛緩と収縮が繰り返し起こる疾患で､主にｶﾘｳﾑ不足などが原因で起こります｡この疾患では､書字時だけでなく､様々な動作で手が震える症状が現れることがあります｡ただし､書字以外の動作に問題がないという特徴とは矛盾する可能性があります｡他の選択肢は､片頭痛や眼瞼けいれんは"}
+{"problem_id": "114D5", "prediction": "a, b, c, d, eのいずれもs状結腸切除術の合併症として膿瘍形成が起こりやすい場所ではありません｡しかし､質問の意図が術後の癒着による小腸閉塞(ｲﾚｳｽ)の起こりやすい場所を尋ねているのであれば､右傍結腸溝(c)や左傍結腸溝(d)に起こりやすいとされています｡膿瘍形成に関しては､術後感染が起こりやすい場所として､右横隔膜下(a)や左横隔膜下(b)､直腸子宮窩(e)が挙げられますが､s状結腸切除術特有の合併症としては特定できません｡したがって", "explanation": "a, b, c, d, eのいずれもs状結腸切除術の合併症として膿瘍形成が起こりやすい場所ではありません｡しかし､質問の意図が術後の癒着による小腸閉塞(ｲﾚｳｽ)の起こりやすい場所を尋ねているのであれば､右傍結腸溝(c)や左傍結腸溝(d)に起こりやすいとされています｡膿瘍形成に関しては､術後感染が起こりやすい場所として､右横隔膜下(a)や左横隔膜下(b)､直腸子宮窩(e)が挙げられますが､s状結腸切除術特有の合併症としては特定できません｡したがって"}
+{"problem_id": "114D6", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D7", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D8", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D9", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D10", "prediction": "b: 大動脈二尖弁\n\nﾁｱﾉｰｾﾞは､体内の酸素濃度が低下し､皮膚や粘膜が青紫色になる症状です｡fallot四徴症､完全大血管転位症､総肺静脈還流異常症は､いずれも心室中隔欠損や大血管の位置異常を伴う心臓病であり､ﾁｱﾉｰｾﾞを生じます｡eisenmenger症候群は､肺動脈閉鎖や重度の肺高血圧により､肺から全身への血流が逆転し､ﾁｱﾉｰｾﾞを生じます｡一方､大動脈二尖弁は､大動脈弁のleafletが2枚しかないという構造異常ですが､ﾁｱﾉｰ", "explanation": "b: 大動脈二尖弁\n\nﾁｱﾉｰｾﾞは､体内の酸素濃度が低下し､皮膚や粘膜が青紫色になる症状です｡fallot四徴症､完全大血管転位症､総肺静脈還流異常症は､いずれも心室中隔欠損や大血管の位置異常を伴う心臓病であり､ﾁｱﾉｰｾﾞを生じます｡eisenmenger症候群は､肺動脈閉鎖や重度の肺高血圧により､肺から全身への血流が逆転し､ﾁｱﾉｰｾﾞを生じます｡一方､大動脈二尖弁は､大動脈弁のleafletが2枚しかないという構造異常ですが､ﾁｱﾉｰ"}
+{"problem_id": "114D11", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D12", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "114D13", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114D14", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "114D15", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D16", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D17", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D18", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D19", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D20", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D21", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D22", "prediction": "a: ｲﾏﾁﾆﾌﾞ\n\nこの患者は､慢性骨髄性白血病(cml)と診断されます｡cmlでは､ﾌｨﾗﾃﾞﾙﾌｨｱ染色体(ph)陽性のbcr-abl融合遺伝子が関与しており､この遺伝子により異常なﾀﾝﾊﾟｸ質が産生され､白血病細胞が増殖します｡ｲﾏﾁﾆﾌﾞは､このbcr-abl酵素を阻害することで､白血病細胞の増殖を抑制します｡ｹﾞﾌｨﾁﾆﾌﾞはegfr阻害薬であり､ﾘﾂｷｼﾏﾌﾞはb細胞表面抗原に対する抗体薬で､cmlには第一選択薬ではありません｡ﾌﾞﾚｵﾏｲｼﾝは抗悪性腫瘍薬", "explanation": "a: ｲﾏﾁﾆﾌﾞ\n\nこの患者は､慢性骨髄性白血病(cml)と診断されます｡cmlでは､ﾌｨﾗﾃﾞﾙﾌｨｱ染色体(ph)陽性のbcr-abl融合遺伝子が関与しており､この遺伝子により異常なﾀﾝﾊﾟｸ質が産生され､白血病細胞が増殖します｡ｲﾏﾁﾆﾌﾞは､このbcr-abl酵素を阻害することで､白血病細胞の増殖を抑制します｡ｹﾞﾌｨﾁﾆﾌﾞはegfr阻害薬であり､ﾘﾂｷｼﾏﾌﾞはb細胞表面抗原に対する抗体薬で､cmlには第一選択薬ではありません｡ﾌﾞﾚｵﾏｲｼﾝは抗悪性腫瘍薬"}
+{"problem_id": "114D23", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D24", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D25", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D26", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D27", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D28", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D29", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D30", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D31", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D32", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D33", "prediction": "a: 皮膚筋炎\n\n理由:この患者の臨床症状､検査所見､画像所見から､皮膚筋炎が最も疑われます｡顔面の紅斑と手背の発疹は皮膚筋炎の特徴的病変であり､四肢近位筋の把握痛も皮膚筋炎に合併する症状です｡抗核抗体と抗dsdna抗体の高値も皮膚筋炎を示唆しています｡血液生化学所見では､ckとｱﾙﾄﾞﾗｰｾﾞの上昇､横紋筋融解を示唆する尿素窒素やｸﾚｱﾁﾆﾝの上昇は認められませんが､astやaltの上昇は横紋筋融解症でも見られるため､", "explanation": "a: 皮膚筋炎\n\n理由:この患者の臨床症状､検査所見､画像所見から､皮膚筋炎が最も疑われます｡顔面の紅斑と手背の発疹は皮膚筋炎の特徴的病変であり､四肢近位筋の把握痛も皮膚筋炎に合併する症状です｡抗核抗体と抗dsdna抗体の高値も皮膚筋炎を示唆しています｡血液生化学所見では､ckとｱﾙﾄﾞﾗｰｾﾞの上昇､横紋筋融解を示唆する尿素窒素やｸﾚｱﾁﾆﾝの上昇は認められませんが､astやaltの上昇は横紋筋融解症でも見られるため､"}
+{"problem_id": "114D34", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D35", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D36", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D37", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D38", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D40", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D41", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D42", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D43", "prediction": "a: 膠芽腫\n\n(説明:問題文と画像から､この患者さんの病変は悪性の脳腫瘍であることがわかります｡特に､頭部造影mriで典型的な転移性腫瘍様の所見を示し､h-e染色標本で悪性度の高い神経膠腫(ｸﾞﾘｵｰﾏ)の特徴である星細胞様の腫瘍細胞が認められることから､膠芽腫(glioblastoma)が最も疑われます｡他の選択肢は､この患者さんの症状や検査結果と一致しません｡)", "explanation": "a: 膠芽腫\n\n(説明:問題文と画像から､この患者さんの病変は悪性の脳腫瘍であることがわかります｡特に､頭部造影mriで典型的な転移性腫瘍様の所見を示し､h-e染色標本で悪性度の高い神経膠腫(ｸﾞﾘｵｰﾏ)の特徴である星細胞様の腫瘍細胞が認められることから､膠芽腫(glioblastoma)が最も疑われます｡他の選択肢は､この患者さんの症状や検査結果と一致しません｡)"}
+{"problem_id": "114D44", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D45", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D46", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D47", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D48", "prediction": "d: fanconi症候群\n\nこの患者さんの症状や検査ﾃﾞｰﾀから､fanconi症候群が最も考えられます｡fanconi症候群は､尿細管障害により､様々な物質が尿中に漏出する疾患です｡この患者さんでは､蛋白尿､低ｱﾙﾌﾞﾐﾝ血症､高ｶﾘｳﾑ血症､低ｶﾙｼｳﾑ血症､低ﾘﾝ血症､糖尿､尿中β2-ﾏｲｸﾛｸﾞﾛﾌﾞﾘﾝ高値などが認められ､fanconi症候群の特徴的所見に合致します｡\n\n腎性尿崩症(a)は､抗利尿ﾎﾙﾓﾝ不適合分泌症候群(siadh)や中枢性尿崩", "explanation": "d: fanconi症候群\n\nこの患者さんの症状や検査ﾃﾞｰﾀから､fanconi症候群が最も考えられます｡fanconi症候群は､尿細管障害により､様々な物質が尿中に漏出する疾患です｡この患者さんでは､蛋白尿､低ｱﾙﾌﾞﾐﾝ血症､高ｶﾘｳﾑ血症､低ｶﾙｼｳﾑ血症､低ﾘﾝ血症､糖尿､尿中β2-ﾏｲｸﾛｸﾞﾛﾌﾞﾘﾝ高値などが認められ､fanconi症候群の特徴的所見に合致します｡\n\n腎性尿崩症(a)は､抗利尿ﾎﾙﾓﾝ不適合分泌症候群(siadh)や中枢性尿崩"}
+{"problem_id": "114D49", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D50", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D51", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D52", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D53", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D54", "prediction": "b: 角膜\n\n(説明:左眼の前眼部写真から､角膜に混濁や傷が認められる場合､角膜に病変を生じた可能性が高くなります｡また､角膜は眼痛や視力低下を引き起こす主要な部位であり､この患者さんの症状とも一致します｡他の選択肢は､前房や虹彩､水晶体の病変では眼圧上昇や特徴的な症状が現れる可能性がありますが､この写真と症状からは角膜病変が最も疑われます｡)", "explanation": "b: 角膜\n\n(説明:左眼の前眼部写真から､角膜に混濁や傷が認められる場合､角膜に病変を生じた可能性が高くなります｡また､角膜は眼痛や視力低下を引き起こす主要な部位であり､この患者さんの症状とも一致します｡他の選択肢は､前房や虹彩､水晶体の病変では眼圧上昇や特徴的な症状が現れる可能性がありますが､この写真と症状からは角膜病変が最も疑われます｡)"}
+{"problem_id": "114D55", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D56", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114D57", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D58", "prediction": "b", "explanation": "b"}
+{"problem_id": "114D59", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D60", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D61", "prediction": "c", "explanation": "c"}
+{"problem_id": "114D62", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D63", "prediction": "d", "explanation": "d"}
+{"problem_id": "114D64", "prediction": "a", "explanation": "a"}
+{"problem_id": "114D65", "prediction": "e", "explanation": "e"}
+{"problem_id": "114D66", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "114D67", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "114D68", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "114D69", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114D70", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "114D71", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114D72", "prediction": "c, d, e", "explanation": "c, d, e"}
+{"problem_id": "114D73", "prediction": "a, d, e", "explanation": "a, d, e"}
+{"problem_id": "114D74", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "114D75", "prediction": "pao2は動脈血ｶﾞｽ分析結果から直接与えられており､58torrです｡肺胞気-動脈血酸素分圧較差(a-ado2)は､通常､次の式で計算されます｡\n\na-ado2 = (patm - fio2 * (pss - pah2o)) - pao2\n\nここで､patmは大気圧(760torr)､fio2は酸素濃度(0.28)､pssは飽和水蒸気圧(47torr)､pah2oは肺胞気水蒸気", "explanation": "pao2は動脈血ｶﾞｽ分析結果から直接与えられており､58torrです｡肺胞気-動脈血酸素分圧較差(a-ado2)は､通常､次の式で計算されます｡\n\na-ado2 = (patm - fio2 * (pss - pah2o)) - pao2\n\nここで､patmは大気圧(760torr)､fio2は酸素濃度(0.28)､pssは飽和水蒸気圧(47torr)､pah2oは肺胞気水蒸気"}

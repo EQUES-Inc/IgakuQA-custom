@@ -1,0 +1,84 @@
+{"problem_id": "113F1", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F2", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F3", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F4", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F6", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F7", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F8", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F9", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F10", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F11", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F12", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F13", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F15", "prediction": "この質問の答えを決定するためには､具体的な3d-ct画像が必要です｡しかし､選択肢の中から一般的に考えられる部位を推測する必要があります｡冠動脈ﾊﾞｲﾊﾟｽ術では､最も一般的に吻合される部位は左冠動脈前下行枝(lad)です｡\n\n答え: b: 左冠動脈前下行枝", "explanation": "この質問の答えを決定するためには､具体的な3d-ct画像が必要です｡しかし､選択肢の中から一般的に考えられる部位を推測する必要があります｡冠動脈ﾊﾞｲﾊﾟｽ術では､最も一般的に吻合される部位は左冠動脈前下行枝(lad)です｡\n\n答え: b: 左冠動脈前下行枝"}
+{"problem_id": "113F16", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F17", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F18", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F19", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F20", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F21", "prediction": "c\n\nkaup指数は､乳幼児の栄養状態や成長状態を評価する指標の一つで､以下の式で計算されます｡\n\n\\[ \\text{kaup指数} = \\frac{\\text{体重 (kg)}}{\\text{身長 (m)}^2} \\times 10^4 \\]\n\n与えられたﾃﾞｰﾀを用いて計算すると:\n\n\\[ \\text{kaup指数} = \\frac{8.330}{(0.70)^2} \\times 10^4 = \\frac{8.330}{", "explanation": "c\n\nkaup指数は､乳幼児の栄養状態や成長状態を評価する指標の一つで､以下の式で計算されます｡\n\n\\[ \\text{kaup指数} = \\frac{\\text{体重 (kg)}}{\\text{身長 (m)}^2} \\times 10^4 \\]\n\n与えられたﾃﾞｰﾀを用いて計算すると:\n\n\\[ \\text{kaup指数} = \\frac{8.330}{(0.70)^2} \\times 10^4 = \\frac{8.330}{"}
+{"problem_id": "113F22", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F23", "prediction": "この質問には家系図が添付されていないため､正確な回答を提供することができません｡家系図が提供されれば､その特徴を分析し､適切な遺伝形式を特定することができます｡もし家系図の詳細を説明いただければ､それに基づいて最適な選択肢を提案します｡", "explanation": "この質問には家系図が添付されていないため､正確な回答を提供することができません｡家系図が提供されれば､その特徴を分析し､適切な遺伝形式を特定することができます｡もし家系図の詳細を説明いただければ､それに基づいて最適な選択肢を提案します｡"}
+{"problem_id": "113F24", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F25", "prediction": "a: (40+50+50+60)/4=50db", "explanation": "a: (40+50+50+60)/4=50db"}
+{"problem_id": "113F26", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F27", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F28", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F29", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F30", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F31", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F32", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F33", "prediction": "この質問の回答を決定するためには､各歩行補助具の具体的な特徴や使用目的を知る必要があります｡通常､完全免荷(片側下肢に全く荷重させない)で屋外歩行を行う場合､最も適しているのはｸﾚｾﾝﾄ(ｸﾚｰｾﾞﾝﾄ)ｳｫｰｶｰまたは前腕支持型ｸﾚｾﾝﾄｳｫｰｶｰです｡これらの装置は､使用者の体重を上肢に分散させ､片側の下肢に荷重をかけずに歩行を可能にします｡\n\nただし､選択肢", "explanation": "この質問の回答を決定するためには､各歩行補助具の具体的な特徴や使用目的を知る必要があります｡通常､完全免荷(片側下肢に全く荷重させない)で屋外歩行を行う場合､最も適しているのはｸﾚｾﾝﾄ(ｸﾚｰｾﾞﾝﾄ)ｳｫｰｶｰまたは前腕支持型ｸﾚｾﾝﾄｳｫｰｶｰです｡これらの装置は､使用者の体重を上肢に分散させ､片側の下肢に荷重をかけずに歩行を可能にします｡\n\nただし､選択肢"}
+{"problem_id": "113F34", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "113F35", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "113F36", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113F37", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "113F38", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "113F39", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113F40", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "113F41", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "113F42", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F43", "prediction": "b, c, d", "explanation": "b, c, d"}
+{"problem_id": "113F44", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F45", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F46", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F47", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F48", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F49", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F50", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F51", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F52", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F53", "prediction": "a: 悪性腫瘍\n\nこの症例は皮膚症状と筋症状を伴う多発性筋炎(dm)の可能性が高いです｡抗tif1-γ抗体の陽性は､特に悪性腫瘍との関連性が指摘されており､dmの患者においては悪性腫瘍のﾘｽｸが高まることが知られています｡そのため､最も併発しやすいのは｢a: 悪性腫瘍｣です｡", "explanation": "a: 悪性腫瘍\n\nこの症例は皮膚症状と筋症状を伴う多発性筋炎(dm)の可能性が高いです｡抗tif1-γ抗体の陽性は､特に悪性腫瘍との関連性が指摘されており､dmの患者においては悪性腫瘍のﾘｽｸが高まることが知られています｡そのため､最も併発しやすいのは｢a: 悪性腫瘍｣です｡"}
+{"problem_id": "113F54", "prediction": "この症例では､2年前にも同様の皮疹が出現したという点と､胸部痛と皮疹の出現が特徴的です｡これらの症状は帯状疱疹(ﾍﾙﾍﾟｽ･ｽﾞoster)の可能性が高いことを示唆しています｡帯状疱疹は､水痘･帯状疱疹ｳｲﾙｽ(varicella zoster virus, vzv)によって引き起こされます｡しかし､選択肢にvzvが含まれていないため､最も近いｳｲﾙｽ感染症を考慮する必要があります｡\n\n選択肢の中で､", "explanation": "この症例では､2年前にも同様の皮疹が出現したという点と､胸部痛と皮疹の出現が特徴的です｡これらの症状は帯状疱疹(ﾍﾙﾍﾟｽ･ｽﾞoster)の可能性が高いことを示唆しています｡帯状疱疹は､水痘･帯状疱疹ｳｲﾙｽ(varicella zoster virus, vzv)によって引き起こされます｡しかし､選択肢にvzvが含まれていないため､最も近いｳｲﾙｽ感染症を考慮する必要があります｡\n\n選択肢の中で､"}
+{"problem_id": "113F55", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F56", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F57", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F58", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F59", "prediction": "c: 6点\n\napgarｽｺｱは､生後1分と5分に評価され､心拍数､呼吸､筋張力､反射応答､皮膚色の5項目についてそれぞれ0点､1点､2点の3段階で評価されます｡合計10点満点です｡\n\n- 心拍数: 140/分 → 2点\n- 呼吸: 70/分､自発呼吸あり → 2点\n- 肌張力: 手足をﾊﾞ", "explanation": "c: 6点\n\napgarｽｺｱは､生後1分と5分に評価され､心拍数､呼吸､筋張力､反射応答､皮膚色の5項目についてそれぞれ0点､1点､2点の3段階で評価されます｡合計10点満点です｡\n\n- 心拍数: 140/分 → 2点\n- 呼吸: 70/分､自発呼吸あり → 2点\n- 肌張力: 手足をﾊﾞ"}
+{"problem_id": "113F60", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F61", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F62", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F63", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113F64", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113F65", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "113F66", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113F67", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "113F68", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F69", "prediction": "a", "explanation": "a"}
+{"problem_id": "113F70", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F71", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F72", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F73", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F74", "prediction": "e: 薬剤性心筋障害\n\nこの患者は､過去にｱﾄﾞﾘｱﾏｲｼﾝ(ﾄﾞｷｿﾙﾋﾞｼﾝ)という抗がん剤の投与歴があります｡ｱﾄﾞﾘｱﾏｲｼﾝは心筋毒性を引き起こす可能性があり､特に累積用量が高くなると心機能障害を引き起こすことがあります｡患者の症状(労作時の息切れ､倦怠感､浮腫)､心ｴｺｰ検査でのびまん性の壁運動低下と左室駆出率の低下､bnpの", "explanation": "e: 薬剤性心筋障害\n\nこの患者は､過去にｱﾄﾞﾘｱﾏｲｼﾝ(ﾄﾞｷｿﾙﾋﾞｼﾝ)という抗がん剤の投与歴があります｡ｱﾄﾞﾘｱﾏｲｼﾝは心筋毒性を引き起こす可能性があり､特に累積用量が高くなると心機能障害を引き起こすことがあります｡患者の症状(労作時の息切れ､倦怠感､浮腫)､心ｴｺｰ検査でのびまん性の壁運動低下と左室駆出率の低下､bnpの"}
+{"problem_id": "113F75", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "113F76", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F77", "prediction": "d", "explanation": "d"}
+{"problem_id": "113F78", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F79", "prediction": "b", "explanation": "b"}
+{"problem_id": "113F80", "prediction": "e", "explanation": "e"}
+{"problem_id": "113F81", "prediction": "この質問は､具体的な臨床症状や病状の詳細が提供されていないため､一般的な回答しか提供できません｡しかし､質問の文脈から推測すると､最も一般的に異常所見を示す可能性が高い検査は以下のようになります:\n\ne: 末梢神経伝導検査\n\nこれは､神経系の疾患や障害を検出するための一般的な検査であり､多くの神経系の問題で異常が見られる可能性が高いからです｡ただし､具体的な症状や病", "explanation": "この質問は､具体的な臨床症状や病状の詳細が提供されていないため､一般的な回答しか提供できません｡しかし､質問の文脈から推測すると､最も一般的に異常所見を示す可能性が高い検査は以下のようになります:\n\ne: 末梢神経伝導検査\n\nこれは､神経系の疾患や障害を検出するための一般的な検査であり､多くの神経系の問題で異常が見られる可能性が高いからです｡ただし､具体的な症状や病"}
+{"problem_id": "113F82", "prediction": "c", "explanation": "c"}
+{"problem_id": "113F83", "prediction": "b: b", "explanation": "b: b"}
+{"problem_id": "113F84", "prediction": "まず､各供給元の死亡率を計算します｡\n\n供給元aの死亡率:\n\\[ \\frac{810}{150,000} = 0.0054 \\]\n\n供給元bの死亡率:\n\\[ \\frac{18}{24,000} = 0.00075 \\]\n\n次に､aのbに対するﾘｽｸ比を計算します｡\n\\[ \\text{ﾘｽｸ比} = \\frac{0.0054}{0.00075} = 7.2 \\]\n\nしたが", "explanation": "まず､各供給元の死亡率を計算します｡\n\n供給元aの死亡率:\n\\[ \\frac{810}{150,000} = 0.0054 \\]\n\n供給元bの死亡率:\n\\[ \\frac{18}{24,000} = 0.00075 \\]\n\n次に､aのbに対するﾘｽｸ比を計算します｡\n\\[ \\text{ﾘｽｸ比} = \\frac{0.0054}{0.00075} = 7.2 \\]\n\nしたが"}

@@ -1,0 +1,75 @@
+{"problem_id": "112D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D3", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D4", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D5", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D6", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D9", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D10", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D11", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112D12", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112D13", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "112D14", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112D15", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "112D16", "prediction": "d: wilms腫瘍", "explanation": "d: wilms腫瘍"}
+{"problem_id": "112D17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D18", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D19", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D20", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D21", "prediction": "b: jak2阻害薬\n\nこの症例は､慢性骨髄性白血病(cml)や真性赤血球増多症(pv)などの骨髄増殖性腫瘍(mpn)を疑うべきです｡特に､脾腫､白血球増多､好酸球や好塩基球の増加､血清ﾋﾞﾀﾐﾝb12の上昇などが特徴的です｡また､骨髄細胞染色体解析で異常が認められることも､mpnの可能性", "explanation": "b: jak2阻害薬\n\nこの症例は､慢性骨髄性白血病(cml)や真性赤血球増多症(pv)などの骨髄増殖性腫瘍(mpn)を疑うべきです｡特に､脾腫､白血球増多､好酸球や好塩基球の増加､血清ﾋﾞﾀﾐﾝb12の上昇などが特徴的です｡また､骨髄細胞染色体解析で異常が認められることも､mpnの可能性"}
+{"problem_id": "112D22", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D23", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D24", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D25", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D26", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D27", "prediction": "d: (760−47)×1.0−32\n\nこの選択肢が､与えられた条件(大気圧760torr､37℃での水蒸気圧47torr､fio2 1.0､paco2 32torr)に基づいてpao2を計算する正しい式を表しています｡", "explanation": "d: (760−47)×1.0−32\n\nこの選択肢が､与えられた条件(大気圧760torr､37℃での水蒸気圧47torr､fio2 1.0､paco2 32torr)に基づいてpao2を計算する正しい式を表しています｡"}
+{"problem_id": "112D28", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D29", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D30", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D31", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D32", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D33", "prediction": "d: ｲﾄﾗｺﾅｿﾞｰﾙ", "explanation": "d: ｲﾄﾗｺﾅｿﾞｰﾙ"}
+{"problem_id": "112D34", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D35", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D36", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D37", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D38", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D39", "prediction": "e: 若年性特発性関節炎〈jia〉", "explanation": "e: 若年性特発性関節炎〈jia〉"}
+{"problem_id": "112D40", "prediction": "この問題の詳細な臨床所見から､患者は左上肢の感覚異常を主訴としており､特に表在覚に影響が見られる｡また､閉眼時に左母指を右手指で摘むことができないという所見も､左上肢の感覚障害を示唆している｡高血圧症と糖尿病の既往があり､これらは脳血管障害のﾘｽｸ因子である｡腱反射は全般に軽度亢進しているが､左右差は認めないという所見も､中枢神経系の障害を", "explanation": "この問題の詳細な臨床所見から､患者は左上肢の感覚異常を主訴としており､特に表在覚に影響が見られる｡また､閉眼時に左母指を右手指で摘むことができないという所見も､左上肢の感覚障害を示唆している｡高血圧症と糖尿病の既往があり､これらは脳血管障害のﾘｽｸ因子である｡腱反射は全般に軽度亢進しているが､左右差は認めないという所見も､中枢神経系の障害を"}
+{"problem_id": "112D41", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D42", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D43", "prediction": "d: 130\n\nこの症例では､患者がｱﾙｺｰﾙ性肝疾患の可能性が高く､肝性脳症の兆候も見られます｡また､血中ﾅﾄﾘｳﾑ濃度が131meq/lと軽度の低ﾅﾄﾘｳﾑ血症を呈しています｡初期の輸液では､低ﾅﾄﾘｳﾑ血症の悪化を防ぐために､na+濃度が適度に高い輸液を使用することが推奨されます｡130meq/lのna+濃度は､低ﾅﾄﾘｳﾑ", "explanation": "d: 130\n\nこの症例では､患者がｱﾙｺｰﾙ性肝疾患の可能性が高く､肝性脳症の兆候も見られます｡また､血中ﾅﾄﾘｳﾑ濃度が131meq/lと軽度の低ﾅﾄﾘｳﾑ血症を呈しています｡初期の輸液では､低ﾅﾄﾘｳﾑ血症の悪化を防ぐために､na+濃度が適度に高い輸液を使用することが推奨されます｡130meq/lのna+濃度は､低ﾅﾄﾘｳﾑ"}
+{"problem_id": "112D44", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D45", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D46", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D47", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D48", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D49", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D50", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D51", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D52", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D53", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D54", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D55", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D56", "prediction": "この質問の回答を決定するためには､具体的な内視鏡像の情報や詳細な病状の説明が必要です｡しかし､一般的なｱﾌﾟﾛｰﾁとして､胃に異常が見つかった場合､最初に考慮されるのは通常､helicobacter pylori(ﾋﾟﾛﾘ菌)の感染の有無です｡ﾋﾟﾛﾘ菌は多くの胃の病気の原因となり得るため､その除菌がしばしば最初の治療選択となります｡\n\nしたがって､選択肢の中から最も一般的な初期対応として適", "explanation": "この質問の回答を決定するためには､具体的な内視鏡像の情報や詳細な病状の説明が必要です｡しかし､一般的なｱﾌﾟﾛｰﾁとして､胃に異常が見つかった場合､最初に考慮されるのは通常､helicobacter pylori(ﾋﾟﾛﾘ菌)の感染の有無です｡ﾋﾟﾛﾘ菌は多くの胃の病気の原因となり得るため､その除菌がしばしば最初の治療選択となります｡\n\nしたがって､選択肢の中から最も一般的な初期対応として適"}
+{"problem_id": "112D57", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D58", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D59", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D60", "prediction": "e: 幽門側胃切除術", "explanation": "e: 幽門側胃切除術"}
+{"problem_id": "112D61", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D62", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "112D63", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112D64", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "112D65", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "112D66", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "112D67", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "112D68", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "112D69", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "112D70", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112D71", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D72", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112D73", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D74", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D75", "prediction": "b, c, d", "explanation": "b, c, d"}

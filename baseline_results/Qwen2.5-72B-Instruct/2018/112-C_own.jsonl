@@ -1,0 +1,66 @@
+{"problem_id": "112C1", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C2", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C3", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C4", "prediction": "d: 40\n\n静脈内投与のｶﾘｳﾑの最大濃度は一般的に40 meq/lとされています｡これは､ｶﾘｳﾑの過剰投与が心臓に悪影響を及ぼす可能性があるためです｡したがって､既に20 meq/lのｶﾘｳﾑが含まれている製剤に追加できるｶﾘｳﾑの最大量は40 meq/l - 20 meq/l = 20 meq/lですが､選択肢の中で最も近い適切な選択肢は40", "explanation": "d: 40\n\n静脈内投与のｶﾘｳﾑの最大濃度は一般的に40 meq/lとされています｡これは､ｶﾘｳﾑの過剰投与が心臓に悪影響を及ぼす可能性があるためです｡したがって､既に20 meq/lのｶﾘｳﾑが含まれている製剤に追加できるｶﾘｳﾑの最大量は40 meq/l - 20 meq/l = 20 meq/lですが､選択肢の中で最も近い適切な選択肢は40"}
+{"problem_id": "112C5", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C6", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C7", "prediction": "この質問の回答を決定するためには､具体的な3d-ct画像(①〜⑤)が必要です｡画像がないと正確な回答を提供することができません｡もし画像をご提供いただけます的话､再度ご質問ください｡ただし､現在の情報だけでは､具体的な回答をすることはできません｡", "explanation": "この質問の回答を決定するためには､具体的な3d-ct画像(①〜⑤)が必要です｡画像がないと正確な回答を提供することができません｡もし画像をご提供いただけます的话､再度ご質問ください｡ただし､現在の情報だけでは､具体的な回答をすることはできません｡"}
+{"problem_id": "112C8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C9", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C10", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C11", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C12", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C13", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C14", "prediction": "b: 妊娠9週", "explanation": "b: 妊娠9週"}
+{"problem_id": "112C15", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C16", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "112C17", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "112C18", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "112C19", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112C20", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "112C21", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112C22", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "112C23", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112C24", "prediction": "b, c, e", "explanation": "b, c, e"}
+{"problem_id": "112C25", "prediction": "e: 膨疹\n\nこの症状の説明から､皮疹が痒みを伴い､場所を移動しながら出現していることから､ｱﾚﾙｷﾞｰ反応による膨疹( hive または urticaria)が最も考えられます｡膨疹は､皮膚に一時的な隆起が現れ､通常は痒みを伴います｡", "explanation": "e: 膨疹\n\nこの症状の説明から､皮疹が痒みを伴い､場所を移動しながら出現していることから､ｱﾚﾙｷﾞｰ反応による膨疹( hive または urticaria)が最も考えられます｡膨疹は､皮膚に一時的な隆起が現れ､通常は痒みを伴います｡"}
+{"problem_id": "112C26", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C27", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C28", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C29", "prediction": "a: 浣腸", "explanation": "a: 浣腸"}
+{"problem_id": "112C30", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C31", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C32", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C33", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C34", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C35", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C36", "prediction": "b: b液1,500ml\n\n理由:b液はna+の濃度が84meq/lで､1日1,500ml投与すると126meqのna+が摂取されます｡これは成人の推奨量に近いです｡また､k+の濃度は20meq/lで､1日1,500ml投与すると30meqのk+が摂取され､これは平均的な経口摂取量の半分程度に相当します｡ﾌﾞﾄﾞ", "explanation": "b: b液1,500ml\n\n理由:b液はna+の濃度が84meq/lで､1日1,500ml投与すると126meqのna+が摂取されます｡これは成人の推奨量に近いです｡また､k+の濃度は20meq/lで､1日1,500ml投与すると30meqのk+が摂取され､これは平均的な経口摂取量の半分程度に相当します｡ﾌﾞﾄﾞ"}
+{"problem_id": "112C37", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C38", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C39", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C40", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C41", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C42", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C43", "prediction": "e: ｲﾝｼﾞｳﾑ", "explanation": "e: ｲﾝｼﾞｳﾑ"}
+{"problem_id": "112C44", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C45", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C46", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C48", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C49", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C50", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "112C51", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C52", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C53", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C54", "prediction": "c", "explanation": "c"}
+{"problem_id": "112C55", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C56", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C57", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "112C58", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "112C59", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C60", "prediction": "d", "explanation": "d"}
+{"problem_id": "112C61", "prediction": "a", "explanation": "a"}
+{"problem_id": "112C62", "prediction": "e", "explanation": "e"}
+{"problem_id": "112C63", "prediction": "b: 視覚誘発電位\n\nこの症例では､過去に複視や視力低下の症状があり､現在は左上下肢の脱力としびれが主な症状となっています｡これらの症状は多発性硬化症(ms)を疑わせるものであり､視覚誘発電位は視覚経路の伝導時間を評価するための検査で､msの診断に有用です｡", "explanation": "b: 視覚誘発電位\n\nこの症例では､過去に複視や視力低下の症状があり､現在は左上下肢の脱力としびれが主な症状となっています｡これらの症状は多発性硬化症(ms)を疑わせるものであり､視覚誘発電位は視覚経路の伝導時間を評価するための検査で､msの診断に有用です｡"}
+{"problem_id": "112C64", "prediction": "この質問の文脈が少し不足しているように思われますが､羊水がほとんど認められない状況( oligohydramnios )と関連する胎児の状態についての前問から推測すると､特に特定の治療法が直接的に指示されるとは限りません｡しかし､選択肢の中から最も一般的に考慮される治療法を選ぶとすれば､以下の選択肢が最も一般的な初期対応として考えられます:\n\ne: 免疫ｸﾞﾛﾌﾞﾘﾝ大量静注療法\n\nただし､この選択は特定の状", "explanation": "この質問の文脈が少し不足しているように思われますが､羊水がほとんど認められない状況( oligohydramnios )と関連する胎児の状態についての前問から推測すると､特に特定の治療法が直接的に指示されるとは限りません｡しかし､選択肢の中から最も一般的に考慮される治療法を選ぶとすれば､以下の選択肢が最も一般的な初期対応として考えられます:\n\ne: 免疫ｸﾞﾛﾌﾞﾘﾝ大量静注療法\n\nただし､この選択は特定の状"}
+{"problem_id": "112C65", "prediction": "b", "explanation": "b"}
+{"problem_id": "112C66", "prediction": "肺胞気-動脈血酸素分圧較差(a-ado2)は､以下の式で計算できます:\n\n\\[ a-ado2 = (150 - 5 \\times paco2) - pao2 \\]\n\n与えられたﾃﾞｰﾀは:\n- ph 7.40\n- paco2 36 torr\n- pao2 79 torr\n\nこれらの値を式に代入します:\n\n\\[ a-ado2 = (150 - 5 \\times 36) - 79 \\]\n\\[ a-ado2 =", "explanation": "肺胞気-動脈血酸素分圧較差(a-ado2)は､以下の式で計算できます:\n\n\\[ a-ado2 = (150 - 5 \\times paco2) - pao2 \\]\n\n与えられたﾃﾞｰﾀは:\n- ph 7.40\n- paco2 36 torr\n- pao2 79 torr\n\nこれらの値を式に代入します:\n\n\\[ a-ado2 = (150 - 5 \\times 36) - 79 \\]\n\\[ a-ado2 ="}

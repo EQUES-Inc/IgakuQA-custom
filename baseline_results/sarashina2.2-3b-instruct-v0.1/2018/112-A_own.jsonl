@@ -1,0 +1,75 @@
+{"problem_id": "112A1", "prediction": "d: ﾒｰﾌﾟﾙｼﾛｯﾌﾟ尿症\n\n(説明:ﾒｰﾌﾟﾙｼﾛｯﾌﾟ尿症は､分岐鎖ｱﾐﾉ酸の代謝異常により高ｱﾝﾓﾆｱ血症をきたす疾患です｡他の選択肢は､gaucher病(脂質代謝異常)､von gierke病(糖原病)､hurler症候群(ﾑｺ多糖症)､ｵﾙﾆﾁﾝﾄﾗﾝｽｶﾙﾊﾞﾐﾗｰｾﾞ欠損症(尿素回路異常)であり､それぞれ異なる代謝異常により高ｱﾝﾓﾆｱ血症をきたします｡)", "explanation": "d: ﾒｰﾌﾟﾙｼﾛｯﾌﾟ尿症\n\n(説明:ﾒｰﾌﾟﾙｼﾛｯﾌﾟ尿症は､分岐鎖ｱﾐﾉ酸の代謝異常により高ｱﾝﾓﾆｱ血症をきたす疾患です｡他の選択肢は､gaucher病(脂質代謝異常)､von gierke病(糖原病)､hurler症候群(ﾑｺ多糖症)､ｵﾙﾆﾁﾝﾄﾗﾝｽｶﾙﾊﾞﾐﾗｰｾﾞ欠損症(尿素回路異常)であり､それぞれ異なる代謝異常により高ｱﾝﾓﾆｱ血症をきたします｡)"}
+{"problem_id": "112A2", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A3", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A4", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A5", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A6", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A8", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A9", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A10", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A11", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A12", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112A13", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112A14", "prediction": "この問題では､具体的な診察器具の写真がないため､正確な回答はできません｡しかし､一般的に成人に対して鼻処置を行った上で鼻腔から上咽頭､喉頭にかけて内視鏡検査を実施する際に使用する器具としては､鼻咽頭鏡(③)と喉頭鏡(④)が挙げられます｡したがって､もし選択肢にこれらの器具が含まれていた場合､答えはc: ③とd: ④となります｡\n\nただし､実際の試験問題では写真が示され､その写真に基づいて回答する形式であると推測されるため､具体的な回答は示された写真に基づいて判断する必要があります｡", "explanation": "この問題では､具体的な診察器具の写真がないため､正確な回答はできません｡しかし､一般的に成人に対して鼻処置を行った上で鼻腔から上咽頭､喉頭にかけて内視鏡検査を実施する際に使用する器具としては､鼻咽頭鏡(③)と喉頭鏡(④)が挙げられます｡したがって､もし選択肢にこれらの器具が含まれていた場合､答えはc: ③とd: ④となります｡\n\nただし､実際の試験問題では写真が示され､その写真に基づいて回答する形式であると推測されるため､具体的な回答は示された写真に基づいて判断する必要があります｡"}
+{"problem_id": "112A15", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112A16", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A17", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A18", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A19", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A20", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A21", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A22", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A23", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A24", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A25", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A26", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A27", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A28", "prediction": "b: 急性心筋梗塞\n\n理由:\n\n* 血液生化学所見で､ast､alt､ld､ckが高値を示し､特にckが基準上限の140倍以上と著明に上昇している｡これは心筋細胞壊死を示唆する｡\n* 心筋ﾄﾛﾎﾟﾆﾝtが陽性である｡心筋ﾄﾛﾎﾟﾆﾝtは心筋細胞壊死を反映し､急性心筋梗塞の診断に有用な検査である｡\n* 動脈血ｶﾞｽ分析で､paco2が低値(20torr)であり､呼吸不全の兆候を認める｡これは急性心筋梗塞による心原性ｼｮｯｸや肺水腫", "explanation": "b: 急性心筋梗塞\n\n理由:\n\n* 血液生化学所見で､ast､alt､ld､ckが高値を示し､特にckが基準上限の140倍以上と著明に上昇している｡これは心筋細胞壊死を示唆する｡\n* 心筋ﾄﾛﾎﾟﾆﾝtが陽性である｡心筋ﾄﾛﾎﾟﾆﾝtは心筋細胞壊死を反映し､急性心筋梗塞の診断に有用な検査である｡\n* 動脈血ｶﾞｽ分析で､paco2が低値(20torr)であり､呼吸不全の兆候を認める｡これは急性心筋梗塞による心原性ｼｮｯｸや肺水腫"}
+{"problem_id": "112A29", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A30", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A31", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A32", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A33", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A34", "prediction": "a", "explanation": "a"}
+{"problem_id": "112A35", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A36", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A37", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A38", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A39", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A40", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A41", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A42", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A43", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A44", "prediction": "a: 血清補体低下\n\nこの患者は全身性強皮症であり､特に腎合併症である強皮症腎ｸﾘｰｾﾞの兆候を認めます｡強皮症腎ｸﾘｰｾﾞでは､補体の低下がしばしば認められます｡その他の選択肢については､全身性強皮症ではaso(抗ｽﾄﾚﾌﾟﾄﾘｼﾞﾝo抗体)の上昇は典型的ではなく､m蛋白上昇(多発性骨髄腫を示唆)や血漿ﾚﾆﾝ活性低下(ｱｼﾞｿﾝ病を示唆)は一般的ではありません｡また､ﾊﾌﾟﾄｸﾞﾛﾋﾞﾝ低下は溶血性貧血を示唆しますが､この患者では", "explanation": "a: 血清補体低下\n\nこの患者は全身性強皮症であり､特に腎合併症である強皮症腎ｸﾘｰｾﾞの兆候を認めます｡強皮症腎ｸﾘｰｾﾞでは､補体の低下がしばしば認められます｡その他の選択肢については､全身性強皮症ではaso(抗ｽﾄﾚﾌﾟﾄﾘｼﾞﾝo抗体)の上昇は典型的ではなく､m蛋白上昇(多発性骨髄腫を示唆)や血漿ﾚﾆﾝ活性低下(ｱｼﾞｿﾝ病を示唆)は一般的ではありません｡また､ﾊﾌﾟﾄｸﾞﾛﾋﾞﾝ低下は溶血性貧血を示唆しますが､この患者では"}
+{"problem_id": "112A45", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A46", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A47", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A48", "prediction": "b: 慢性骨髄性白血病\n\n(説明:末梢血塗抹may-giemsa染色標本(a)では､顆粒球系細胞の増加と幼若な顆粒球(芽球)の混入が認められ､骨髄生検のh-e染色標本(b)では､骨髄における芽球の増加と巨核球の増殖が認められる｡これらは慢性骨髄性白血病の特徴的所見である｡他の選択肢は､骨髄線維症(芽球の増加は認めない)､骨髄異形成症候群(芽球の増加は認めるが､顆粒球系細胞の増加は", "explanation": "b: 慢性骨髄性白血病\n\n(説明:末梢血塗抹may-giemsa染色標本(a)では､顆粒球系細胞の増加と幼若な顆粒球(芽球)の混入が認められ､骨髄生検のh-e染色標本(b)では､骨髄における芽球の増加と巨核球の増殖が認められる｡これらは慢性骨髄性白血病の特徴的所見である｡他の選択肢は､骨髄線維症(芽球の増加は認めない)､骨髄異形成症候群(芽球の増加は認めるが､顆粒球系細胞の増加は"}
+{"problem_id": "112A49", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A50", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A51", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A52", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A53", "prediction": "e", "explanation": "e"}
+{"problem_id": "112A54", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A55", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A56", "prediction": "c", "explanation": "c"}
+{"problem_id": "112A57", "prediction": "d", "explanation": "d"}
+{"problem_id": "112A58", "prediction": "d: jcｳｲﾙｽ抗体\n\n(説明:この患者さんの脳脊髄液所見では､細胞数が増加している(単核球優位)ことと､蛋白濃度が高値であることが特徴的です｡これらの所見は､脳炎や脊髄炎の可能性を疑います｡特に､jcｳｲﾙｽ抗体は､進行性多巣性白質脳症(pml)の診断に有用な検査項目です｡pmlは､jcｳｲﾙｽによる脳炎のひとつで､脳脊髄液中のjcｳｲﾙｽ抗体の上昇が認められます｡他の選択肢は､髄膜炎や脳炎の原因として考慮される検査項目ですが､この患者さんの脳脊髄液所見からは､pm", "explanation": "d: jcｳｲﾙｽ抗体\n\n(説明:この患者さんの脳脊髄液所見では､細胞数が増加している(単核球優位)ことと､蛋白濃度が高値であることが特徴的です｡これらの所見は､脳炎や脊髄炎の可能性を疑います｡特に､jcｳｲﾙｽ抗体は､進行性多巣性白質脳症(pml)の診断に有用な検査項目です｡pmlは､jcｳｲﾙｽによる脳炎のひとつで､脳脊髄液中のjcｳｲﾙｽ抗体の上昇が認められます｡他の選択肢は､髄膜炎や脳炎の原因として考慮される検査項目ですが､この患者さんの脳脊髄液所見からは､pm"}
+{"problem_id": "112A59", "prediction": "c: 上室性期外収縮\n\nこの患者さんの症状から､突然始まり規則的ではない動悸､脈がﾊﾞﾗﾊﾞﾗに速く打つ感じ､約2分で改善したという点が特徴的です｡これらの症状は､上室性期外収縮の可能性を示唆しています｡上室性期外収縮は､心房や房室結節から発生する異常な電気的興奮により､規則正しい脈の合間に早期の収縮が挿入される状態です｡この患者さんの場合､入浴という身体的ｽﾄﾚｽがﾄﾘｶﾞｰとなり､上室性期外収縮が誘発された可能性が高いです｡\n\naの心室頻拍やbの心室細動は", "explanation": "c: 上室性期外収縮\n\nこの患者さんの症状から､突然始まり規則的ではない動悸､脈がﾊﾞﾗﾊﾞﾗに速く打つ感じ､約2分で改善したという点が特徴的です｡これらの症状は､上室性期外収縮の可能性を示唆しています｡上室性期外収縮は､心房や房室結節から発生する異常な電気的興奮により､規則正しい脈の合間に早期の収縮が挿入される状態です｡この患者さんの場合､入浴という身体的ｽﾄﾚｽがﾄﾘｶﾞｰとなり､上室性期外収縮が誘発された可能性が高いです｡\n\naの心室頻拍やbの心室細動は"}
+{"problem_id": "112A60", "prediction": "a: ﾏｸﾛｸﾞﾛﾌﾞﾘﾝ血症\n\n理由:この患者さんの血液所見では､白血球数増加(30,500/μl)､特にﾘﾝﾊﾟ球増加(88%)が特徴的です｡また､igg､iga､igmの上昇(igg 320mg/dl､iga 34mg/dl､igm 46mg/dl)と､cd5､cd20､cd23の陽性反応がみられます｡m蛋白は認められませんが､これらの検査結果はﾏｸﾛｸﾞﾛﾌﾞﾘﾝ血症を示唆しています｡ﾏｸﾛｸﾞﾛﾌﾞﾘﾝ血症", "explanation": "a: ﾏｸﾛｸﾞﾛﾌﾞﾘﾝ血症\n\n理由:この患者さんの血液所見では､白血球数増加(30,500/μl)､特にﾘﾝﾊﾟ球増加(88%)が特徴的です｡また､igg､iga､igmの上昇(igg 320mg/dl､iga 34mg/dl､igm 46mg/dl)と､cd5､cd20､cd23の陽性反応がみられます｡m蛋白は認められませんが､これらの検査結果はﾏｸﾛｸﾞﾛﾌﾞﾘﾝ血症を示唆しています｡ﾏｸﾛｸﾞﾛﾌﾞﾘﾝ血症"}
+{"problem_id": "112A61", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "112A62", "prediction": "b", "explanation": "b"}
+{"problem_id": "112A63", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "112A64", "prediction": "a,b\n\n(説明:この患者さんの症状と検査結果から､感染性心内膜炎が疑われます｡特に､左下の歯痛､頸部痛､胸痛､血液中の好中球増加､crp高値､血液生化学所見の異常(ast､altの上昇)などが感染性心内膜炎を示唆しています｡ct画像でも､縦隔炎や心内膜炎を疑う所見が見られます｡治療としては､まず抗菌薬投与(a)が最優先です｡また､感染が重篤な場合にはﾄﾞﾚﾅｰｼﾞ(b)も考慮されます｡放射線治療(c)や抗癌化学療法(d)は､この疾患の治療", "explanation": "a,b\n\n(説明:この患者さんの症状と検査結果から､感染性心内膜炎が疑われます｡特に､左下の歯痛､頸部痛､胸痛､血液中の好中球増加､crp高値､血液生化学所見の異常(ast､altの上昇)などが感染性心内膜炎を示唆しています｡ct画像でも､縦隔炎や心内膜炎を疑う所見が見られます｡治療としては､まず抗菌薬投与(a)が最優先です｡また､感染が重篤な場合にはﾄﾞﾚﾅｰｼﾞ(b)も考慮されます｡放射線治療(c)や抗癌化学療法(d)は､この疾患の治療"}
+{"problem_id": "112A65", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "112A66", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112A67", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112A68", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "112A69", "prediction": "b,c\n\n(説明:手掌の発疹を主訴とする疾患の中には､口腔内や外陰部にも発疹が現れるものがあります｡そのため､咽頭と外陰部の観察が重要です｡)", "explanation": "b,c\n\n(説明:手掌の発疹を主訴とする疾患の中には､口腔内や外陰部にも発疹が現れるものがあります｡そのため､咽頭と外陰部の観察が重要です｡)"}
+{"problem_id": "112A70", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "112A71", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "112A72", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112A73", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112A74", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "112A75", "prediction": "a,c", "explanation": "a,c"}

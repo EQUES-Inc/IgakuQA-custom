@@ -1,0 +1,50 @@
+{"problem_id": "116E1", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E2", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E3", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E4", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E5", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E6", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E7", "prediction": "a: 臍静脈", "explanation": "a: 臍静脈"}
+{"problem_id": "116E8", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E9", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E10", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E11", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E12", "prediction": "この質問に対する正確な回答を提供するためには､具体的な写真や図が必要です｡しかし､一般的に緊急気道確保時に穿刺または切開するのに最も適した部位は甲状腺軟骨と環状軟骨の間の部分(環甲膜)です｡この部位は通常､選択肢の一つとして｢③｣に該当することが多いですが､正確な選択肢の番号は提供された情報に基づく必要があります｡そのため､この質問に対する最適な回答は､実際の写真や図に基づいて判断する", "explanation": "この質問に対する正確な回答を提供するためには､具体的な写真や図が必要です｡しかし､一般的に緊急気道確保時に穿刺または切開するのに最も適した部位は甲状腺軟骨と環状軟骨の間の部分(環甲膜)です｡この部位は通常､選択肢の一つとして｢③｣に該当することが多いですが､正確な選択肢の番号は提供された情報に基づく必要があります｡そのため､この質問に対する最適な回答は､実際の写真や図に基づいて判断する"}
+{"problem_id": "116E13", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E14", "prediction": "c: 21\n\n陽性尤度比(positive likelihood ratio, plr)は､感度(sensitivity)と特異度(specificity)を使って計算します｡その計算式は次の通りです:\n\n\\[ plr = \\frac{感度}{1 - 特異度} \\]\n\n与えられた値を代入します:\n\n\\[ plr = \\frac{0.84}{1 - 0.96} = \\frac{0.84}{0.04} = 21 \\]\n\nしたがって､答えは c: 21", "explanation": "c: 21\n\n陽性尤度比(positive likelihood ratio, plr)は､感度(sensitivity)と特異度(specificity)を使って計算します｡その計算式は次の通りです:\n\n\\[ plr = \\frac{感度}{1 - 特異度} \\]\n\n与えられた値を代入します:\n\n\\[ plr = \\frac{0.84}{1 - 0.96} = \\frac{0.84}{0.04} = 21 \\]\n\nしたがって､答えは c: 21"}
+{"problem_id": "116E15", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E16", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E17", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E18", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E19", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E20", "prediction": "d\n\n労働安全衛生法に基づく面接指導は､労働者が自己申告や上司からの指摘などで過重労働の状態にあると判断された場合や､時間外労働が月80時間超など一定の条件を満たす場合に､事業者が実施することが義務付けられています｡ただし､dの｢希望により｣面接指導が受けられるという表現は正確ではありません｡面接指導は労働者の健康保持増進の観点から､一定の条件下で事業者が実施するものであり､労", "explanation": "d\n\n労働安全衛生法に基づく面接指導は､労働者が自己申告や上司からの指摘などで過重労働の状態にあると判断された場合や､時間外労働が月80時間超など一定の条件を満たす場合に､事業者が実施することが義務付けられています｡ただし､dの｢希望により｣面接指導が受けられるという表現は正確ではありません｡面接指導は労働者の健康保持増進の観点から､一定の条件下で事業者が実施するものであり､労"}
+{"problem_id": "116E21", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E22", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E23", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E24", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E25", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E26", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E27", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E28", "prediction": "c\n\nこの患者は低血圧と嘔吐を呈しており､上腹部がやや膨隆していることから､嘔吐物や胃内容物が胃に滞留している可能性があります｡そのため､胃の内容物が気道に吸入されるのを防ぐために､経鼻胃管挿入を行うことが適切です｡これにより､胃の減圧が可能となり､嘔吐や吸入性肺炎のﾘｽｸを軽減できます｡", "explanation": "c\n\nこの患者は低血圧と嘔吐を呈しており､上腹部がやや膨隆していることから､嘔吐物や胃内容物が胃に滞留している可能性があります｡そのため､胃の内容物が気道に吸入されるのを防ぐために､経鼻胃管挿入を行うことが適切です｡これにより､胃の減圧が可能となり､嘔吐や吸入性肺炎のﾘｽｸを軽減できます｡"}
+{"problem_id": "116E29", "prediction": "b: 急性胆嚢炎\n\nこの症例は､右上腹部の圧痛､特にmurphy徴候(右上腹部を圧迫したまま深吸気をさせると痛みのために呼吸が止まってしまう)が陽性で､血液検査で白血球数が上昇していることから､急性胆嚢炎の可能性が高いです｡また､総ﾋﾞﾘﾙﾋﾞﾝやast､altの値は正常範囲内ですが､alpとγ-gtが上昇していることも胆道系の疾患を示", "explanation": "b: 急性胆嚢炎\n\nこの症例は､右上腹部の圧痛､特にmurphy徴候(右上腹部を圧迫したまま深吸気をさせると痛みのために呼吸が止まってしまう)が陽性で､血液検査で白血球数が上昇していることから､急性胆嚢炎の可能性が高いです｡また､総ﾋﾞﾘﾙﾋﾞﾝやast､altの値は正常範囲内ですが､alpとγ-gtが上昇していることも胆道系の疾患を示"}
+{"problem_id": "116E30", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E31", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E32", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E33", "prediction": "a\n\n項部硬直とkernig徴候は脳膜炎の徴候であり､腰椎穿刺による診断が考えられる｡しかし､対光反射に左右差がある(①)ことは､脳内圧亢進や脳疝の兆候を示唆し､腰椎穿刺を行うことで脳疝を悪化させる可能性があるため､腰椎穿刺の回避を考慮すべき所見である｡", "explanation": "a\n\n項部硬直とkernig徴候は脳膜炎の徴候であり､腰椎穿刺による診断が考えられる｡しかし､対光反射に左右差がある(①)ことは､脳内圧亢進や脳疝の兆候を示唆し､腰椎穿刺を行うことで脳疝を悪化させる可能性があるため､腰椎穿刺の回避を考慮すべき所見である｡"}
+{"problem_id": "116E34", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E35", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E36", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E37", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E38", "prediction": "d: pneumothorax\n\nthe symptoms described, particularly chest pain that worsens with breathing, along with a normal lung and heart examination, suggest pneumothorax as a likely diagnosis. while the actual chest x-ray and ecg (a and b) are not shown here, in cases of pneumothorax, a chest x-ray typically reveals the presence of air in the pleural space, which can cause the lung to collapse. this condition is often associated with sharp, sudden chest pain that is exacerbated by breathing. given the options provided and the clinical presentation, pneumothorax is the most likely diagnosis.", "explanation": "d: pneumothorax\n\nthe symptoms described, particularly chest pain that worsens with breathing, along with a normal lung and heart examination, suggest pneumothorax as a likely diagnosis. while the actual chest x-ray and ecg (a and b) are not shown here, in cases of pneumothorax, a chest x-ray typically reveals the presence of air in the pleural space, which can cause the lung to collapse. this condition is often associated with sharp, sudden chest pain that is exacerbated by breathing. given the options provided and the clinical presentation, pneumothorax is the most likely diagnosis."}
+{"problem_id": "116E39", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E40", "prediction": "d: 側臥位\n\n打診によるshifting dullnessの確認は､腹部に遊離腹水があるかどうかを判定するための検査です｡仰臥位から側臥位に体位を変えることで､腹水が体の下側に移動し､その結果として音響が変化することを確認します｡このため､仰臥位の次にとるべき体位は側臥位です｡", "explanation": "d: 側臥位\n\n打診によるshifting dullnessの確認は､腹部に遊離腹水があるかどうかを判定するための検査です｡仰臥位から側臥位に体位を変えることで､腹水が体の下側に移動し､その結果として音響が変化することを確認します｡このため､仰臥位の次にとるべき体位は側臥位です｡"}
+{"problem_id": "116E41", "prediction": "d: ﾌｪｲｽﾏｽｸ6l/分\n\n理由:患者は慢性の呼吸器疾患を有しており､動脈血ｶﾞｽ分析から低酸素血症(pao2 58torr)と高碳酸血症(paco2 56torr)が認められます｡慢性の高碳酸血症患者では､過剰な酸素投与により呼吸駆動が抑制される可能性があるため､酸素投与量には注意が必要です｡しかし､現在のspo2 88%は低い値であり､適切な酸", "explanation": "d: ﾌｪｲｽﾏｽｸ6l/分\n\n理由:患者は慢性の呼吸器疾患を有しており､動脈血ｶﾞｽ分析から低酸素血症(pao2 58torr)と高碳酸血症(paco2 56torr)が認められます｡慢性の高碳酸血症患者では､過剰な酸素投与により呼吸駆動が抑制される可能性があるため､酸素投与量には注意が必要です｡しかし､現在のspo2 88%は低い値であり､適切な酸"}
+{"problem_id": "116E42", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E43", "prediction": "e\n\nこの患者の症状と状況から､急性肺塞栓症の可能性が考えられます｡胸痛､呼吸困難､心拍数の上昇､spo2の低下などが示唆的です｡胸部ｴｯｸｽ線写真(b)の所見が具体的に示されていませんが､急性肺塞栓症では､患側の呼吸音減弱が観察されることがあります｡したがって､選択肢の中で最も適しているのは｢e: 患側の呼吸音減弱｣です｡ただし､胸部ｴｯｸｽ線写真の具体的な所見", "explanation": "e\n\nこの患者の症状と状況から､急性肺塞栓症の可能性が考えられます｡胸痛､呼吸困難､心拍数の上昇､spo2の低下などが示唆的です｡胸部ｴｯｸｽ線写真(b)の所見が具体的に示されていませんが､急性肺塞栓症では､患側の呼吸音減弱が観察されることがあります｡したがって､選択肢の中で最も適しているのは｢e: 患側の呼吸音減弱｣です｡ただし､胸部ｴｯｸｽ線写真の具体的な所見"}
+{"problem_id": "116E44", "prediction": "この質問に対する適切な回答を決定するためには､患者の具体的な症状や状況(例えば､低血圧､呼吸困難､胸部外傷の有無など)が必要です｡しかし､問題文から推測するに､羊水がほとんどない(無羊水症)という状況が与えられており､これに関連する直接的な処置は選択肢に含まれていません｡そのため､この質問が無羊水症の患者に対して行うべき処置を尋ねているものではないと仮定し､一般的な緊急", "explanation": "この質問に対する適切な回答を決定するためには､患者の具体的な症状や状況(例えば､低血圧､呼吸困難､胸部外傷の有無など)が必要です｡しかし､問題文から推測するに､羊水がほとんどない(無羊水症)という状況が与えられており､これに関連する直接的な処置は選択肢に含まれていません｡そのため､この質問が無羊水症の患者に対して行うべき処置を尋ねているものではないと仮定し､一般的な緊急"}
+{"problem_id": "116E45", "prediction": "c: 3点\n\n理由:\n- 心不全(c):心ｴｺｰ図で左房が軽度拡大しているため､1点｡\n- 高血圧(h):既往歴に高血圧症があるため､1点｡\n- 年齢(a):68歳で75歳未満なので､0点｡\n- 糖尿病(d):既往歴に糖尿病があるため､1点｡\n- 脳卒中/tiaの既往(s2):家族", "explanation": "c: 3点\n\n理由:\n- 心不全(c):心ｴｺｰ図で左房が軽度拡大しているため､1点｡\n- 高血圧(h):既往歴に高血圧症があるため､1点｡\n- 年齢(a):68歳で75歳未満なので､0点｡\n- 糖尿病(d):既往歴に糖尿病があるため､1点｡\n- 脳卒中/tiaの既往(s2):家族"}
+{"problem_id": "116E46", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E47", "prediction": "c: 40%\n\n説明:\nまず､患者の症状から事前確率を計算します｡患者は｢発熱｣｢前頸部ﾘﾝﾊﾟ節腫大｣｢口蓋扁桃の白苔｣｢咳がない｣の4項目全てを満たしています｡したがって､事前確率は52%です｡\n\n次に､a群β溶連菌迅速抗原検査の結果が陰性であることを考慮に入れて､事後確率を計算します｡事後確率は以下の式で計算できます｡\n\n\\[事後確", "explanation": "c: 40%\n\n説明:\nまず､患者の症状から事前確率を計算します｡患者は｢発熱｣｢前頸部ﾘﾝﾊﾟ節腫大｣｢口蓋扁桃の白苔｣｢咳がない｣の4項目全てを満たしています｡したがって､事前確率は52%です｡\n\n次に､a群β溶連菌迅速抗原検査の結果が陰性であることを考慮に入れて､事後確率を計算します｡事後確率は以下の式で計算できます｡\n\n\\[事後確"}
+{"problem_id": "116E48", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E49", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E50", "prediction": "a", "explanation": "a"}

@@ -1,0 +1,50 @@
+{"problem_id": "115B1", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B2", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B3", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B4", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B6", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B7", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B8", "prediction": "この問題を正確に回答するためには､実線aの具体的な変化ﾊﾟﾀｰﾝ(ｸﾞﾗﾌ)が必要です｡しかし､一般的な知識に基づいて推測すると､妊娠中はｴｽﾄﾛｹﾞﾝとﾌﾟﾛｹﾞｽﾃﾛﾝの値が上昇し､産褥期には減少します｡また､絨毛性ｺﾞﾅﾄﾞﾄﾛﾋﾟﾝは妊娠初期に上昇し､その後は減少します｡甲状腺刺激ﾎﾙﾓﾝは通常､この期間での劇的な変化は見られません｡ﾌﾟﾛﾗｸﾁﾝは妊娠中は上昇し､産褥期にはさらに上", "explanation": "この問題を正確に回答するためには､実線aの具体的な変化ﾊﾟﾀｰﾝ(ｸﾞﾗﾌ)が必要です｡しかし､一般的な知識に基づいて推測すると､妊娠中はｴｽﾄﾛｹﾞﾝとﾌﾟﾛｹﾞｽﾃﾛﾝの値が上昇し､産褥期には減少します｡また､絨毛性ｺﾞﾅﾄﾞﾄﾛﾋﾟﾝは妊娠初期に上昇し､その後は減少します｡甲状腺刺激ﾎﾙﾓﾝは通常､この期間での劇的な変化は見られません｡ﾌﾟﾛﾗｸﾁﾝは妊娠中は上昇し､産褥期にはさらに上"}
+{"problem_id": "115B9", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B10", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B11", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B12", "prediction": "c\n\n鉄欠乏性貧血は､爪に特定の変化(例えばｽﾌﾟｰﾝ状爪､ﾚﾄﾗｯｸｽﾈｲﾙ)を引き起こすことがあり､貧血の視診所見の一つとしてよく挙げられます｡ただし､正確な診断には臨床症状､血液検査結果なども考慮する必要があります｡", "explanation": "c\n\n鉄欠乏性貧血は､爪に特定の変化(例えばｽﾌﾟｰﾝ状爪､ﾚﾄﾗｯｸｽﾈｲﾙ)を引き起こすことがあり､貧血の視診所見の一つとしてよく挙げられます｡ただし､正確な診断には臨床症状､血液検査結果なども考慮する必要があります｡"}
+{"problem_id": "115B13", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B14", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B15", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B17", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B18", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B19", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B20", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B21", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B22", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B23", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B25", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B27", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B28", "prediction": "b\n\nこの状況は､心拍数が非常に低く(20/分)､頸動脈も触知できないことから､心室頻拍や心室細動などの致命的な不整脈の可能性が考えられます｡しかし､心拍数が完全にｾﾞﾛではないため､心停止とは一線を画します｡この状態では､まず胸骨圧迫を再開することが重要です｡その後､適切なﾀｲﾐﾝｸﾞで電気的除細動や薬物療法を検討しますが､まず初動として胸骨圧迫を", "explanation": "b\n\nこの状況は､心拍数が非常に低く(20/分)､頸動脈も触知できないことから､心室頻拍や心室細動などの致命的な不整脈の可能性が考えられます｡しかし､心拍数が完全にｾﾞﾛではないため､心停止とは一線を画します｡この状態では､まず胸骨圧迫を再開することが重要です｡その後､適切なﾀｲﾐﾝｸﾞで電気的除細動や薬物療法を検討しますが､まず初動として胸骨圧迫を"}
+{"problem_id": "115B29", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B30", "prediction": "c\n\nこの問題では､2歳の男児が発熱､咳嗽､喘鳴を訴えている｡その中で､特に緊急性が高いことを示唆する下線部は呼吸数(③呼吸数48/分)です｡通常､2歳の子どもの安静時の呼吸数は約20-30回/分とされています｡48回/分は著しく高く､息苦しさや呼吸困難を示唆しており､緊急性が高いことを示しています｡", "explanation": "c\n\nこの問題では､2歳の男児が発熱､咳嗽､喘鳴を訴えている｡その中で､特に緊急性が高いことを示唆する下線部は呼吸数(③呼吸数48/分)です｡通常､2歳の子どもの安静時の呼吸数は約20-30回/分とされています｡48回/分は著しく高く､息苦しさや呼吸困難を示唆しており､緊急性が高いことを示しています｡"}
+{"problem_id": "115B31", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B32", "prediction": "b: vitamin b1\n\nthe symptoms described, including sensory disturbance, muscle weakness, burning sensation in the extremities, nystagmus, and heart failure, are indicative of wernicke-korsakoff syndrome, which is associated with a deficiency in vitamin b1 (thiamine). chronic alcoholism is a common cause of thiamine deficiency due to poor dietary intake and impaired absorption and utilization of the vitamin.", "explanation": "b: vitamin b1\n\nthe symptoms described, including sensory disturbance, muscle weakness, burning sensation in the extremities, nystagmus, and heart failure, are indicative of wernicke-korsakoff syndrome, which is associated with a deficiency in vitamin b1 (thiamine). chronic alcoholism is a common cause of thiamine deficiency due to poor dietary intake and impaired absorption and utilization of the vitamin."}
+{"problem_id": "115B33", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B34", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B35", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B36", "prediction": "b\n\nこの問題の状況から､患者は労作時の息切れと､歩行中に気が遠くなる感覚を訴えています｡心電図の情報が直接与えられていませんが､選択肢から推測すると､ii音の亢進(b)は､心臓の弁膜症や肺高血圧などの状態で聴取される可能性があります｡特に､息切れや気が遠くなる感覚は､心臓の機能不全や肺の問題を示唆する症状であり､これらの状況ではii音の", "explanation": "b\n\nこの問題の状況から､患者は労作時の息切れと､歩行中に気が遠くなる感覚を訴えています｡心電図の情報が直接与えられていませんが､選択肢から推測すると､ii音の亢進(b)は､心臓の弁膜症や肺高血圧などの状態で聴取される可能性があります｡特に､息切れや気が遠くなる感覚は､心臓の機能不全や肺の問題を示唆する症状であり､これらの状況ではii音の"}
+{"problem_id": "115B37", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B38", "prediction": "b\n\nこの症状は､指端肥大症(ｸﾗﾌﾞﾊﾞｲﾝｸﾞ)と呼ばれる症状に一致しており､これは肺や腎臓の病気などによって引き起こされることが知られています｡特に腎癌では､副腎以外の臓器に影響を与える副腎外副腎皮質症候群(ﾊﾟﾗﾈｵﾌﾟﾗｽﾞﾏ症候群)の一環として､この症状が現れることがあります｡したがって､精査すべきなのは腎癌です｡", "explanation": "b\n\nこの症状は､指端肥大症(ｸﾗﾌﾞﾊﾞｲﾝｸﾞ)と呼ばれる症状に一致しており､これは肺や腎臓の病気などによって引き起こされることが知られています｡特に腎癌では､副腎以外の臓器に影響を与える副腎外副腎皮質症候群(ﾊﾟﾗﾈｵﾌﾟﾗｽﾞﾏ症候群)の一環として､この症状が現れることがあります｡したがって､精査すべきなのは腎癌です｡"}
+{"problem_id": "115B39", "prediction": "c\n\nこの問題の状況から､患者が肺腺癌と診断されたことを考慮すると､眼瞼下垂(ptosis)は､肺がん患者においてﾊﾟｰｿﾝ症候群(horner症候群)の一部として現れる可能性があります｡horner症候群は､頸部の交感神経路の障害により生じ､眼瞼下垂､顔面の無汗症､瞳孔縮小(ﾐiosis)などの症状を伴います｡この中で､与えられた選択肢に含まれているのは｢", "explanation": "c\n\nこの問題の状況から､患者が肺腺癌と診断されたことを考慮すると､眼瞼下垂(ptosis)は､肺がん患者においてﾊﾟｰｿﾝ症候群(horner症候群)の一部として現れる可能性があります｡horner症候群は､頸部の交感神経路の障害により生じ､眼瞼下垂､顔面の無汗症､瞳孔縮小(ﾐiosis)などの症状を伴います｡この中で､与えられた選択肢に含まれているのは｢"}
+{"problem_id": "115B40", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B41", "prediction": "d: 0.54\n\nこの問題を解くためにﾍﾞｲｽﾞの定理を使用します｡まず､与えられた情報から以下の値を定義します｡\n\n- 検査前確率 (p(d)) = 0.8\n- 感度 (p(t+|d)) = 0.6\n- 特異度 (p(t-|¬d)) = 0.9\n- 検査結果が陰性 (t-) であるときの確率を求める｡\n\nﾍﾞｲｽﾞの定理を用いて､", "explanation": "d: 0.54\n\nこの問題を解くためにﾍﾞｲｽﾞの定理を使用します｡まず､与えられた情報から以下の値を定義します｡\n\n- 検査前確率 (p(d)) = 0.8\n- 感度 (p(t+|d)) = 0.6\n- 特異度 (p(t-|¬d)) = 0.9\n- 検査結果が陰性 (t-) であるときの確率を求める｡\n\nﾍﾞｲｽﾞの定理を用いて､"}
+{"problem_id": "115B42", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B43", "prediction": "b: 低くなる｡\n\nこの患者の症状は､突然発症しているわけではなく､増悪しているわけでもなく､これまで経験した中で最悪の頭痛でもない｡したがって､重篤な原因による頭痛の尤度比は該当項目数0に対応し､尤度比は0.1となる｡これは事前確率よりも低い尤度比を示しており､つまり重篤な原因による頭痛を起こしている可能性は低くなることを示している｡", "explanation": "b: 低くなる｡\n\nこの患者の症状は､突然発症しているわけではなく､増悪しているわけでもなく､これまで経験した中で最悪の頭痛でもない｡したがって､重篤な原因による頭痛の尤度比は該当項目数0に対応し､尤度比は0.1となる｡これは事前確率よりも低い尤度比を示しており､つまり重篤な原因による頭痛を起こしている可能性は低くなることを示している｡"}
+{"problem_id": "115B44", "prediction": "c\n\nこの質問は片頭痛の特徴を問うていると考えられます｡片頭痛は､光過敏(光に敏感になること)を伴うことがよくあります｡したがって､最も適切な答えはcです｡ただし､頭痛の種類によって特徴は異なるため､具体的な頭痛の種類が指定されていない場合は､一般的な片頭痛の特徴に基づいて回答しています｡", "explanation": "c\n\nこの質問は片頭痛の特徴を問うていると考えられます｡片頭痛は､光過敏(光に敏感になること)を伴うことがよくあります｡したがって､最も適切な答えはcです｡ただし､頭痛の種類によって特徴は異なるため､具体的な頭痛の種類が指定されていない場合は､一般的な片頭痛の特徴に基づいて回答しています｡"}
+{"problem_id": "115B45", "prediction": "d: 乳酸ﾘﾝｹﾞﾙ液\n\n理由:熱傷患者は大量の体液を失うため､初期の輸液療法では､電解質ﾊﾞﾗﾝｽを維持しつつ体液量を補うことが重要です｡乳酸ﾘﾝｹﾞﾙ液は､ﾅﾄﾘｳﾑ､ｶﾘｳﾑ､ｸﾛｰﾙ､乳酸ｲｵﾝを含む電解質溶液であり､熱傷患者の初期治療において広く使用されています｡他の選択肢は､特定の状況や目的(例えば､血漿の補充や血糖の管理)に使用", "explanation": "d: 乳酸ﾘﾝｹﾞﾙ液\n\n理由:熱傷患者は大量の体液を失うため､初期の輸液療法では､電解質ﾊﾞﾗﾝｽを維持しつつ体液量を補うことが重要です｡乳酸ﾘﾝｹﾞﾙ液は､ﾅﾄﾘｳﾑ､ｶﾘｳﾑ､ｸﾛｰﾙ､乳酸ｲｵﾝを含む電解質溶液であり､熱傷患者の初期治療において広く使用されています｡他の選択肢は､特定の状況や目的(例えば､血漿の補充や血糖の管理)に使用"}
+{"problem_id": "115B46", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B47", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B48", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B49", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B50", "prediction": "e", "explanation": "e"}

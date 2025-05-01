@@ -1,0 +1,75 @@
+{"problem_id": "116C1", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C2", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C3", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C4", "prediction": "この質問の答えを特定するためには､具体的な画像や縫合線の位置に関する詳細な情報が必要です｡しかし､一般的な知識に基づいて､乳児の頭蓋骨の縫合線の中で成人するまでに消失する最も一般的なものは前頭骨と側頭骨を接合する｢冠状縫合｣や､前頭骨と副鼻腔を接合する｢矢状縫合｣などがあります｡ただし､問題文に示されている選択肢が具体的な縫合線を指しているのか､それとも特定の番", "explanation": "この質問の答えを特定するためには､具体的な画像や縫合線の位置に関する詳細な情報が必要です｡しかし､一般的な知識に基づいて､乳児の頭蓋骨の縫合線の中で成人するまでに消失する最も一般的なものは前頭骨と側頭骨を接合する｢冠状縫合｣や､前頭骨と副鼻腔を接合する｢矢状縫合｣などがあります｡ただし､問題文に示されている選択肢が具体的な縫合線を指しているのか､それとも特定の番"}
+{"problem_id": "116C5", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C6", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C7", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C8", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C9", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C10", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C11", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C12", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C13", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C14", "prediction": "b: −20度", "explanation": "b: −20度"}
+{"problem_id": "116C15", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C16", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C17", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C18", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C19", "prediction": "この質問の答えを決定するためには､毒性物質の負荷量と毒性発現確率の関係を示した具体的な図やｸﾞﾗﾌが必要です｡通常､1日摂取許容量(adi: acceptable daily intake)は､毒性が極めて低いﾚﾍﾞﾙ､つまり毒性発現確率が非常に低い負荷量を基に計算されます｡一般的には､このﾚﾍﾞﾙは毒性発現確率が非常に低い点､例えば①や②のような低い負荷量の範囲から選ばれることが多いです｡\n\nただし､", "explanation": "この質問の答えを決定するためには､毒性物質の負荷量と毒性発現確率の関係を示した具体的な図やｸﾞﾗﾌが必要です｡通常､1日摂取許容量(adi: acceptable daily intake)は､毒性が極めて低いﾚﾍﾞﾙ､つまり毒性発現確率が非常に低い負荷量を基に計算されます｡一般的には､このﾚﾍﾞﾙは毒性発現確率が非常に低い点､例えば①や②のような低い負荷量の範囲から選ばれることが多いです｡\n\nただし､"}
+{"problem_id": "116C20", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C21", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C22", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C23", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C24", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C25", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C26", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C27", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "116C28", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "116C29", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "116C30", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "116C31", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "116C32", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "116C33", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "116C34", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "116C35", "prediction": "b, c, e", "explanation": "b, c, e"}
+{"problem_id": "116C36", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C37", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C38", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C39", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C40", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C41", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C42", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C43", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C44", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C45", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C46", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C48", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C49", "prediction": "d: 医療保護入院", "explanation": "d: 医療保護入院"}
+{"problem_id": "116C50", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C51", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C52", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C53", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C54", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C55", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C56", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116C57", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116C58", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "116C59", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "116C60", "prediction": "d: ﾊﾞｿﾌﾟﾚｼﾝ\n\nこの症例では､患者の血中ﾅﾄﾘｳﾑ濃度が著しく低下しており(na 108meq/l)､低ﾅﾄﾘｳﾑ血症が疑われます｡さらに､尿浸透圧が高値(702mosm/l)で､尿ﾅﾄﾘｳﾑも高値(163meq/l)であることを考慮すると､適切な水分摂取や腎機能が保たれているにもかかわらず､過剰な水分保持が起こっている可能性が高く", "explanation": "d: ﾊﾞｿﾌﾟﾚｼﾝ\n\nこの症例では､患者の血中ﾅﾄﾘｳﾑ濃度が著しく低下しており(na 108meq/l)､低ﾅﾄﾘｳﾑ血症が疑われます｡さらに､尿浸透圧が高値(702mosm/l)で､尿ﾅﾄﾘｳﾑも高値(163meq/l)であることを考慮すると､適切な水分摂取や腎機能が保たれているにもかかわらず､過剰な水分保持が起こっている可能性が高く"}
+{"problem_id": "116C61", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C62", "prediction": "この質問には､患者の具体的な状態や診断が明記されていないため､最適な選択肢を特定するのが難しいです｡しかし､一般的な状況を考慮すると､以下のような推測ができます:\n\n- **a: 維持輸液(組成:na+ 35meq/l､k+ 20meq/l､cl- 35meq/l､ｸﾞﾙｺｰｽ5.0%)** - 一般的な維持輸液で､電解質のﾊﾞﾗﾝｽを保つのに適しています｡\n- **b: 高", "explanation": "この質問には､患者の具体的な状態や診断が明記されていないため､最適な選択肢を特定するのが難しいです｡しかし､一般的な状況を考慮すると､以下のような推測ができます:\n\n- **a: 維持輸液(組成:na+ 35meq/l､k+ 20meq/l､cl- 35meq/l､ｸﾞﾙｺｰｽ5.0%)** - 一般的な維持輸液で､電解質のﾊﾞﾗﾝｽを保つのに適しています｡\n- **b: 高"}
+{"problem_id": "116C63", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C64", "prediction": "b", "explanation": "b"}
+{"problem_id": "116C65", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C66", "prediction": "c", "explanation": "c"}
+{"problem_id": "116C67", "prediction": "この質問の文脈が不足しているため､特定の症状や状況が不明瞭です｡しかし､一般的な緊急状況での対応を考えると､最も一般的に使用される薬剤は:\n\nc: ｱﾄﾞﾚﾅﾘﾝ\n\nｱﾄﾞﾚﾅﾘﾝは､ｱﾅﾌｨﾗｷｼｰや心停止などの緊急状況で直ちに投与されることが一般的です｡ただし､具体的な状況によって最適な選択肢は異なる可能性があります｡", "explanation": "この質問の文脈が不足しているため､特定の症状や状況が不明瞭です｡しかし､一般的な緊急状況での対応を考えると､最も一般的に使用される薬剤は:\n\nc: ｱﾄﾞﾚﾅﾘﾝ\n\nｱﾄﾞﾚﾅﾘﾝは､ｱﾅﾌｨﾗｷｼｰや心停止などの緊急状況で直ちに投与されることが一般的です｡ただし､具体的な状況によって最適な選択肢は異なる可能性があります｡"}
+{"problem_id": "116C68", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "116C69", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "116C70", "prediction": "d", "explanation": "d"}
+{"problem_id": "116C71", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "116C72", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116C73", "prediction": "e", "explanation": "e"}
+{"problem_id": "116C74", "prediction": "a", "explanation": "a"}
+{"problem_id": "116C75", "prediction": "まず､患児の1日の必要ｴﾈﾙｷﾞｰ量を計算します｡\n\n患児の体重:3,200g = 3.2kg\n必要ｴﾈﾙｷﾞｰ量:100kcal/kg/日\n\n1日の必要ｴﾈﾙｷﾞｰ量 = 3.2kg × 100kcal/kg = 320kcal\n\n次に､人工乳からのｴﾈﾙｷﾞｰ摂取量を計算します｡\n\n人工乳の1回量:20ml\n1日の投与回数:8回\n人工乳のｴﾈﾙｷﾞｰ密度:0.7kcal/ml\n\n1日の人工乳", "explanation": "まず､患児の1日の必要ｴﾈﾙｷﾞｰ量を計算します｡\n\n患児の体重:3,200g = 3.2kg\n必要ｴﾈﾙｷﾞｰ量:100kcal/kg/日\n\n1日の必要ｴﾈﾙｷﾞｰ量 = 3.2kg × 100kcal/kg = 320kcal\n\n次に､人工乳からのｴﾈﾙｷﾞｰ摂取量を計算します｡\n\n人工乳の1回量:20ml\n1日の投与回数:8回\n人工乳のｴﾈﾙｷﾞｰ密度:0.7kcal/ml\n\n1日の人工乳"}

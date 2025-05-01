@@ -1,0 +1,50 @@
+{"problem_id": "116E1", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E2", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E3", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E4", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E5", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E6", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E7", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E8", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E9", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E10", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E11", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E12", "prediction": "この質問の回答を決定するためには､具体的な頸部の解剖学的位置を理解する必要があります｡通常､緊急気道確保の際には､甲状軟骨と気管軟骨環の間(甲状軟骨と気管の間の隙間)が選ばれます｡これはcricothyrotomy(ｸﾘｺﾁﾛｯﾄﾐｰ)と呼ばれる手技で､緊急時に気道を確保するために用いられます｡\n\nただし､選択肢の①から⑤が具体的にどの部位を指しているのかが明示されていないため､", "explanation": "この質問の回答を決定するためには､具体的な頸部の解剖学的位置を理解する必要があります｡通常､緊急気道確保の際には､甲状軟骨と気管軟骨環の間(甲状軟骨と気管の間の隙間)が選ばれます｡これはcricothyrotomy(ｸﾘｺﾁﾛｯﾄﾐｰ)と呼ばれる手技で､緊急時に気道を確保するために用いられます｡\n\nただし､選択肢の①から⑤が具体的にどの部位を指しているのかが明示されていないため､"}
+{"problem_id": "116E13", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E14", "prediction": "c: 21\n\n陽性尤度比は､感度と特異度から計算できます｡陽性尤度比の計算式は以下の通りです:\n\n\\[ \\text{陽性尤度比} = \\frac{\\text{感度}}{1 - \\text{特異度}} \\]\n\n与えられた値を代入すると:\n\n\\[ \\text{陽性尤度比} = \\frac{0.84}{1 - 0.96} = \\frac{0.84}{0.04} = 21 \\]\n\nしたがって､", "explanation": "c: 21\n\n陽性尤度比は､感度と特異度から計算できます｡陽性尤度比の計算式は以下の通りです:\n\n\\[ \\text{陽性尤度比} = \\frac{\\text{感度}}{1 - \\text{特異度}} \\]\n\n与えられた値を代入すると:\n\n\\[ \\text{陽性尤度比} = \\frac{0.84}{1 - 0.96} = \\frac{0.84}{0.04} = 21 \\]\n\nしたがって､"}
+{"problem_id": "116E15", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E16", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E17", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E18", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E19", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E20", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E21", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E22", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E23", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E24", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E25", "prediction": "a", "explanation": "a"}
+{"problem_id": "116E26", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E27", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E28", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E29", "prediction": "b: 急性胆嚢炎", "explanation": "b: 急性胆嚢炎"}
+{"problem_id": "116E30", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E31", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E32", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E33", "prediction": "a: ①", "explanation": "a: ①"}
+{"problem_id": "116E34", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E35", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E36", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E37", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E38", "prediction": "c: pericarditis", "explanation": "c: pericarditis"}
+{"problem_id": "116E39", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E40", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E41", "prediction": "a: 鼻ｶﾆｭｰﾗ2l/分\n\nこの患者は慢性呼吸器疾患の既往があり､現在の症状と検査所見から慢性閉塞性肺疾患(copd)の急性増悪が強く疑われます｡copdの患者では､過度の酸素投与が呼吸中枢の刺激を低下させ､呼吸抑制を引き起こす可能性があるため､酸素投与は慎重に行う必要があります｡初期対応では､spo2を88-92%程度に保つことが推奨", "explanation": "a: 鼻ｶﾆｭｰﾗ2l/分\n\nこの患者は慢性呼吸器疾患の既往があり､現在の症状と検査所見から慢性閉塞性肺疾患(copd)の急性増悪が強く疑われます｡copdの患者では､過度の酸素投与が呼吸中枢の刺激を低下させ､呼吸抑制を引き起こす可能性があるため､酸素投与は慎重に行う必要があります｡初期対応では､spo2を88-92%程度に保つことが推奨"}
+{"problem_id": "116E42", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E43", "prediction": "e", "explanation": "e"}
+{"problem_id": "116E44", "prediction": "この質問が提供する情報が不十分で､具体的な症状や状態が明確でないため､最適な選択肢を特定するのが難しいです｡しかし､一般的に｢羊水がほとんど認めない｣状況( oligohydramnios)と｢妊娠30週｣の状況を考慮すると､直接的な処置よりも､原因の特定と管理が重要となります｡ただし､質問の文脈から､特定の緊急処置を求めるものではなく､胎児の状態に対する一般的な対応を求", "explanation": "この質問が提供する情報が不十分で､具体的な症状や状態が明確でないため､最適な選択肢を特定するのが難しいです｡しかし､一般的に｢羊水がほとんど認めない｣状況( oligohydramnios)と｢妊娠30週｣の状況を考慮すると､直接的な処置よりも､原因の特定と管理が重要となります｡ただし､質問の文脈から､特定の緊急処置を求めるものではなく､胎児の状態に対する一般的な対応を求"}
+{"problem_id": "116E45", "prediction": "c: 3点\n\nこの患者のchads2ｽｺｱは以下の通りです:\n- 心不全(c):0点(心ｴｺｰ図で心機能は正常)\n- 高血圧(h):1点(既往歴に高血圧症あり)\n- 年齢(a):0点(75歳未満)\n- 糖尿病(d):1点(既往歴に糖尿病あり)\n- 脳卒中/tiaの既往(s2):1点(", "explanation": "c: 3点\n\nこの患者のchads2ｽｺｱは以下の通りです:\n- 心不全(c):0点(心ｴｺｰ図で心機能は正常)\n- 高血圧(h):1点(既往歴に高血圧症あり)\n- 年齢(a):0点(75歳未満)\n- 糖尿病(d):1点(既往歴に糖尿病あり)\n- 脳卒中/tiaの既往(s2):1点("}
+{"problem_id": "116E46", "prediction": "d", "explanation": "d"}
+{"problem_id": "116E47", "prediction": "b: 25%\n\nこの患者の事前確率は､4つの項目(発熱､前頸部ﾘﾝﾊﾟ節腫大､口蓋扁桃の白苔､咳がない)全てに該当するため52%です｡しかし､a群β溶連菌迅速抗原検査が陰性であったため､陰性尤度比0.2を用いて事後確率を計算します｡\n\n事後確率の計算式は以下の通りです:\n\n\\[ \\text{事後確率} = \\frac{\\text{事前確率", "explanation": "b: 25%\n\nこの患者の事前確率は､4つの項目(発熱､前頸部ﾘﾝﾊﾟ節腫大､口蓋扁桃の白苔､咳がない)全てに該当するため52%です｡しかし､a群β溶連菌迅速抗原検査が陰性であったため､陰性尤度比0.2を用いて事後確率を計算します｡\n\n事後確率の計算式は以下の通りです:\n\n\\[ \\text{事後確率} = \\frac{\\text{事前確率"}
+{"problem_id": "116E48", "prediction": "c", "explanation": "c"}
+{"problem_id": "116E49", "prediction": "b", "explanation": "b"}
+{"problem_id": "116E50", "prediction": "a: ①", "explanation": "a: ①"}

@@ -1,0 +1,75 @@
+{"problem_id": "112D1", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D3", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D4", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D5", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D6", "prediction": "画像が見えないため､診断はできません｡ \n\n画像があれば､特徴的な所見から疾患を推測することができます｡", "explanation": "画像が見えないため､診断はできません｡ \n\n画像があれば､特徴的な所見から疾患を推測することができます｡"}
+{"problem_id": "112D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D8", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D9", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D10", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D11", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112D12", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "112D13", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112D14", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "112D15", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "112D16", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D17", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D18", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D19", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D20", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D21", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D22", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D23", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D24", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D25", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D26", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D27", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D28", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D29", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D30", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D31", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D32", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D33", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D34", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D35", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D37", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D38", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D39", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D40", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D41", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D42", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D43", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D44", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D45", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D46", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D47", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D48", "prediction": "e", "explanation": "e"}
+{"problem_id": "112D49", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D50", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D51", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D52", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D53", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D54", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D55", "prediction": "a", "explanation": "a"}
+{"problem_id": "112D56", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D57", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D58", "prediction": "b", "explanation": "b"}
+{"problem_id": "112D59", "prediction": "c", "explanation": "c"}
+{"problem_id": "112D60", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D61", "prediction": "d", "explanation": "d"}
+{"problem_id": "112D62", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "112D63", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "112D64", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "112D65", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D66", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112D67", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "112D68", "prediction": "d, e \n\n\n**解説:**\n\nこの症例は､腹部造影ctで腹部大動脈瘤破裂が疑われます｡\n\n* **d: 経皮的ﾄﾞﾚﾅｰｼﾞ:** 腹部大動脈瘤破裂による出血をｺﾝﾄﾛｰﾙするために､経皮的にﾄﾞﾚｰﾝを挿入して血腫を排出します｡\n* **e: ｽﾃﾝﾄｸﾞﾗﾌﾄ内挿術:** 大動脈瘤をｽﾃﾝﾄｸﾞﾗﾌﾄで塞栓し､破裂を止血します｡\n\n**", "explanation": "d, e \n\n\n**解説:**\n\nこの症例は､腹部造影ctで腹部大動脈瘤破裂が疑われます｡\n\n* **d: 経皮的ﾄﾞﾚﾅｰｼﾞ:** 腹部大動脈瘤破裂による出血をｺﾝﾄﾛｰﾙするために､経皮的にﾄﾞﾚｰﾝを挿入して血腫を排出します｡\n* **e: ｽﾃﾝﾄｸﾞﾗﾌﾄ内挿術:** 大動脈瘤をｽﾃﾝﾄｸﾞﾗﾌﾄで塞栓し､破裂を止血します｡\n\n**"}
+{"problem_id": "112D69", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "112D70", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "112D71", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D72", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "112D73", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D74", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "112D75", "prediction": "b, c, d", "explanation": "b, c, d"}

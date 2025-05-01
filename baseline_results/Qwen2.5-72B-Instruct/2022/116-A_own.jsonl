@@ -1,0 +1,75 @@
+{"problem_id": "116A1", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A2", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A3", "prediction": "a", "explanation": "a"}
+{"problem_id": "116A4", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A5", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A6", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A7", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A8", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A9", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A10", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A11", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A12", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A13", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "116A14", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "116A15", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "116A16", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A17", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A18", "prediction": "a", "explanation": "a"}
+{"problem_id": "116A19", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A20", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A21", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A22", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A23", "prediction": "a: ｲﾏﾁﾆﾌﾞ\n\nこの症例では､白血球と血小板の減少､骨髄血塗抹所見での芽球と前骨髄球の増加が特徴的で､急性骨髄性白血病(aml)の可能性が高いです｡また､ldの上昇も白血病の活動性を示唆しています｡ｲﾏﾁﾆﾌﾞは､特にﾌｨﾗﾃﾞﾙﾌｨｱ染色体陽性の慢性骨髄性白血病(cml)に効果的ですが､急性骨", "explanation": "a: ｲﾏﾁﾆﾌﾞ\n\nこの症例では､白血球と血小板の減少､骨髄血塗抹所見での芽球と前骨髄球の増加が特徴的で､急性骨髄性白血病(aml)の可能性が高いです｡また､ldの上昇も白血病の活動性を示唆しています｡ｲﾏﾁﾆﾌﾞは､特にﾌｨﾗﾃﾞﾙﾌｨｱ染色体陽性の慢性骨髄性白血病(cml)に効果的ですが､急性骨"}
+{"problem_id": "116A24", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A25", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A26", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A27", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A28", "prediction": "a: a型肝炎", "explanation": "a: a型肝炎"}
+{"problem_id": "116A29", "prediction": "a", "explanation": "a"}
+{"problem_id": "116A30", "prediction": "a", "explanation": "a"}
+{"problem_id": "116A31", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A32", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A33", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A34", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A35", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A36", "prediction": "a: 緊急手術を行う｡", "explanation": "a: 緊急手術を行う｡"}
+{"problem_id": "116A37", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A38", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A39", "prediction": "b: darier病", "explanation": "b: darier病"}
+{"problem_id": "116A40", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A41", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A42", "prediction": "a: 緊急帝王切開", "explanation": "a: 緊急帝王切開"}
+{"problem_id": "116A43", "prediction": "c: ｶﾞｽﾄﾘﾝ", "explanation": "c: ｶﾞｽﾄﾘﾝ"}
+{"problem_id": "116A44", "prediction": "e: ﾌﾟﾛﾗｸﾁﾝ", "explanation": "e: ﾌﾟﾛﾗｸﾁﾝ"}
+{"problem_id": "116A45", "prediction": "この質問の答えを決定するためには､具体的な画像(①~⑤)の情報が必要です｡ただし､その情報が提供されていないため､一般的な知識に基づいて回答します｡\n\n半月板断裂の関節鏡所見は､通常､断裂部分が明確に見える特徴的な画像を示します｡断裂部分は､半月板の表面に不規則な線や裂け目が見えることが特徴です｡\n\nただし､具体的な画像が提供されていないため､一般的な知識に基づく推測となります｡もし具体的な画像が提供されている場合は､", "explanation": "この質問の答えを決定するためには､具体的な画像(①~⑤)の情報が必要です｡ただし､その情報が提供されていないため､一般的な知識に基づいて回答します｡\n\n半月板断裂の関節鏡所見は､通常､断裂部分が明確に見える特徴的な画像を示します｡断裂部分は､半月板の表面に不規則な線や裂け目が見えることが特徴です｡\n\nただし､具体的な画像が提供されていないため､一般的な知識に基づく推測となります｡もし具体的な画像が提供されている場合は､"}
+{"problem_id": "116A46", "prediction": "a: ghrh負荷試験\n\nこの症例では､患者の症状(いびき､鼻の大きさの変化､顔つきの変化､靴の窮屈さ､手根管症候群の既往)と血液検査結果(alpの上昇､空腹時血糖の上昇､脂質異常)から､肢端肥大症が疑われます｡肢端肥大症は､成長ﾎﾙﾓﾝ(gh)の過剰分泌によって引き起こされる疾患であり､確定診断にはghrh", "explanation": "a: ghrh負荷試験\n\nこの症例では､患者の症状(いびき､鼻の大きさの変化､顔つきの変化､靴の窮屈さ､手根管症候群の既往)と血液検査結果(alpの上昇､空腹時血糖の上昇､脂質異常)から､肢端肥大症が疑われます｡肢端肥大症は､成長ﾎﾙﾓﾝ(gh)の過剰分泌によって引き起こされる疾患であり､確定診断にはghrh"}
+{"problem_id": "116A47", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A48", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A49", "prediction": "a", "explanation": "a"}
+{"problem_id": "116A50", "prediction": "a: 過敏性肺炎\n\nこの症例では､患者が築30年の家の掃除を行った後に症状が現れたこと､そして胸部画像所見と血液所見から､過敏性肺炎が最も考えられます｡過敏性肺炎は､有機性粉塵や微生物の曝露により引き起こされる遅延型ｱﾚﾙｷﾞｰ反応で､急性期には発熱､咳嗽､呼吸困難などの症状が現れます｡また､crpの上昇やldの軽度上昇も過敏性肺炎を支持しています｡", "explanation": "a: 過敏性肺炎\n\nこの症例では､患者が築30年の家の掃除を行った後に症状が現れたこと､そして胸部画像所見と血液所見から､過敏性肺炎が最も考えられます｡過敏性肺炎は､有機性粉塵や微生物の曝露により引き起こされる遅延型ｱﾚﾙｷﾞｰ反応で､急性期には発熱､咳嗽､呼吸困難などの症状が現れます｡また､crpの上昇やldの軽度上昇も過敏性肺炎を支持しています｡"}
+{"problem_id": "116A51", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A52", "prediction": "d", "explanation": "d"}
+{"problem_id": "116A53", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A54", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A55", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A56", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A57", "prediction": "a", "explanation": "a"}
+{"problem_id": "116A58", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A59", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A60", "prediction": "b", "explanation": "b"}
+{"problem_id": "116A61", "prediction": "a: atrial fibrillation", "explanation": "a: atrial fibrillation"}
+{"problem_id": "116A62", "prediction": "a: 膜性腎症\n\nこの症例では､尿蛋白が著しく増加しており､特に総蛋白とｱﾙﾌﾞﾐﾝの低下が見られる｡また､腎機能の低下(egfr 33.5ml/分/1.73m2)や高脂血症(ldlｺﾚｽﾃﾛｰﾙ213mg/dl)も認められる｡これらの所見はﾈﾌﾛｰｾﾞ症候群を示唆しており､膜性腎症が最も考えられる原因の一つです｡膜性腎症は", "explanation": "a: 膜性腎症\n\nこの症例では､尿蛋白が著しく増加しており､特に総蛋白とｱﾙﾌﾞﾐﾝの低下が見られる｡また､腎機能の低下(egfr 33.5ml/分/1.73m2)や高脂血症(ldlｺﾚｽﾃﾛｰﾙ213mg/dl)も認められる｡これらの所見はﾈﾌﾛｰｾﾞ症候群を示唆しており､膜性腎症が最も考えられる原因の一つです｡膜性腎症は"}
+{"problem_id": "116A63", "prediction": "c", "explanation": "c"}
+{"problem_id": "116A64", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A65", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116A66", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "116A67", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "116A68", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "116A69", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "116A70", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116A71", "prediction": "e", "explanation": "e"}
+{"problem_id": "116A72", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "116A73", "prediction": "d, e, c", "explanation": "d, e, c"}
+{"problem_id": "116A74", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "116A75", "prediction": "a, c, d", "explanation": "a, c, d"}

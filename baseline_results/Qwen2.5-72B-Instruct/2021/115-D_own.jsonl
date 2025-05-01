@@ -1,0 +1,75 @@
+{"problem_id": "115D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D2", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D3", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D4", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D6", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D8", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D9", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D10", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115D11", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115D12", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "115D13", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "115D14", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "115D15", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115D16", "prediction": "e: 浮腫\n\nこの症例は､妊娠高血圧症候群の一種である子癇の可能性が高いです｡子癇は､妊娠20週以降に高血圧と蛋白尿を伴う状態で､重度の場合はけいれんや意識障害を引き起こすことがあります｡また､脳浮腫を伴うこともあります｡頭部mriの所見からも､脳浮腫が疑われます｡", "explanation": "e: 浮腫\n\nこの症例は､妊娠高血圧症候群の一種である子癇の可能性が高いです｡子癇は､妊娠20週以降に高血圧と蛋白尿を伴う状態で､重度の場合はけいれんや意識障害を引き起こすことがあります｡また､脳浮腫を伴うこともあります｡頭部mriの所見からも､脳浮腫が疑われます｡"}
+{"problem_id": "115D17", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D18", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D19", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D20", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D21", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D22", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D23", "prediction": "d: ﾏｲｺﾌﾟﾗｽﾞﾏ感染症", "explanation": "d: ﾏｲｺﾌﾟﾗｽﾞﾏ感染症"}
+{"problem_id": "115D24", "prediction": "d: ﾒﾄﾛﾆﾀﾞｿﾞｰﾙ\n\nこの選択は､患者がｲﾝﾄﾞから帰国後､下痢が持続していることから､ｱﾒｰﾊﾞ性痢疾などの寄生虫感染を疑うためです｡ﾒﾄﾛﾆﾀﾞｿﾞｰﾙはｱﾒｰﾊﾞ原虫に対して効果的な治療薬です｡また､ﾚﾎﾞﾌﾛｷｻｼﾝは既に使用されているため､別の抗菌薬の選択が必要となります｡", "explanation": "d: ﾒﾄﾛﾆﾀﾞｿﾞｰﾙ\n\nこの選択は､患者がｲﾝﾄﾞから帰国後､下痢が持続していることから､ｱﾒｰﾊﾞ性痢疾などの寄生虫感染を疑うためです｡ﾒﾄﾛﾆﾀﾞｿﾞｰﾙはｱﾒｰﾊﾞ原虫に対して効果的な治療薬です｡また､ﾚﾎﾞﾌﾛｷｻｼﾝは既に使用されているため､別の抗菌薬の選択が必要となります｡"}
+{"problem_id": "115D25", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D27", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D28", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D29", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D30", "prediction": "a: ﾍﾊﾟﾘﾝ", "explanation": "a: ﾍﾊﾟﾘﾝ"}
+{"problem_id": "115D31", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D32", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D33", "prediction": "e: ｽﾎﾟﾛﾄﾘｺｰｼｽ", "explanation": "e: ｽﾎﾟﾛﾄﾘｺｰｼｽ"}
+{"problem_id": "115D34", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D35", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D37", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D38", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D39", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D40", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D41", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D42", "prediction": "a: 妊娠高血圧\n\nただし､尿蛋白の量や血小板数の低下､肝酵素の軽度の上昇などから､hellp症候群の初期段階も疑う必要があります｡ただし､最も適切な選択肢は｢妊娠高血圧｣です｡ hellp症候群は､妊娠高血圧症候群の一つの重症型として認識されています｡この症例では､hellp症候群の可能性も考慮するべきですが､最も一般的な診断として｢妊娠高血圧｣を選", "explanation": "a: 妊娠高血圧\n\nただし､尿蛋白の量や血小板数の低下､肝酵素の軽度の上昇などから､hellp症候群の初期段階も疑う必要があります｡ただし､最も適切な選択肢は｢妊娠高血圧｣です｡ hellp症候群は､妊娠高血圧症候群の一つの重症型として認識されています｡この症例では､hellp症候群の可能性も考慮するべきですが､最も一般的な診断として｢妊娠高血圧｣を選"}
+{"problem_id": "115D43", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D44", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D46", "prediction": "a: 肺高血圧症\n\nこの症例では､患者が息切れを主訴としており､特に運動時に症状が現れ､徐々に悪化していることが示されています｡頸静脈怒張､ii音の亢進､両下腿の浮腫などの所見は､右心系の負荷が高まっていることを示唆しています｡また､spo2が93%(room air)と低く､肺高血圧症の可能性が高く考えられます｡肺高血圧症では､右心室の負", "explanation": "a: 肺高血圧症\n\nこの症例では､患者が息切れを主訴としており､特に運動時に症状が現れ､徐々に悪化していることが示されています｡頸静脈怒張､ii音の亢進､両下腿の浮腫などの所見は､右心系の負荷が高まっていることを示唆しています｡また､spo2が93%(room air)と低く､肺高血圧症の可能性が高く考えられます｡肺高血圧症では､右心室の負"}
+{"problem_id": "115D47", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D48", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D49", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D50", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D51", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D52", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D53", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D54", "prediction": "d: 皮膚生検\n\n患者の症状と検査結果から､皮膚の紫斑と発熱､白血球数の増加､crpの上昇､ﾘｳﾏﾄｲﾄﾞ因子の著しい上昇､補体の低下などが観察されています｡これらの所見は､血管炎やﾘｳﾏﾁ性疾患の可能性を示唆しています｡特に皮膚の紫斑は血管炎の特徴的な症状であり､皮膚生検を行うことで診断を確定するのに有用です｡", "explanation": "d: 皮膚生検\n\n患者の症状と検査結果から､皮膚の紫斑と発熱､白血球数の増加､crpの上昇､ﾘｳﾏﾄｲﾄﾞ因子の著しい上昇､補体の低下などが観察されています｡これらの所見は､血管炎やﾘｳﾏﾁ性疾患の可能性を示唆しています｡特に皮膚の紫斑は血管炎の特徴的な症状であり､皮膚生検を行うことで診断を確定するのに有用です｡"}
+{"problem_id": "115D55", "prediction": "a: fabry病", "explanation": "a: fabry病"}
+{"problem_id": "115D56", "prediction": "この問題の詳細な情報が不足しているため､具体的な鼓膜写真の内容を確認することはできません｡しかし､患者の症状と検査結果から推測すると､中等度の左伝音難聴と側頭骨ctでの左上鼓室および耳小骨周囲の病変､中頭蓋底の骨欠損が指摘されています｡これらの所見から､鼓膜の状態としては､鼓膜の内側(中耳)に問題がある可能性が高いと考えられます｡\n\n伝音難聴の原因として､中耳炎や耳小", "explanation": "この問題の詳細な情報が不足しているため､具体的な鼓膜写真の内容を確認することはできません｡しかし､患者の症状と検査結果から推測すると､中等度の左伝音難聴と側頭骨ctでの左上鼓室および耳小骨周囲の病変､中頭蓋底の骨欠損が指摘されています｡これらの所見から､鼓膜の状態としては､鼓膜の内側(中耳)に問題がある可能性が高いと考えられます｡\n\n伝音難聴の原因として､中耳炎や耳小"}
+{"problem_id": "115D57", "prediction": "d", "explanation": "d"}
+{"problem_id": "115D58", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D59", "prediction": "a", "explanation": "a"}
+{"problem_id": "115D60", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D61", "prediction": "b", "explanation": "b"}
+{"problem_id": "115D62", "prediction": "c", "explanation": "c"}
+{"problem_id": "115D63", "prediction": "a: ﾙｰﾌﾟｽ腎炎", "explanation": "a: ﾙｰﾌﾟｽ腎炎"}
+{"problem_id": "115D64", "prediction": "a: 1%未満", "explanation": "a: 1%未満"}
+{"problem_id": "115D65", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D66", "prediction": "e", "explanation": "e"}
+{"problem_id": "115D67", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "115D68", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115D69", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "115D70", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "115D71", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "115D72", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115D73", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "115D74", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "115D75", "prediction": "a: 20%ﾌﾞﾄﾞｳ糖含有電解質輸液1,500ml/日にﾋﾞﾀﾐﾝb1は加え､微量元素も加える｡", "explanation": "a: 20%ﾌﾞﾄﾞｳ糖含有電解質輸液1,500ml/日にﾋﾞﾀﾐﾝb1は加え､微量元素も加える｡"}

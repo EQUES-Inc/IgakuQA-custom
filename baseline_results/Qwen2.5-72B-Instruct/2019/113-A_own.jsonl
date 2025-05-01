@@ -1,0 +1,75 @@
+{"problem_id": "113A1", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A2", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A3", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A4", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A5", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A6", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A7", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A8", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A9", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A10", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "113A11", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "113A12", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113A13", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "113A14", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "113A15", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A16", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A17", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A18", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A19", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A20", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A21", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A22", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A23", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A24", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A25", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A26", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A27", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A28", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A29", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A30", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A31", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A32", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A33", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A34", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A35", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A36", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A37", "prediction": "a: west症候群", "explanation": "a: west症候群"}
+{"problem_id": "113A38", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A39", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A40", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A41", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A42", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A43", "prediction": "a: 腎生検を行う｡", "explanation": "a: 腎生検を行う｡"}
+{"problem_id": "113A44", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A45", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A46", "prediction": "d: 下咽頭癌", "explanation": "d: 下咽頭癌"}
+{"problem_id": "113A47", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A48", "prediction": "e: ﾋﾞﾀﾐﾝb$_{12}$製剤", "explanation": "e: ﾋﾞﾀﾐﾝb$_{12}$製剤"}
+{"problem_id": "113A49", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A50", "prediction": "a: 外陰癌", "explanation": "a: 外陰癌"}
+{"problem_id": "113A51", "prediction": "c: ﾂﾂｶﾞ虫病", "explanation": "c: ﾂﾂｶﾞ虫病"}
+{"problem_id": "113A52", "prediction": "a", "explanation": "a"}
+{"problem_id": "113A53", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A54", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A55", "prediction": "e: 高安動脈炎〈大動脈炎症候群〉", "explanation": "e: 高安動脈炎〈大動脈炎症候群〉"}
+{"problem_id": "113A56", "prediction": "d", "explanation": "d"}
+{"problem_id": "113A57", "prediction": "e", "explanation": "e"}
+{"problem_id": "113A58", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A59", "prediction": "c", "explanation": "c"}
+{"problem_id": "113A60", "prediction": "a: 川崎病", "explanation": "a: 川崎病"}
+{"problem_id": "113A61", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A62", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A63", "prediction": "b", "explanation": "b"}
+{"problem_id": "113A64", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "113A65", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "113A66", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113A67", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "113A68", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113A69", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "113A70", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "113A71", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113A72", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "113A73", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "113A74", "prediction": "c, d, e", "explanation": "c, d, e"}
+{"problem_id": "113A75", "prediction": "friedewaldの式は､ldlｺﾚｽﾃﾛｰﾙ(ldl-c)の推定値を計算するために使用されます｡この式は以下の通りです:\n\n\\[ \\text{ldl-c} = \\text{総ｺﾚｽﾃﾛｰﾙ} - \\text{hdlｺﾚｽﾃﾛｰﾙ} - \\frac{\\text{ﾄﾘｸﾞﾘｾﾘﾄﾞ}}{5} \\]\n\n与えられた値は以下の通りです:\n- 総ｺﾚｽﾃﾛｰﾙ: 250 mg/dl\n- hdlｺﾚｽﾃﾛｰﾙ: 80 mg/dl\n-", "explanation": "friedewaldの式は､ldlｺﾚｽﾃﾛｰﾙ(ldl-c)の推定値を計算するために使用されます｡この式は以下の通りです:\n\n\\[ \\text{ldl-c} = \\text{総ｺﾚｽﾃﾛｰﾙ} - \\text{hdlｺﾚｽﾃﾛｰﾙ} - \\frac{\\text{ﾄﾘｸﾞﾘｾﾘﾄﾞ}}{5} \\]\n\n与えられた値は以下の通りです:\n- 総ｺﾚｽﾃﾛｰﾙ: 250 mg/dl\n- hdlｺﾚｽﾃﾛｰﾙ: 80 mg/dl\n-"}

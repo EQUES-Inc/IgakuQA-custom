@@ -1,0 +1,75 @@
+{"problem_id": "115C1", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C2", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C3", "prediction": "e", "explanation": "e"}
+{"problem_id": "115C4", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C5", "prediction": "e", "explanation": "e"}
+{"problem_id": "115C6", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C7", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C8", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C9", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C10", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C11", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C12", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C13", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C14", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C15", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C16", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C17", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C18", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C19", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C20", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C21", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C22", "prediction": "e", "explanation": "e"}
+{"problem_id": "115C23", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C24", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C25", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C26", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "115C27", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "115C28", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "115C29", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "115C30", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "115C31", "prediction": "c, d", "explanation": "c, d"}
+{"problem_id": "115C32", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "115C33", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "115C34", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "115C35", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C36", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C37", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C38", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C39", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C40", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C41", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C42", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C43", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C44", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C45", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C46", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C47", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C48", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C49", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C50", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C51", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C52", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C53", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C54", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C55", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115C56", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115C57", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "115C58", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "115C59", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "115C60", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C61", "prediction": "e", "explanation": "e"}
+{"problem_id": "115C62", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C63", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C64", "prediction": "b", "explanation": "b"}
+{"problem_id": "115C65", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115C66", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C67", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C68", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C69", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C70", "prediction": "a", "explanation": "a"}
+{"problem_id": "115C71", "prediction": "c", "explanation": "c"}
+{"problem_id": "115C72", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115C73", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "115C74", "prediction": "d", "explanation": "d"}
+{"problem_id": "115C75", "prediction": "bmi = 体重(kg) / (身長(m) ^ 2)\n\nbmi = 28kg / (1.2m ^ 2) = 28 / 1.44 = 19.44\n\n19.44を四捨五入すると19となる｡\n\n解答:19%", "explanation": "bmi = 体重(kg) / (身長(m) ^ 2)\n\nbmi = 28kg / (1.2m ^ 2) = 28 / 1.44 = 19.44\n\n19.44を四捨五入すると19となる｡\n\n解答:19%"}

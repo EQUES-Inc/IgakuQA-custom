@@ -1,0 +1,17 @@
+BootStrap: docker
+From: pytorch/pytorch:latest
+
+%post
+    apt-get update
+    apt-get -y upgrade
+    apt-get -y install build-essential vim
+    apt-get -y install git
+    pip install --upgrade pip
+    pip install wandb
+    pip install jsonlines==4.0.0
+    pip install openai==1.55.0
+    pip install mojimoji==0.0.13
+    pip install vllm==0.6.2
+    pip install pandas
+    pip install openpyxl
+    pip install httpx==0.27.2 

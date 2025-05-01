@@ -1,0 +1,75 @@
+{"problem_id": "114C1", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C2", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C3", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C4", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C5", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C6", "prediction": "この質問の答えを特定するためには､1990年から2018年までの日本､ｱﾒﾘｶ､ｲﾀﾘｱ､韓国､ﾌﾗﾝｽの合計特殊出生率の具体的なﾃﾞｰﾀやｸﾞﾗﾌが必要です｡ただし､一般的に日本は1990年から2018年まで低出生率傾向が続いていたことが知られています｡この情報に基づくと､最も低い線や徐々に低下傾向にある線が日本を示している可能性が高いです｡\n\nただし､具体的な選択肢を指定するには､実際のﾃﾞｰﾀやｸﾞﾗﾌ", "explanation": "この質問の答えを特定するためには､1990年から2018年までの日本､ｱﾒﾘｶ､ｲﾀﾘｱ､韓国､ﾌﾗﾝｽの合計特殊出生率の具体的なﾃﾞｰﾀやｸﾞﾗﾌが必要です｡ただし､一般的に日本は1990年から2018年まで低出生率傾向が続いていたことが知られています｡この情報に基づくと､最も低い線や徐々に低下傾向にある線が日本を示している可能性が高いです｡\n\nただし､具体的な選択肢を指定するには､実際のﾃﾞｰﾀやｸﾞﾗﾌ"}
+{"problem_id": "114C7", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C8", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C9", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C10", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C11", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C12", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C13", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C14", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C15", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C16", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C17", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C18", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C19", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C20", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C21", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C22", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C23", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C24", "prediction": "c: 100\n\nｸﾞﾙｺｰｽ5.0%の溶液は､100mlあたり5gのｸﾞﾙｺｰｽを含みます｡ｸﾞﾙｺｰｽ1gあたりのｴﾈﾙｷﾞｰ量は約4kcalであるため､500mlの溶液には25gのｸﾞﾙｺｰｽが含まれ､これは100kcalに相当します｡", "explanation": "c: 100\n\nｸﾞﾙｺｰｽ5.0%の溶液は､100mlあたり5gのｸﾞﾙｺｰｽを含みます｡ｸﾞﾙｺｰｽ1gあたりのｴﾈﾙｷﾞｰ量は約4kcalであるため､500mlの溶液には25gのｸﾞﾙｺｰｽが含まれ､これは100kcalに相当します｡"}
+{"problem_id": "114C25", "prediction": "この質問の回答を決定するためには､具体的なh-e染色標本の画像や､各層がどの番号で示されているかの情報が必要です｡通常､胃の組織構造において､粘膜下層は粘膜層の直下に位置し､粘膜層と固有筋層の間にあります｡しかし､具体的な番号を指定するには､提示された選択肢と対応する層の位置を確認する必要があります｡\n\n提供された情報だけでは正確な回答を特定することはできません｡もし､粘膜層が①､固", "explanation": "この質問の回答を決定するためには､具体的なh-e染色標本の画像や､各層がどの番号で示されているかの情報が必要です｡通常､胃の組織構造において､粘膜下層は粘膜層の直下に位置し､粘膜層と固有筋層の間にあります｡しかし､具体的な番号を指定するには､提示された選択肢と対応する層の位置を確認する必要があります｡\n\n提供された情報だけでは正確な回答を特定することはできません｡もし､粘膜層が①､固"}
+{"problem_id": "114C26", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "114C27", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "114C28", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "114C29", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "114C30", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "114C31", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "114C32", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114C33", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "114C34", "prediction": "a, c, e", "explanation": "a, c, e"}
+{"problem_id": "114C35", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C36", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C37", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C38", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C40", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C41", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C42", "prediction": "a: 骨髄染色体\n\nこの症例では､脾腫と白血球増多が主な所見であり､慢性骨髄性白血病(cml)を疑うべきです｡cmlの診断においては､ﾌｨﾗﾃﾞﾙﾌｨｱ染色体(ph染色体)の存在が重要な役割を果たします｡ph染色体は､22番染色体の長腕の一部が9番染色体の長腕と相互に転座した染色体異常(t(9;2", "explanation": "a: 骨髄染色体\n\nこの症例では､脾腫と白血球増多が主な所見であり､慢性骨髄性白血病(cml)を疑うべきです｡cmlの診断においては､ﾌｨﾗﾃﾞﾙﾌｨｱ染色体(ph染色体)の存在が重要な役割を果たします｡ph染色体は､22番染色体の長腕の一部が9番染色体の長腕と相互に転座した染色体異常(t(9;2"}
+{"problem_id": "114C43", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C44", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C45", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C46", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C47", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C48", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C49", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C50", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C51", "prediction": "d", "explanation": "d"}
+{"problem_id": "114C52", "prediction": "a: ①\n\nこの状況では､児頭の矢状縫合が骨盤の横径に一致しており､これは正常な回旋の過程を示しています｡児頭が骨盤の横径に沿って回旋し､最終的に矢状縫合が骨盤の前後径に一致する位置に移動することが正常な分娩の過程です｡したがって､この状況では①が正常な回旋を示していると考えられます｡", "explanation": "a: ①\n\nこの状況では､児頭の矢状縫合が骨盤の横径に一致しており､これは正常な回旋の過程を示しています｡児頭が骨盤の横径に沿って回旋し､最終的に矢状縫合が骨盤の前後径に一致する位置に移動することが正常な分娩の過程です｡したがって､この状況では①が正常な回旋を示していると考えられます｡"}
+{"problem_id": "114C53", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C54", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C55", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C56", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C57", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114C58", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "114C59", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "114C60", "prediction": "a: 肺炎", "explanation": "a: 肺炎"}
+{"problem_id": "114C61", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "114C62", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C63", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C64", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114C66", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C67", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C68", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C69", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C70", "prediction": "a", "explanation": "a"}
+{"problem_id": "114C71", "prediction": "e", "explanation": "e"}
+{"problem_id": "114C72", "prediction": "a, d, e", "explanation": "a, d, e"}
+{"problem_id": "114C73", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114C74", "prediction": "b", "explanation": "b"}
+{"problem_id": "114C75", "prediction": "まず､各年齢群の死亡率を計算します｡その後､これらの死亡率を日本全国の人口構成に適用して､調整死亡率を計算します｡\n\n1. **0〜19歳の死亡率**:\n   - a市の死亡率 = 20 / 40,000 = 0.0005\n   - 日本全国の人口 = 20,000,000\n   - 調整死亡者数 = 0.0005 * 20,000,000 = ", "explanation": "まず､各年齢群の死亡率を計算します｡その後､これらの死亡率を日本全国の人口構成に適用して､調整死亡率を計算します｡\n\n1. **0〜19歳の死亡率**:\n   - a市の死亡率 = 20 / 40,000 = 0.0005\n   - 日本全国の人口 = 20,000,000\n   - 調整死亡者数 = 0.0005 * 20,000,000 = "}

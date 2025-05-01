@@ -1,0 +1,75 @@
+{"problem_id": "113D1", "prediction": "a, b, d, eは単純型熱性けいれんの特徴ではありません｡単純型熱性けいれんの特徴は通常､c: 1~3歳で発症することが多い､です｡しかし､質問に含まれる他の選択肢も完全に否定できないため､最も適切な回答は｢単純型熱性けいれんの特徴は特定の症状に限定されず､様々な症状が現れる可能性がある｣となります｡ただし､必ず1つ選ぶ必要があるため､質問の意図を汲んで｢c: 1~3歳で発症することが多い｣が最も一般的な特徴であると回答します｡\n\n(但し､実際の医療診断では､より詳細な症状や経過の観察が必要となります｡)", "explanation": "a, b, d, eは単純型熱性けいれんの特徴ではありません｡単純型熱性けいれんの特徴は通常､c: 1~3歳で発症することが多い､です｡しかし､質問に含まれる他の選択肢も完全に否定できないため､最も適切な回答は｢単純型熱性けいれんの特徴は特定の症状に限定されず､様々な症状が現れる可能性がある｣となります｡ただし､必ず1つ選ぶ必要があるため､質問の意図を汲んで｢c: 1~3歳で発症することが多い｣が最も一般的な特徴であると回答します｡\n\n(但し､実際の医療診断では､より詳細な症状や経過の観察が必要となります｡)"}
+{"problem_id": "113D2", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D3", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D4", "prediction": "c\n\n(解説:視力表は通常､ﾗﾝﾄﾞﾙﾄ環と呼ばれる輪の切れ込みの方向を示す図が使用されています｡乱視の軸の決定には､ﾗﾝﾄﾞﾙﾄ環の向きが重要です｡ﾗﾝﾄﾞﾙﾄ環の向きは､通常､環の切れ込みが上下または左右にあることで示されます｡視力検査において､乱視の軸を決定するためには､ﾗﾝﾄﾞﾙﾄ環の切れ込みの方向と､検査者がその方向を測定するための基準線やﾏｰｸが重要です｡視力表の図示がないため具体的な位置を示すことはできませんが､通常､ﾗﾝﾄﾞﾙﾄ環の周囲には､切れ込みの方向を示すためのﾏｰｸや､検査者が測定に使用する基準線が記載されています", "explanation": "c\n\n(解説:視力表は通常､ﾗﾝﾄﾞﾙﾄ環と呼ばれる輪の切れ込みの方向を示す図が使用されています｡乱視の軸の決定には､ﾗﾝﾄﾞﾙﾄ環の向きが重要です｡ﾗﾝﾄﾞﾙﾄ環の向きは､通常､環の切れ込みが上下または左右にあることで示されます｡視力検査において､乱視の軸を決定するためには､ﾗﾝﾄﾞﾙﾄ環の切れ込みの方向と､検査者がその方向を測定するための基準線やﾏｰｸが重要です｡視力表の図示がないため具体的な位置を示すことはできませんが､通常､ﾗﾝﾄﾞﾙﾄ環の周囲には､切れ込みの方向を示すためのﾏｰｸや､検査者が測定に使用する基準線が記載されています"}
+{"problem_id": "113D5", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D6", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D7", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D8", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D9", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D10", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D11", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D12", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D13", "prediction": "a: 胃癌\n\n(解説:胆嚢結石に対する腹腔鏡下胆嚢摘出術の適応禁忌となる併存疾患としては､一般的に胃癌は含まれません｡他の選択肢については､胆嚢癌(b)や胆管結石(c)は手術の適応となることがあります｡急性胆嚢炎(d)は手術の適応となる疾患ですが､炎症が落ち着いてから手術を行うのが一般的です｡胆嚢腺筋腫症(e)は手術の適応となることはありますが､必ずしも禁忌となるわけではありません｡したがって､問題文の条件を満たす選択肢としては胃癌(a)が最も適切です｡ただし､実際の", "explanation": "a: 胃癌\n\n(解説:胆嚢結石に対する腹腔鏡下胆嚢摘出術の適応禁忌となる併存疾患としては､一般的に胃癌は含まれません｡他の選択肢については､胆嚢癌(b)や胆管結石(c)は手術の適応となることがあります｡急性胆嚢炎(d)は手術の適応となる疾患ですが､炎症が落ち着いてから手術を行うのが一般的です｡胆嚢腺筋腫症(e)は手術の適応となることはありますが､必ずしも禁忌となるわけではありません｡したがって､問題文の条件を満たす選択肢としては胃癌(a)が最も適切です｡ただし､実際の"}
+{"problem_id": "113D14", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113D15", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113D16", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D17", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D18", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D19", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D20", "prediction": "b: 基底細胞癌\n\n右手背の褐色調の腫瘤で､中央に角栓を伴うこと､生検組織で有棘細胞の腫瘍性増殖を認め､生検後に腫瘤が縮小したことから､基底細胞癌が最も考えられます｡粉瘤(a)は中央に開口部を認め､ｸﾞﾛﾑｽ腫瘍(d)は波動を認めることが多く､ｹﾗﾄｱｶﾝﾄｰﾏ(e)は急速に増大し､生検後に急速に縮小することは少ないため､今回の症例とは異なります｡", "explanation": "b: 基底細胞癌\n\n右手背の褐色調の腫瘤で､中央に角栓を伴うこと､生検組織で有棘細胞の腫瘍性増殖を認め､生検後に腫瘤が縮小したことから､基底細胞癌が最も考えられます｡粉瘤(a)は中央に開口部を認め､ｸﾞﾛﾑｽ腫瘍(d)は波動を認めることが多く､ｹﾗﾄｱｶﾝﾄｰﾏ(e)は急速に増大し､生検後に急速に縮小することは少ないため､今回の症例とは異なります｡"}
+{"problem_id": "113D21", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D22", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D23", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D24", "prediction": "b: ﾚｰｻﾞｰ光凝固術\n\n(説明:右眼の打撲による視力低下と眼底写真の変化から､網膜の損傷が疑われます｡ﾚｰｻﾞｰ光凝固術は､網膜の損傷部位を凝固することで､さらに悪化するのを防ぎ､残存する機能を維持する治療法です｡抗vegf薬硝子体注射や光線力学的療法は､主に血管新生を伴う疾患に対する治療法であり､強膜内陥術や硝子体手術は､網膜剥離や硝子体出血などに対する治療法です｡したがって､与えられた情報から最も可能性が高いのはﾚｰｻﾞｰ光凝固術です｡)", "explanation": "b: ﾚｰｻﾞｰ光凝固術\n\n(説明:右眼の打撲による視力低下と眼底写真の変化から､網膜の損傷が疑われます｡ﾚｰｻﾞｰ光凝固術は､網膜の損傷部位を凝固することで､さらに悪化するのを防ぎ､残存する機能を維持する治療法です｡抗vegf薬硝子体注射や光線力学的療法は､主に血管新生を伴う疾患に対する治療法であり､強膜内陥術や硝子体手術は､網膜剥離や硝子体出血などに対する治療法です｡したがって､与えられた情報から最も可能性が高いのはﾚｰｻﾞｰ光凝固術です｡)"}
+{"problem_id": "113D25", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D26", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D27", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D28", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D29", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D30", "prediction": "a: 耳下腺\n\n(説明:左耳の鼓膜写真に異常がないことから､耳 itself の病変は考えにくいです｡左上頸部に硬い腫瘤を触知することから､耳下腺腫瘍が疑われます｡耳下腺は左頸部に位置し､耳閉感や腫瘤をきたすことがあります｡鼻腔内および口腔内に異常がないこと､耳痛やめまいがないことも､耳下腺腫瘍の可能性を高めます｡)", "explanation": "a: 耳下腺\n\n(説明:左耳の鼓膜写真に異常がないことから､耳 itself の病変は考えにくいです｡左上頸部に硬い腫瘤を触知することから､耳下腺腫瘍が疑われます｡耳下腺は左頸部に位置し､耳閉感や腫瘤をきたすことがあります｡鼻腔内および口腔内に異常がないこと､耳痛やめまいがないことも､耳下腺腫瘍の可能性を高めます｡)"}
+{"problem_id": "113D31", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D32", "prediction": "a: parkinson病\n\n(説明:この問題では､患者に運動障害(筋強剛､右下肢の振り出し遅れ)､認知機能障害(言語障害､改訂長谷川式簡易知能評価ｽｹｰﾙとmmseの低下)､および姿勢反射障害(babinski徴候の否定)がみられます｡これらの症状はparkinson病に典型的なものです｡他の選択肢は､前頭側頭型認知症では行動･人格変化が､alzheimer型認知症では記憶障害が､特発性正常圧水頭症では歩行障害や尿失禁が､大脳皮質基底核変性症では認知機能障害と運動", "explanation": "a: parkinson病\n\n(説明:この問題では､患者に運動障害(筋強剛､右下肢の振り出し遅れ)､認知機能障害(言語障害､改訂長谷川式簡易知能評価ｽｹｰﾙとmmseの低下)､および姿勢反射障害(babinski徴候の否定)がみられます｡これらの症状はparkinson病に典型的なものです｡他の選択肢は､前頭側頭型認知症では行動･人格変化が､alzheimer型認知症では記憶障害が､特発性正常圧水頭症では歩行障害や尿失禁が､大脳皮質基底核変性症では認知機能障害と運動"}
+{"problem_id": "113D33", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D34", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D35", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D36", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D37", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D38", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D39", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D40", "prediction": "b: 結核性脊椎炎\n\n頸部痛､発熱､赤沈亢進､白血球増加(特に好中球増加)､crp高値､血液生化学所見(ast､altの上昇)､頸部ctでの脊椎炎を示唆する画像所見から､結核性脊椎炎が最も疑われる｡behçet病や結晶誘発性関節炎では､頸部痛やcrp高値は見られるが､血液生化学所見や画像所見は異なる傾向がある｡関節ﾘｳﾏﾁでは､四肢関節の腫脹や圧痛が典型的だが､本例では四肢関節に異常を認めず､", "explanation": "b: 結核性脊椎炎\n\n頸部痛､発熱､赤沈亢進､白血球増加(特に好中球増加)､crp高値､血液生化学所見(ast､altの上昇)､頸部ctでの脊椎炎を示唆する画像所見から､結核性脊椎炎が最も疑われる｡behçet病や結晶誘発性関節炎では､頸部痛やcrp高値は見られるが､血液生化学所見や画像所見は異なる傾向がある｡関節ﾘｳﾏﾁでは､四肢関節の腫脹や圧痛が典型的だが､本例では四肢関節に異常を認めず､"}
+{"problem_id": "113D41", "prediction": "a", "explanation": "a"}
+{"problem_id": "113D42", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D43", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D44", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D45", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D46", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D47", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D48", "prediction": "b: ｲﾏﾁﾆﾌﾞ\n\n(説明:この患者さんの血液所見と骨髄血塗抹標本､染色体分析結果から､慢性骨髄性白血病(cml)が疑われます｡cmlでは､bcr-abl融合遺伝子の発現が認められ､ｲﾏﾁﾆﾌﾞが第一選択薬となります｡他の選択肢は､亜ﾋ酸(急性骨髄性白血病に使用)､ｹﾞﾌｨﾁﾆﾌﾞ(非小細胞肺癌に使用)､ﾎﾞﾙﾃｿﾞﾐﾌﾞ(多発性骨髄腫に使用)､全ﾄﾗﾝｽ型ﾚﾁﾉｲﾝ酸(急性前骨髄球性白血病に使用)であり､いずれもこの", "explanation": "b: ｲﾏﾁﾆﾌﾞ\n\n(説明:この患者さんの血液所見と骨髄血塗抹標本､染色体分析結果から､慢性骨髄性白血病(cml)が疑われます｡cmlでは､bcr-abl融合遺伝子の発現が認められ､ｲﾏﾁﾆﾌﾞが第一選択薬となります｡他の選択肢は､亜ﾋ酸(急性骨髄性白血病に使用)､ｹﾞﾌｨﾁﾆﾌﾞ(非小細胞肺癌に使用)､ﾎﾞﾙﾃｿﾞﾐﾌﾞ(多発性骨髄腫に使用)､全ﾄﾗﾝｽ型ﾚﾁﾉｲﾝ酸(急性前骨髄球性白血病に使用)であり､いずれもこの"}
+{"problem_id": "113D49", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D50", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D51", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D52", "prediction": "b: 嚥下機能検査\n\n理由:直腸癌の手術前に､消化管出血の原因が直腸癌によるものであり､術後のﾘﾊﾋﾞﾘﾃｰｼｮﾝにおいて嚥下機能の評価が重要となる｡嚥下機能障害は､術後の誤嚥性肺炎や栄養障害のﾘｽｸを高めるため､嚥下機能検査を行うことで､適切なﾘﾊﾋﾞﾘﾃｰｼｮﾝ計画を立案することができる｡\n\na: 脳波､d: 針筋電図検査､e: 顔面神経伝導検査は､この患者の症状や検査結果から直接的に必要性は高くない｡c: 重心動揺検査は､術後の", "explanation": "b: 嚥下機能検査\n\n理由:直腸癌の手術前に､消化管出血の原因が直腸癌によるものであり､術後のﾘﾊﾋﾞﾘﾃｰｼｮﾝにおいて嚥下機能の評価が重要となる｡嚥下機能障害は､術後の誤嚥性肺炎や栄養障害のﾘｽｸを高めるため､嚥下機能検査を行うことで､適切なﾘﾊﾋﾞﾘﾃｰｼｮﾝ計画を立案することができる｡\n\na: 脳波､d: 針筋電図検査､e: 顔面神経伝導検査は､この患者の症状や検査結果から直接的に必要性は高くない｡c: 重心動揺検査は､術後の"}
+{"problem_id": "113D53", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D54", "prediction": "b: 急性ﾘﾝﾊﾟ性白血病\n\n(説明:血液所見で異常細胞が60%を占め､wbcが16,000/μlと増加しており､骨髄血塗抹標本で幼若なﾘﾝﾊﾟ球様の細胞が増加している｡また､表面ﾏｰｶｰ解析でcd19陽性､cd20陰性､tdt陽性であることから､急性ﾘﾝﾊﾟ性白血病が疑われる｡)", "explanation": "b: 急性ﾘﾝﾊﾟ性白血病\n\n(説明:血液所見で異常細胞が60%を占め､wbcが16,000/μlと増加しており､骨髄血塗抹標本で幼若なﾘﾝﾊﾟ球様の細胞が増加している｡また､表面ﾏｰｶｰ解析でcd19陽性､cd20陰性､tdt陽性であることから､急性ﾘﾝﾊﾟ性白血病が疑われる｡)"}
+{"problem_id": "113D55", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D56", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D57", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D58", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D59", "prediction": "c", "explanation": "c"}
+{"problem_id": "113D60", "prediction": "d", "explanation": "d"}
+{"problem_id": "113D61", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D62", "prediction": "b", "explanation": "b"}
+{"problem_id": "113D63", "prediction": "e", "explanation": "e"}
+{"problem_id": "113D64", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113D65", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "113D66", "prediction": "c,e", "explanation": "c,e"}
+{"problem_id": "113D67", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113D68", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "113D69", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113D70", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113D71", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113D72", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113D73", "prediction": "b,d", "explanation": "b,d"}
+{"problem_id": "113D74", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113D75", "prediction": "b,d,e", "explanation": "b,d,e"}

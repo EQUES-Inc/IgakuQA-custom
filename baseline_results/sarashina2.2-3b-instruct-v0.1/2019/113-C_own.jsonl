@@ -1,0 +1,66 @@
+{"problem_id": "113C1", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C2", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C3", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C4", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C5", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C6", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C7", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C8", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C9", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C10", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C11", "prediction": "a: 前頭筋\n\n(説明:三叉神経は､顔の感覚と表情筋の運動を支配しています｡前頭筋は三叉神経の第1枝である上顎神経の支配を受けます｡側頭筋､口輪筋､広頸筋は顎二腹筋や顔面神経の支配を受けます｡眼輪筋は顔面神経の支配を受けますが､三叉神経は直接関与しません｡)", "explanation": "a: 前頭筋\n\n(説明:三叉神経は､顔の感覚と表情筋の運動を支配しています｡前頭筋は三叉神経の第1枝である上顎神経の支配を受けます｡側頭筋､口輪筋､広頸筋は顎二腹筋や顔面神経の支配を受けます｡眼輪筋は顔面神経の支配を受けますが､三叉神経は直接関与しません｡)"}
+{"problem_id": "113C12", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C13", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C14", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C15", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C16", "prediction": "d: 顕微鏡的多発血管炎\n\n(説明:顕微鏡的多発血管炎は､低補体血症をきたす代表的な疾患の一つです｡他の選択肢も血管炎をきたす疾患ですが､低補体血症を特異的にきたす疾患としては顕微鏡的多発血管炎が最も有名です｡)", "explanation": "d: 顕微鏡的多発血管炎\n\n(説明:顕微鏡的多発血管炎は､低補体血症をきたす代表的な疾患の一つです｡他の選択肢も血管炎をきたす疾患ですが､低補体血症を特異的にきたす疾患としては顕微鏡的多発血管炎が最も有名です｡)"}
+{"problem_id": "113C17", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113C18", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113C19", "prediction": "a,e", "explanation": "a,e"}
+{"problem_id": "113C20", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "113C21", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "113C22", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113C23", "prediction": "a,c", "explanation": "a,c"}
+{"problem_id": "113C24", "prediction": "a,d,e", "explanation": "a,d,e"}
+{"problem_id": "113C25", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C26", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C27", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C28", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C29", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C30", "prediction": "a: 虚血性腸炎\n\n理由:この患者さんの症状と検査結果から､左下腹部痛と血便が認められ､血液所見では白血球増加と好中球優位､crp上昇､血液生化学所見ではｱﾐﾗｰｾﾞ軽度上昇､動脈血ｶﾞｽ分析でpaco2軽度低下とhco3-上昇が認められます｡これらの症状は虚血性腸炎に典型的なものです｡他の選択肢は､薬物性腸炎では特定の薬物の服用歴が必要､肛門周囲膿瘍では直腸診や肛門鏡検査が必要､好酸球性胃腸炎では好酸球増加やｱﾚﾙｷﾞｰ歴が必要､上", "explanation": "a: 虚血性腸炎\n\n理由:この患者さんの症状と検査結果から､左下腹部痛と血便が認められ､血液所見では白血球増加と好中球優位､crp上昇､血液生化学所見ではｱﾐﾗｰｾﾞ軽度上昇､動脈血ｶﾞｽ分析でpaco2軽度低下とhco3-上昇が認められます｡これらの症状は虚血性腸炎に典型的なものです｡他の選択肢は､薬物性腸炎では特定の薬物の服用歴が必要､肛門周囲膿瘍では直腸診や肛門鏡検査が必要､好酸球性胃腸炎では好酸球増加やｱﾚﾙｷﾞｰ歴が必要､上"}
+{"problem_id": "113C31", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C32", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C33", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C34", "prediction": "a: 光線療法\n\n(説明:この新生児は､胎便排泄遅延､胆汁性嘔吐､低出生体重､黄疸を認めており､母乳や人工乳の消化吸収不良や胆汁うっ滞が疑われます｡これらの症状から､母乳･ﾐﾙｸｱﾚﾙｷﾞｰや胆道閉鎖症が疑われます｡しかし､血液生化学検査で尿素窒素やｸﾚｱﾁﾆﾝの上昇はなく､腎機能障害は認められません｡また､胸腹部ｴｯｸｽ線写真では､胃内に空気と液体貯留を認め､胆汁の貯留は認められません｡そのため､現時点では抗菌薬投与(c)や", "explanation": "a: 光線療法\n\n(説明:この新生児は､胎便排泄遅延､胆汁性嘔吐､低出生体重､黄疸を認めており､母乳や人工乳の消化吸収不良や胆汁うっ滞が疑われます｡これらの症状から､母乳･ﾐﾙｸｱﾚﾙｷﾞｰや胆道閉鎖症が疑われます｡しかし､血液生化学検査で尿素窒素やｸﾚｱﾁﾆﾝの上昇はなく､腎機能障害は認められません｡また､胸腹部ｴｯｸｽ線写真では､胃内に空気と液体貯留を認め､胆汁の貯留は認められません｡そのため､現時点では抗菌薬投与(c)や"}
+{"problem_id": "113C35", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C36", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C37", "prediction": "a: 脳波\n\n(説明:この患者さんの症状から､一過性の意識障害と､その際の自発的な運動や記憶障害が疑われます｡このような症状から､ﾚﾋﾞｰ小体型認知症やてんかんの可能性が考えられます｡mini-mental state examination〈mmse〉の結果は正常範囲内ですが､神経診察や画像診断に異常がないため､脳波検査を行うことで､ﾚﾋﾞｰ小体型認知症やてんかんに伴う異常波を検出できる可能性があります｡他の選択肢は､この患者さんの症状や検査結果から､直接的に行うべき検査としては優先度が低いと考えられます｡)", "explanation": "a: 脳波\n\n(説明:この患者さんの症状から､一過性の意識障害と､その際の自発的な運動や記憶障害が疑われます｡このような症状から､ﾚﾋﾞｰ小体型認知症やてんかんの可能性が考えられます｡mini-mental state examination〈mmse〉の結果は正常範囲内ですが､神経診察や画像診断に異常がないため､脳波検査を行うことで､ﾚﾋﾞｰ小体型認知症やてんかんに伴う異常波を検出できる可能性があります｡他の選択肢は､この患者さんの症状や検査結果から､直接的に行うべき検査としては優先度が低いと考えられます｡)"}
+{"problem_id": "113C38", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C39", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C40", "prediction": "b: 強直性脊椎炎\n\n理由:この患者さんの症状や身体所見､検査結果から､強直性脊椎炎が最も疑われます｡強直性脊椎炎は､主に脊椎や仙腸関節に炎症が起こり､進行すると関節の強直や変形をきたす疾患です｡手指のこわばりや骨棘､多関節の圧痛や疼痛反応､赤沈亢進､crp軽度上昇､ﾘｳﾏﾄｲﾄﾞ因子陰性､抗核抗体陰性といった検査結果も強直性脊椎炎を示唆しています｡また､便秘や下痢､体重変化なし､尿", "explanation": "b: 強直性脊椎炎\n\n理由:この患者さんの症状や身体所見､検査結果から､強直性脊椎炎が最も疑われます｡強直性脊椎炎は､主に脊椎や仙腸関節に炎症が起こり､進行すると関節の強直や変形をきたす疾患です｡手指のこわばりや骨棘､多関節の圧痛や疼痛反応､赤沈亢進､crp軽度上昇､ﾘｳﾏﾄｲﾄﾞ因子陰性､抗核抗体陰性といった検査結果も強直性脊椎炎を示唆しています｡また､便秘や下痢､体重変化なし､尿"}
+{"problem_id": "113C41", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C42", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C43", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C44", "prediction": "a", "explanation": "a"}
+{"problem_id": "113C45", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C46", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C47", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C48", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C49", "prediction": "b,e", "explanation": "b,e"}
+{"problem_id": "113C50", "prediction": "b,c", "explanation": "b,c"}
+{"problem_id": "113C51", "prediction": "a,d", "explanation": "a,d"}
+{"problem_id": "113C52", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C53", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C54", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C55", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C56", "prediction": "a: ﾜﾙﾌｧﾘﾝ\n\nﾜﾙﾌｧﾘﾝは抗凝固薬であり､その服用は頭蓋内出血のﾘｽｸを増加させます｡そのため､ﾜﾙﾌｧﾘﾝ内服歴は頭蓋内出血の出現を予測する上で最も注意すべき薬剤内服歴となります｡\n\n他の選択肢について:\n\n* ﾋﾞｸﾞｱﾅｲﾄﾞ薬は糖尿病治療薬であり､通常は頭蓋内出血のﾘｽｸを増加させません｡\n* ｶﾙｼｳﾑ拮抗薬は高血圧治療薬であり､通常は頭蓋内出血のﾘｽｸを増加させませんが､一部の種類では出血傾向を増強する可能性があります｡しかし､問題文ではﾜﾙﾌｧﾘﾝ以外のｶﾙｼｳﾑ拮", "explanation": "a: ﾜﾙﾌｧﾘﾝ\n\nﾜﾙﾌｧﾘﾝは抗凝固薬であり､その服用は頭蓋内出血のﾘｽｸを増加させます｡そのため､ﾜﾙﾌｧﾘﾝ内服歴は頭蓋内出血の出現を予測する上で最も注意すべき薬剤内服歴となります｡\n\n他の選択肢について:\n\n* ﾋﾞｸﾞｱﾅｲﾄﾞ薬は糖尿病治療薬であり､通常は頭蓋内出血のﾘｽｸを増加させません｡\n* ｶﾙｼｳﾑ拮抗薬は高血圧治療薬であり､通常は頭蓋内出血のﾘｽｸを増加させませんが､一部の種類では出血傾向を増強する可能性があります｡しかし､問題文ではﾜﾙﾌｧﾘﾝ以外のｶﾙｼｳﾑ拮"}
+{"problem_id": "113C57", "prediction": "d", "explanation": "d"}
+{"problem_id": "113C58", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C59", "prediction": "a, b, c, d, eのいずれも､与えられた情報だけでは特定できません｡しかし､最も緊急性の高い病態を考慮すると､aの出血性ｼｮｯｸが疑われます｡出血性ｼｮｯｸは､急激な出血により循環血液量が減少し､血圧が低下し､酸素供給が不足する状態です｡spo2測定不能､血圧低下､頸静脈の怒張などの症状は､出血性ｼｮｯｸを示唆しています｡ただし､他のｼｮｯｸ状態(bの心原性ｼｮｯｸ､cの閉塞性ｼｮｯｸ､dの敗血症性ｼｮｯｸ､eのｱﾅﾌｲﾗｷｼｰｼｮｯｸ)も否定できないため､さらなる検査と診断が必要です｡\n\nしかし､質問", "explanation": "a, b, c, d, eのいずれも､与えられた情報だけでは特定できません｡しかし､最も緊急性の高い病態を考慮すると､aの出血性ｼｮｯｸが疑われます｡出血性ｼｮｯｸは､急激な出血により循環血液量が減少し､血圧が低下し､酸素供給が不足する状態です｡spo2測定不能､血圧低下､頸静脈の怒張などの症状は､出血性ｼｮｯｸを示唆しています｡ただし､他のｼｮｯｸ状態(bの心原性ｼｮｯｸ､cの閉塞性ｼｮｯｸ､dの敗血症性ｼｮｯｸ､eのｱﾅﾌｲﾗｷｼｰｼｮｯｸ)も否定できないため､さらなる検査と診断が必要です｡\n\nしかし､質問"}
+{"problem_id": "113C60", "prediction": "b", "explanation": "b"}
+{"problem_id": "113C61", "prediction": "画像がないため､正確に答えることはできません｡しかし､一般的な冠動脈造影像において､矢印で示される血管は左冠動脈前下行枝(a)であることが多いです｡他の選択肢も冠動脈の主要な枝ですが､画像の情報がないため､aが最も可能性が高い回答となります｡\n\n(もし画像があれば､その画像に基づいて適切な選択肢をお答えします｡)", "explanation": "画像がないため､正確に答えることはできません｡しかし､一般的な冠動脈造影像において､矢印で示される血管は左冠動脈前下行枝(a)であることが多いです｡他の選択肢も冠動脈の主要な枝ですが､画像の情報がないため､aが最も可能性が高い回答となります｡\n\n(もし画像があれば､その画像に基づいて適切な選択肢をお答えします｡)"}
+{"problem_id": "113C62", "prediction": "d,e", "explanation": "d,e"}
+{"problem_id": "113C63", "prediction": "c", "explanation": "c"}
+{"problem_id": "113C64", "prediction": "e", "explanation": "e"}
+{"problem_id": "113C65", "prediction": "a,b", "explanation": "a,b"}
+{"problem_id": "113C66", "prediction": "b", "explanation": "b"}

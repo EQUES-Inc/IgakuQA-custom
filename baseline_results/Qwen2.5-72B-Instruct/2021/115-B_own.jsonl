@@ -1,0 +1,50 @@
+{"problem_id": "115B1", "prediction": "a, c, e\n\nただし､選択肢は1つだけ選ぶ必要があるため､最も適切な組み合わせを1つ選ぶとすれば:\n\ne: n-3系多価不飽和脂肪酸摂取 --------- 虚血性心疾患\n\nこの組み合わせは､科学研究で広く支持されており､n-3系多価不飽和脂肪酸(ｵﾒｶﾞ3脂肪酸)の摂取が虚血性心疾患のﾘｽｸを低下させる効果があることが知られています｡", "explanation": "a, c, e\n\nただし､選択肢は1つだけ選ぶ必要があるため､最も適切な組み合わせを1つ選ぶとすれば:\n\ne: n-3系多価不飽和脂肪酸摂取 --------- 虚血性心疾患\n\nこの組み合わせは､科学研究で広く支持されており､n-3系多価不飽和脂肪酸(ｵﾒｶﾞ3脂肪酸)の摂取が虚血性心疾患のﾘｽｸを低下させる効果があることが知られています｡"}
+{"problem_id": "115B2", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B3", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B4", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B5", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B6", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B7", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B8", "prediction": "a: ｴｽﾄﾛｹﾞﾝ", "explanation": "a: ｴｽﾄﾛｹﾞﾝ"}
+{"problem_id": "115B9", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B10", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B11", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B12", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B13", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B14", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B15", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B16", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B17", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B18", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B19", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B20", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B21", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B22", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B23", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B24", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B25", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B26", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B27", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B28", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B29", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B30", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B31", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B32", "prediction": "b: vitamin b1", "explanation": "b: vitamin b1"}
+{"problem_id": "115B33", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B34", "prediction": "a: ①", "explanation": "a: ①"}
+{"problem_id": "115B35", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B36", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B37", "prediction": "a", "explanation": "a"}
+{"problem_id": "115B38", "prediction": "d: 肺癌\n\n手指の腫脹と爪甲の隆起は､ｸﾗﾌﾞbing(杵状指)の特徴的な症状であり､これは肺疾患､特に肺癌と関連することが多いです｡他の選択肢の癌も様々な症状を引き起こす可能性がありますが､杵状指との関連性は肺癌が最も高いです｡", "explanation": "d: 肺癌\n\n手指の腫脹と爪甲の隆起は､ｸﾗﾌﾞbing(杵状指)の特徴的な症状であり､これは肺疾患､特に肺癌と関連することが多いです｡他の選択肢の癌も様々な症状を引き起こす可能性がありますが､杵状指との関連性は肺癌が最も高いです｡"}
+{"problem_id": "115B39", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B40", "prediction": "d: treponema pallidum", "explanation": "d: treponema pallidum"}
+{"problem_id": "115B41", "prediction": "b: 0.72\n\nこの問題は､ﾍﾞｲｽﾞの定理を用いて検査後の確率を計算する問題です｡検査前確率が80%(0.8)で､検査の感度が60%(0.6)､特異度が90%(0.9)であるとします｡\n\nﾍﾞｲｽﾞの定理に基づいて､陰性結果後の確率(後方確率)は以下の式で計算できます:\n\n\\[ p(\\text{病気}|\\text{陰性}) = \\", "explanation": "b: 0.72\n\nこの問題は､ﾍﾞｲｽﾞの定理を用いて検査後の確率を計算する問題です｡検査前確率が80%(0.8)で､検査の感度が60%(0.6)､特異度が90%(0.9)であるとします｡\n\nﾍﾞｲｽﾞの定理に基づいて､陰性結果後の確率(後方確率)は以下の式で計算できます:\n\n\\[ p(\\text{病気}|\\text{陰性}) = \\"}
+{"problem_id": "115B42", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B43", "prediction": "b: 低くなる｡\n\nこの患者の症状は､突然発症した頭痛､増悪していない､そしてこれまで経験した中で最悪の頭痛ではない(より強い頭痛を経験したことがある)という特徴があります｡これらの情報から､重篤な原因による頭痛の該当個数は0または1となります｡尤度比の表から､該当個数0の尤度比は0.1､該当個数1の尤度比は2.1です｡これらの尤度比は1未満または1", "explanation": "b: 低くなる｡\n\nこの患者の症状は､突然発症した頭痛､増悪していない､そしてこれまで経験した中で最悪の頭痛ではない(より強い頭痛を経験したことがある)という特徴があります｡これらの情報から､重篤な原因による頭痛の該当個数は0または1となります｡尤度比の表から､該当個数0の尤度比は0.1､該当個数1の尤度比は2.1です｡これらの尤度比は1未満または1"}
+{"problem_id": "115B44", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B45", "prediction": "d", "explanation": "d"}
+{"problem_id": "115B46", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B47", "prediction": "e", "explanation": "e"}
+{"problem_id": "115B48", "prediction": "b", "explanation": "b"}
+{"problem_id": "115B49", "prediction": "c", "explanation": "c"}
+{"problem_id": "115B50", "prediction": "b", "explanation": "b"}

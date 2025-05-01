@@ -1,0 +1,75 @@
+{"problem_id": "114F1", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F2", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F3", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F4", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F5", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F6", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F7", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F8", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F9", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F10", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F11", "prediction": "a: ① --------- 舌知覚 \nb: ② --------- 中耳腔換気\nc: ③ --------- 平衡覚\nd: ④ --------- 表情筋運動\ne: ⑤ --------- 聴覚 \n\n**解説:**\n\n* **①** 右側頭骨ctで示されているのは **内耳** です｡内耳は **舌知覚** を司ります｡\n* **②** 中耳腔は **鼓膜** と **内耳窓** の間にある空間で､ **中耳腔換気** を行", "explanation": "a: ① --------- 舌知覚 \nb: ② --------- 中耳腔換気\nc: ③ --------- 平衡覚\nd: ④ --------- 表情筋運動\ne: ⑤ --------- 聴覚 \n\n**解説:**\n\n* **①** 右側頭骨ctで示されているのは **内耳** です｡内耳は **舌知覚** を司ります｡\n* **②** 中耳腔は **鼓膜** と **内耳窓** の間にある空間で､ **中耳腔換気** を行"}
+{"problem_id": "114F12", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F13", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F14", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F15", "prediction": "この質問には､用具の写真が必要です｡写真がないため､回答できません｡", "explanation": "この質問には､用具の写真が必要です｡写真がないため､回答できません｡"}
+{"problem_id": "114F16", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F17", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F18", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F19", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F20", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F21", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F22", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F23", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F24", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F25", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F26", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F27", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "114F28", "prediction": "b, c", "explanation": "b, c"}
+{"problem_id": "114F29", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114F30", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "114F31", "prediction": "b, d", "explanation": "b, d"}
+{"problem_id": "114F32", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "114F33", "prediction": "a, c, d", "explanation": "a, c, d"}
+{"problem_id": "114F34", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "114F35", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F36", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F37", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F38", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F39", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F40", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F41", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F42", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F43", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F44", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F45", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F46", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F47", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F48", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F49", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F50", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F51", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F52", "prediction": "e", "explanation": "e"}
+{"problem_id": "114F53", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F54", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F55", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F56", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F57", "prediction": "d, e", "explanation": "d, e"}
+{"problem_id": "114F58", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "114F59", "prediction": "b, c, d", "explanation": "b, c, d"}
+{"problem_id": "114F60", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F61", "prediction": "d", "explanation": "d"}
+{"problem_id": "114F62", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "114F63", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F64", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F65", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F66", "prediction": "b", "explanation": "b"}
+{"problem_id": "114F67", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F68", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F69", "prediction": "a", "explanation": "a"}
+{"problem_id": "114F70", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F71", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "114F72", "prediction": "a, e", "explanation": "a, e"}
+{"problem_id": "114F73", "prediction": "a, c", "explanation": "a, c"}
+{"problem_id": "114F74", "prediction": "c", "explanation": "c"}
+{"problem_id": "114F75", "prediction": "1. **ﾌﾞﾄﾞｳ糖のｴﾈﾙｷﾞｰ量:** 1500ml × 15% × 4kcal/g = 900kcal\n2. **ｱﾐﾉ酸のｴﾈﾙｷﾞｰ量:** 1500ml × 2% × 4kcal/g = 120kcal\n3. **脂肪乳剤のｴﾈﾙｷﾞｰ量:** 100ml × 1.1kcal/ml = 110kcal\n4. **総ｴﾈﾙｷﾞｰ量:** 900kcal + 120kcal + 110kcal", "explanation": "1. **ﾌﾞﾄﾞｳ糖のｴﾈﾙｷﾞｰ量:** 1500ml × 15% × 4kcal/g = 900kcal\n2. **ｱﾐﾉ酸のｴﾈﾙｷﾞｰ量:** 1500ml × 2% × 4kcal/g = 120kcal\n3. **脂肪乳剤のｴﾈﾙｷﾞｰ量:** 100ml × 1.1kcal/ml = 110kcal\n4. **総ｴﾈﾙｷﾞｰ量:** 900kcal + 120kcal + 110kcal"}

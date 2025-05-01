@@ -1,0 +1,75 @@
+{"problem_id": "116D1", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D2", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D3", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D4", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D5", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D6", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D7", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D8", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D9", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D10", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D11", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116D12", "prediction": "b, c, d", "explanation": "b, c, d"}
+{"problem_id": "116D13", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "116D14", "prediction": "b, c, d", "explanation": "b, c, d"}
+{"problem_id": "116D15", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "116D16", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D17", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D18", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D19", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D20", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D21", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D22", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D23", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D24", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D25", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D26", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D27", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D28", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D29", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D30", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D31", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D32", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D33", "prediction": "d: 新鮮凍結血漿投与\n\nこの症例では､新生児の突然の意識障害とけいれん､大泉門の膨隆､対光反射の遅延､肝の腫大､血液検査でpt-inrとapttの延長､総ﾋﾞﾘﾙﾋﾞﾝと直接ﾋﾞﾘﾙﾋﾞﾝの上昇､γ-gtの上昇が見られます｡これらの所見から､新生児脳室内出血や脳下出血が疑われます｡特に､pt-inrとap", "explanation": "d: 新鮮凍結血漿投与\n\nこの症例では､新生児の突然の意識障害とけいれん､大泉門の膨隆､対光反射の遅延､肝の腫大､血液検査でpt-inrとapttの延長､総ﾋﾞﾘﾙﾋﾞﾝと直接ﾋﾞﾘﾙﾋﾞﾝの上昇､γ-gtの上昇が見られます｡これらの所見から､新生児脳室内出血や脳下出血が疑われます｡特に､pt-inrとap"}
+{"problem_id": "116D34", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D35", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D36", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D37", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D38", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D39", "prediction": "d: 50%", "explanation": "d: 50%"}
+{"problem_id": "116D40", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D41", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D42", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D43", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D44", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D45", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D46", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D47", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D48", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D49", "prediction": "e: 劇症肝炎", "explanation": "e: 劇症肝炎"}
+{"problem_id": "116D50", "prediction": "c: 活性型葉酸\n\nﾒﾄﾄﾚｷｻｰﾄは葉酸代謝を阻害するため､その副作用として骨髄抑制や粘膜障害(口腔粘膜びらんなど)が起こることがあります｡これらの副作用を軽減するために､活性型葉酸(ﾚﾎﾞﾚｵｷｻﾁﾝ)の投与が行われることが多いです｡この症例では､ﾒﾄﾄﾚｷｻｰﾄの副作用が疑われ､既にﾒﾄﾄﾚｷｻｰﾄを中止し､感染症の対策として抗菌薬を投与しているため", "explanation": "c: 活性型葉酸\n\nﾒﾄﾄﾚｷｻｰﾄは葉酸代謝を阻害するため､その副作用として骨髄抑制や粘膜障害(口腔粘膜びらんなど)が起こることがあります｡これらの副作用を軽減するために､活性型葉酸(ﾚﾎﾞﾚｵｷｻﾁﾝ)の投与が行われることが多いです｡この症例では､ﾒﾄﾄﾚｷｻｰﾄの副作用が疑われ､既にﾒﾄﾄﾚｷｻｰﾄを中止し､感染症の対策として抗菌薬を投与しているため"}
+{"problem_id": "116D51", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D52", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D53", "prediction": "d: ﾍﾊﾟﾘﾝ投与\n\nこの症例では､術後3日目に起きた心窩部の違和感､発汗､悪心､食欲不振などの症状､そしてspo2の低下が見られ､これらの症状は深部静脈血栓症(dvt)による肺塞栓症の可能性が高いことを示唆しています｡肺塞栓症の初期管理として､抗凝固療法(ﾍﾊﾟﾘﾝ投与)が行われます｡これは血栓のさらなる形成を防ぎ､既存の血栓の溶解を促進します｡", "explanation": "d: ﾍﾊﾟﾘﾝ投与\n\nこの症例では､術後3日目に起きた心窩部の違和感､発汗､悪心､食欲不振などの症状､そしてspo2の低下が見られ､これらの症状は深部静脈血栓症(dvt)による肺塞栓症の可能性が高いことを示唆しています｡肺塞栓症の初期管理として､抗凝固療法(ﾍﾊﾟﾘﾝ投与)が行われます｡これは血栓のさらなる形成を防ぎ､既存の血栓の溶解を促進します｡"}
+{"problem_id": "116D54", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D55", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D56", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D57", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D58", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D59", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D60", "prediction": "d: 組織生検\n\nこの症例では､右上腕近位部に硬い腫瘤があり､徐々に増大し､運動時痛が生じていることから､腫瘍性疾患の可能性が高いと考えられます｡特に､単純ｴｯｸｽ線写真とmriの所見から､骨腫瘍の可能性が強く示唆されます｡そのため､確定診断のために組織生検を行うことが最も適切な対応です｡", "explanation": "d: 組織生検\n\nこの症例では､右上腕近位部に硬い腫瘤があり､徐々に増大し､運動時痛が生じていることから､腫瘍性疾患の可能性が高いと考えられます｡特に､単純ｴｯｸｽ線写真とmriの所見から､骨腫瘍の可能性が強く示唆されます｡そのため､確定診断のために組織生検を行うことが最も適切な対応です｡"}
+{"problem_id": "116D61", "prediction": "e", "explanation": "e"}
+{"problem_id": "116D62", "prediction": "d", "explanation": "d"}
+{"problem_id": "116D63", "prediction": "a", "explanation": "a"}
+{"problem_id": "116D64", "prediction": "b", "explanation": "b"}
+{"problem_id": "116D65", "prediction": "c", "explanation": "c"}
+{"problem_id": "116D66", "prediction": "c,d", "explanation": "c,d"}
+{"problem_id": "116D67", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "116D68", "prediction": "c, e", "explanation": "c, e"}
+{"problem_id": "116D69", "prediction": "a, d", "explanation": "a, d"}
+{"problem_id": "116D70", "prediction": "b, e", "explanation": "b, e"}
+{"problem_id": "116D71", "prediction": "a, b", "explanation": "a, b"}
+{"problem_id": "116D72", "prediction": "a, b, c", "explanation": "a, b, c"}
+{"problem_id": "116D73", "prediction": "a, b, e", "explanation": "a, b, e"}
+{"problem_id": "116D74", "prediction": "a, b, d", "explanation": "a, b, d"}
+{"problem_id": "116D75", "prediction": "a, b, e", "explanation": "a, b, e"}
